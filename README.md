@@ -1,10 +1,14 @@
 # CleanBlock
 
-Adblock filter lists for Clean Website
+CleanBlock is an Adblock filter list for Clean Website
+
+> “It's not always that we need to do more but rather that we need to focus on less.” ― Nathan W. Morris
 
 ## How to Use
 
-Get the raw adress from the list below, and add it to your ad blocker
+Get the raw adress from the list below, then add it to your Adblock
+
+(The release version will have a one click URL adress)
 
 ## Support Website
 
