@@ -1,6 +1,8 @@
+[Adblock Plus 2.0]
 ! Title: CleanBlock filters – bilibili
-! Address: https://raw.githubusercontent.com/sayomelu/CleanBlock/master/Other/Inoreader
-! GitHub: https://github.com/sayomelu/CleanBlock
+! Homepage: https://github.com/sayomelu/CleanBlock
+! Expires: 7 days
+! Version: 2019.1.14
 !
 ! -----Homepage-----
 inoreader.com###below_tree

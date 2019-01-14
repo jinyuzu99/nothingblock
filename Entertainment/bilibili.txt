@@ -1,8 +1,10 @@
+[Adblock Plus 2.0]
 ! Title: CleanBlock filters – bilibili
-! GitHub: https://github.com/sayomelu/CleanBlock
-! Address: https://raw.githubusercontent.com/sayomelu/CleanBlock/master/Entertainment/bilibili.txt
+! Homepage: https://github.com/sayomelu/CleanBlock
+! Expires: 7 days
+! Version: 2019.1.14
 !
-! -----Homepage-----
+! -----Homepage----- !
 bilibili.com##.elevator-module.report-wrap-module
 bilibili.com##.icon.go-top
 bilibili.com##.mobile.nav-item
@@ -29,15 +31,15 @@ bilibili.com###bili_fashion
 bilibili.com###bili_teleplay
 bilibili.com##.bangumi-module
 !
-! -----Player-----
+! -----Player----- !
 bilibili.com##.bilibili-player-video-message
 !
-! -----Feed-----
+! -----Feed----- !
 t.bilibili.com##.f-lefright-panel
 t.bilibili.com##.back-top
 ||s2.hdslb.com/bfs/static/blive/blfe-dynamic-web/static/img/*
 !
-! -----Live-----
+! -----Live----- !
 live.bilibili.com###player-header
 live.bilibili.com##.video-cannot-autoplay-tips
 live.bilibili.com##.haruna-canvas
@@ -46,9 +48,9 @@ live.bilibili.com##.idol-show
 live.bilibili.com##.hot-list
 live.bilibili.com##.link-footer
 !
-! -----Read-----
+! -----Read----- !
 bilibili.com##.up-article-list-block
 bilibili.com##.on.right-side-bar
 !
-! -----Space-----
+! -----Space----- !
 space.bilibili.com##.to-top
