@@ -6,7 +6,7 @@ CleanBlock is an Adblock filter list for Clean Website
 
 ## How to Use
 
-Get the raw adress from the list below, then add it to your Adblock
+Get the raw address from the list below, then add it to your Adblock
 
 (The release version will have a one click URL adress)
 
