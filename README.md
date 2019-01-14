@@ -1,7 +1,5 @@
 # CleanBlock
 
-CleanBlock is an Adblock filter list for Clean Website
-
 > “It's not always that we need to do more but rather that we need to focus on less.” ― Nathan W. Morris
 
 ## How to Use
