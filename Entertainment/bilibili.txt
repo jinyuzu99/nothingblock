@@ -1,4 +1,3 @@
-[Adblock Plus 2.0]
 ! Title: CleanBlock filters – bilibili
 ! Homepage: https://github.com/sayomelu/CleanBlock
 ! Expires: 7 days
