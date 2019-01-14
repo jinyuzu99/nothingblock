@@ -1,14 +1,14 @@
-[Adblock Plus 2.0]
+[Adblock Plus 3.0]
 ! Title: CleanBlock filters – bilibili
 ! Homepage: https://github.com/sayomelu/CleanBlock
 ! Expires: 7 days
 ! Version: 2019.1.14
 !
-! -----Homepage-----
+! -----Homepage----- !
 inoreader.com###below_tree
 inoreader.com###sb_rp_upgrade
 !
-! -----Ad-----
+! -----Ad----- !
 inoreader.com##.ad_title
 inoreader.com###sinner_container
 inoreader.com##.adb_left
