@@ -43,7 +43,3 @@ detail.tmall.com##.tm-qrcode-icon
 detail.tmall.com###J_TabRecommends
 detail.tmall.com##.tm-Right-Recommend
 detail.tmall.com###tm-section-lidi-container
-
-
-
-
