@@ -1,0 +1,12 @@
+! Title: CleanBlock filters – bilibili
+! Address: https://raw.githubusercontent.com/sayomelu/CleanBlock/master/Other/Inoreader
+! GitHub: https://github.com/sayomelu/CleanBlock
+
+! -----Homepage-----
+inoreader.com###below_tree
+inoreader.com###sb_rp_upgrade
+
+! -----Ad-----
+inoreader.com##.ad_title
+inoreader.com###sinner_container
+www.inoreader.com##.adb_left
