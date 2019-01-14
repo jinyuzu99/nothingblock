@@ -1,6 +1,6 @@
 ! Title: CleanBlock filters – bilibili
 ! Address: https://raw.githubusercontent.com/sayomelu/CleanBlock/master/Entertainment/bilibili.txt
-! GitHub: https://github.com/sayomelu/CleanBlock
+! https://github.com/sayomelu/CleanBlock
 
 ! -----Homepage-----
 bilibili.com##.elevator-module.report-wrap-module
@@ -35,6 +35,7 @@ bilibili.com##.bilibili-player-video-message
 ! -----Feed-----
 t.bilibili.com##.f-lefright-panel
 t.bilibili.com##.back-top
+||s2.hdslb.com/bfs/static/blive/blfe-dynamic-web/static/img/$image
 
 ! -----Live-----
 live.bilibili.com###player-header
