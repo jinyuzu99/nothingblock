@@ -26,6 +26,6 @@ Get the raw address from the list below, then add it to your Adblock
 
 ## Support
 
-Create an [issue](https://github.com/sayomelu/CleanBlock/issues/new) on GitHub to ask for support
+Create an [issue](https://github.com/sayomelu/CleanBlock/issues/new) on GitHub to ask for support, or chat with other users on [Telegram Group](t.me/CleanBlockGroup)
 
 ### Build by Sayo with ❤️
