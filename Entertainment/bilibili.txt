@@ -1,7 +1,7 @@
 ! Title: CleanBlock filters – bilibili
+! GitHub: https://github.com/sayomelu/CleanBlock
 ! Address: https://raw.githubusercontent.com/sayomelu/CleanBlock/master/Entertainment/bilibili.txt
-! https://github.com/sayomelu/CleanBlock
-
+!
 ! -----Homepage-----
 bilibili.com##.elevator-module.report-wrap-module
 bilibili.com##.icon.go-top
@@ -28,15 +28,15 @@ bilibili.com###bili_ad
 bilibili.com###bili_fashion
 bilibili.com###bili_teleplay
 bilibili.com##.bangumi-module
-
+!
 ! -----Player-----
 bilibili.com##.bilibili-player-video-message
-
+!
 ! -----Feed-----
 t.bilibili.com##.f-lefright-panel
 t.bilibili.com##.back-top
-||s2.hdslb.com/bfs/static/blive/blfe-dynamic-web/static/img/$image
-
+||s2.hdslb.com/bfs/static/blive/blfe-dynamic-web/static/img/*
+!
 ! -----Live-----
 live.bilibili.com###player-header
 live.bilibili.com##.video-cannot-autoplay-tips
@@ -45,10 +45,10 @@ live.bilibili.com##.side-bar-cntr
 live.bilibili.com##.idol-show
 live.bilibili.com##.hot-list
 live.bilibili.com##.link-footer
-
+!
 ! -----Read-----
 bilibili.com##.up-article-list-block
 bilibili.com##.on.right-side-bar
-
+!
 ! -----Space-----
 space.bilibili.com##.to-top
