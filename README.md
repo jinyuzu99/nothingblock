@@ -4,7 +4,7 @@
 
 ## How to Use
 
-[Add NothingBlock](https://raw.githubusercontent.com/sayomelu/NothingBlock/develop/add_nothingblock.html), or get the raw address from the list below, then add it to your Adblock
+Add this [URL](https://raw.githubusercontent.com/sayomelu/NothingBlock/develop/add_nothingblock.html) to your ad blocker
 
 ## Websites
 
