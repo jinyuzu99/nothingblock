@@ -1,0 +1,72 @@
+[Adblock Plus 3.0]
+! Title: NothingBlock filters
+! Homepage: https://github.com/sayomelu/NothingBlock
+! Expires: 7 days
+! Version: 2019.1.14
+!
+! -----Entertainment---- !
+    ! -----bilibili----- !
+        ! -----Homepage----- !
+            www.bilibili.com##.icon.go-top
+            www.bilibili.com##.mobile.nav-item
+            www.bilibili.com##.nav-gif.gif-menu
+            www.bilibili.com##.bili-footer.footer
+            www.bilibili.com##.elevator-module.report-wrap-module
+
+        ! -----Homepage Section----- !
+            www.bilibili.com###special_recommend
+            www.bilibili.com###home_popularize
+            www.bilibili.com###bili_douga
+            !www.bilibili.com##.bangumi-module
+            www.bilibili.com###bili_guochuang
+            www.bilibili.com##.clearfix.live-module
+            www.bilibili.com###bili_music
+            www.bilibili.com###bili_dance
+            www.bilibili.com###bili_game
+            www.bilibili.com###bili_technology
+            www.bilibili.com###bili_digital
+            www.bilibili.com###bili_life
+            www.bilibili.com###bili_documentary
+            www.bilibili.com###bili_kichiku
+            www.bilibili.com###bili_ent
+            www.bilibili.com###bili_movie
+            www.bilibili.com###bili_cinephile
+            www.bilibili.com###bili_ad
+            www.bilibili.com###bili_fashion
+            www.bilibili.com###bili_teleplay
+
+        ! -----Player----- !
+            bilibili.com##.bilibili-player-video-message
+
+        ! -----Feed----- !
+            t.bilibili.com##.f-lefright-panel
+            t.bilibili.com##.back-top
+            ||s2.hdslb.com/bfs/static/blive/blfe-dynamic-web/static/img/*
+
+        ! -----Live----- !
+            live.bilibili.com###player-header
+            live.bilibili.com##.video-cannot-autoplay-tips
+            live.bilibili.com##.haruna-canvas
+            live.bilibili.com##.side-bar-cntr
+            live.bilibili.com##.idol-show
+            live.bilibili.com##.hot-list
+            live.bilibili.com##.link-footer
+
+        ! -----Read----- !
+            bilibili.com##.up-article-list-block
+            bilibili.com##.on.right-side-bar
+
+        ! -----Space----- !
+            space.bilibili.com##.to-top
+            
+
+! -----News---- !
+    ! -----Inoreader---- !
+        ! -----Homepage----- !
+            inoreader.com###below_tree
+            inoreader.com###sb_rp_upgrade
+
+        ! -----Ad----- !
+            inoreader.com##.ad_title
+            inoreader.com###sinner_container
+            inoreader.com##.adb_left
