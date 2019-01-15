@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/sayomelu/NothingBlock
 ! Expires: 7 days
 ! Version: 2019.1.14
-!
+
 ! -----Entertainment---- !
     ! -----bilibili----- !
         ! -----Homepage----- !

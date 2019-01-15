@@ -4,7 +4,7 @@
 
 ## How to Use
 
-[Add NothingBlock](abp:subscribe?location=https://raw.githubusercontent.com/sayomelu/NothingBlock/develop/NothingBlock.txt&title=NothingBlock), or get the raw address from the list below, then add it to your Adblock
+[Add NothingBlock](https://raw.githubusercontent.com/sayomelu/NothingBlock/develop/add_nothingblock.html), or get the raw address from the list below, then add it to your Adblock
 
 ## Websites
 
