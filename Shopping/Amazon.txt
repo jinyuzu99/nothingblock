@@ -1,0 +1,14 @@
+! Homepage
+    amazon.com###nav-upnav
+    amazon.com##.nav-prime-try
+    amazon.com###nav-link-prime
+    amazon.com###nav-orders
+    amazon.com###main-content
+    amazon.com###rhf
+! Item
+    amazon.com###tell-a-friend
+    amazon.com###feature-bullets
+    amazon.com###atfRight5_feature_div
+    amazon.com###navFooter
+    amazon.com###issuancePriceblockAmabot_feature_div
+    amazon.com###alternativeOfferEligibilityMessaging_feature_div
