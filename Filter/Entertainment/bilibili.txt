@@ -26,16 +26,13 @@
             bilibili.com###bili_ad
             bilibili.com###bili_fashion
             bilibili.com###bili_teleplay
-        
     ! Player
         bilibili.com##.bilibili-player-video-message
         bilibili.com###live_recommand_report
-        
     ! Feed
         t.bilibili.com##.f-lefright-panel
         t.bilibili.com##.back-top
         ||s2.hdslb.com/bfs/static/blive/blfe-dynamic-web/static/img/*
-        
     ! Live
         live.bilibili.com###player-header
         live.bilibili.com##.video-cannot-autoplay-tips
@@ -44,10 +41,8 @@
         live.bilibili.com##.idol-show
         live.bilibili.com##.hot-list
         live.bilibili.com##.link-footer
-        
     ! Read
         bilibili.com##.up-article-list-block
         bilibili.com##.on.right-side-bar
-        
     ! Space
         space.bilibili.com##.to-top

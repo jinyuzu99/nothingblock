@@ -8,7 +8,6 @@
         jd.com###service-2017
         jd.com###GLOBAL_FOOTER
         jd.com###J-global-toolbar
-
     ! Homepage
         www.jd.com##.floors
         www.jd.com##.joytop
@@ -30,7 +29,7 @@
         list.jd.com##.spu-link
         list.jd.com##.price-plus-1
         list.jd.com##.w:nth-of-type(6)
-    !Item
+    ! Item
         item.jd.com##.aside
         item.jd.com###J_atmosphere_banner
         item.jd.com###J-summary-openPlusGift
