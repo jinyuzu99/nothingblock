@@ -4,8 +4,8 @@
 
 NothingBlock blocks nothing important to have "nothing more to take away".
 
-![NothingBlock on Amazon.com](Asset/NothingBlock_Amazon.com.png)
-![NothingBlock on Taobao](Asset/NothingBlock_Taobao.png)
+![NothingBlock on Amazon.com](Asset/NothingBlock_Amazon.com.jpg)
+![NothingBlock on Taobao](Asset/NothingBlock_Taobao.jpg)
 
 ## How to Use
 
