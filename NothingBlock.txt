@@ -180,6 +180,8 @@
             amazon.com###alternativeOfferEligibilityMessaging_feature_div
     ! JD
         ! All
+            jd.com##.s-show
+            jd.com##.jTdCode
             jd.com###footmark
             jd.com###nav-2014
             jd.com###footer-2017
