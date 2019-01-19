@@ -13,7 +13,7 @@ Add [this URL](https://raw.githubusercontent.com/sayomelu/NothingBlock/develop/N
 
 If you want to add a specific site, you can copy the filter and paste it to your filter list.
 
-***
+---
 
 ## Supported Website
 
@@ -34,7 +34,7 @@ If you want to add a specific site, you can copy the filter and paste it to your
 * [Alibaba](Shopping/Taobao.txt) (2019.1.19)
 * [Amazon](Shopping/Amazon.txt) (2019.1.14)
 
-***
+---
 
 ## Support
 
