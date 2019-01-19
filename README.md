@@ -9,7 +9,7 @@ NothingBlock removes nothing important to have "nothing more to take away".
 
 ## How to Use
 
-Add [this URL](https://raw.githubusercontent.com/sayomelu/NothingBlock/develop/NothingBlock.txt) to your ad blocker to use all filter lists.
+Add `https://raw.githubusercontent.com/sayomelu/NothingBlock/develop/NothingBlock.txt` to your ad blocker to use all filter lists.
 
 If you want to add a specific site, you can copy the filter and paste it to your filter list.
 
