@@ -1,0 +1,86 @@
+! Alibaba
+    ! Taobao
+        ! All
+            taobao.com##.qr
+            taobao.com##.footer
+            taobao.com##.follow-mobile
+            taobao.com###J_SiteFooter
+            taobao.com###J_SiteNavSeller
+            taobao.com###J_SiteNavMobile
+            taobao.com###J_SiteNavSitemap
+            taobao.com###J_SiteNavCatalog
+            taobao.com###J_SiteNavMytaobao
+            taobao.com##.superbanner-inner
+            taobao.com##.skin-box-content
+            taobao.com##.clearfix.J_SearchFt.search-ft
+        ! Homepage (Add ! to enable a section)
+            www.taobao.com##.logo
+            www.taobao.com##.layer-inner
+            www.taobao.com##.decorations-item
+            www.taobao.com##.J_Module.tbh-app
+            www.taobao.com##.J_Headline.headline
+            www.taobao.com##.J_Module.tbh-headline
+            www.taobao.com##.J_Module.tbh-fixedtool
+            ! www.taobao.com##.clearfix.screen-outer
+        ! Login
+            login.taobao.com##.error.login-msg
+        ! iTaobao
+            i.taobao.com##.mt-ml-c2
+            i.taobao.com###J_MtFixInBottom
+            i.taobao.com##.m-guess-you-like
+            i.taobao.com##.m-someone-like-you
+        ! Search
+            s.taobao.com##.tb-side
+            s.taobao.com##.tb-footer
+            s.taobao.com##.sku-panel
+            s.taobao.com##.g-clearfix.row-4.row
+        ! Cart
+            cart.taobao.com###interested
+        ! Page
+            pages.tmall.com##.tb-module
+        ! Item
+            item.taobao.com##.tb-shop
+            item.taobao.com##.tb-doctor
+            item.taobao.com##.tb-qrcode-tool
+            item.taobao.com##.tb-shop-search
+            item.taobao.com###J_Toolbar
+            item.taobao.com##.J_BigProm
+            item.taobao.com###J_PromoType
+
+    ! Tmall
+        ! All
+            tmall.*###J_100
+            tmall.*###J_MUIMallbar
+            tmall.com###J_FloorCNXH
+            tmall.com###footer
+            tmall.com##.hot-query
+            tmall.com##.s-hot-query
+            tmall.com##.sn-mobile
+            tmall.com##.skin-box-content
+            tmall.com##.mui-mbarp-qrcode
+            tmall.com##.mui-mbar-tabs-mask
+        ! Homepage (Add ! to enable a section)
+            www.tmall.com##.j_top.top-con
+            www.tmall.com##.side-bg
+            www.tmall.com##.activity-bg
+            ! www.tmall.com##.category-con.j_category
+        ! Item
+            detail.tmall.com##.shopwt
+            detail.tmall.com##.col-sub
+            detail.tmall.com###mall-banner
+            detail.tmall.com##.tm-layout
+            detail.tmall.com##.tm-qrcode-icon
+            detail.tmall.com###J_TabRecommends
+            detail.tmall.com###official-remind
+            detail.tmall.com##.tm-Right-Recommend
+            detail.tmall.com###tm-section-lidi-container
+        ! Chaoshi
+            chaoshi.tmall.com##.shortcut
+            chaoshi.tmall.com###J_config
+            chaoshi.tmall.com##.j_MostTop
+            chaoshi.tmall.com##.market-feature
+            chaoshi.tmall.com##.mui-global-footer-bottom-banner
+
+    ! Juhuasuan (need work)
+
+    ! Fliggy (need work)
