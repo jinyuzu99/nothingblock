@@ -27,22 +27,22 @@
         bilibili.com###bili_fashion
         bilibili.com###bili_teleplay
     ! Player
-        bilibili.com##.bilibili-player-video-message
         bilibili.com###live_recommand_report
+        bilibili.com##.bilibili-player-video-message
     ! Feed
-        t.bilibili.com##.f-lefright-panel
         t.bilibili.com##.back-top
+        t.bilibili.com##.f-lefright-panel
         ||s2.hdslb.com/bfs/static/blive/blfe-dynamic-web/static/img/*
     ! Live
-        live.bilibili.com###player-header
-        live.bilibili.com##.video-cannot-autoplay-tips
-        live.bilibili.com##.haruna-canvas
-        live.bilibili.com##.side-bar-cntr
-        live.bilibili.com##.idol-show
         live.bilibili.com##.hot-list
+        live.bilibili.com##.idol-show
         live.bilibili.com##.link-footer
+        live.bilibili.com##.side-bar-cntr
+        live.bilibili.com###player-header
+        live.bilibili.com##.haruna-canvas
+        live.bilibili.com##.video-cannot-autoplay-tips
     ! Read
-        bilibili.com##.up-article-list-block
         bilibili.com##.on.right-side-bar
+        bilibili.com##.up-article-list-block
     ! Space
         space.bilibili.com##.to-top

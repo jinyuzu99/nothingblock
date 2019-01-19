@@ -33,23 +33,23 @@
         bilibili.com###bili_fashion
         bilibili.com###bili_teleplay
     ! Player
+        bilibili.com###live_recommand_report
         bilibili.com##.bilibili-player-video-message
-        bilibili.com###live_recommand_report           
     ! Feed
-        t.bilibili.com##.f-lefright-panel
         t.bilibili.com##.back-top
-        ||s2.hdslb.com/bfs/static/blive/blfe-dynamic-web/static/img/*            
+        t.bilibili.com##.f-lefright-panel
+        ||s2.hdslb.com/bfs/static/blive/blfe-dynamic-web/static/img/*
     ! Live
-        live.bilibili.com###player-header
-        live.bilibili.com##.video-cannot-autoplay-tips
-        live.bilibili.com##.haruna-canvas
-        live.bilibili.com##.side-bar-cntr
-        live.bilibili.com##.idol-show
         live.bilibili.com##.hot-list
-        live.bilibili.com##.link-footer            
+        live.bilibili.com##.idol-show
+        live.bilibili.com##.link-footer
+        live.bilibili.com##.side-bar-cntr
+        live.bilibili.com###player-header
+        live.bilibili.com##.haruna-canvas
+        live.bilibili.com##.video-cannot-autoplay-tips
     ! Read
+        bilibili.com##.on.right-side-bar
         bilibili.com##.up-article-list-block
-        bilibili.com##.on.right-side-bar           
     ! Space
         space.bilibili.com##.to-top
 
@@ -58,15 +58,15 @@
         inoreader.com###below_tree
         inoreader.com###sb_rp_upgrade           
     ! Ad
+        inoreader.com##.adb_left
         inoreader.com##.ad_title
         inoreader.com###sinner_container
-        inoreader.com##.adb_left
 
 ! Evernote
     ! Web client
         evernote.com###qa-SIDEBAR_UPGRADE_BUTTON
 
-    ! Amazon.cn
+! Amazon.cn
         ! Homepage
             amazon.cn###rhf
             amazon.cn###ctads
@@ -105,7 +105,7 @@
         amazon.com###alternativeOfferEligibilityMessaging_feature_div
 
 ! JD
-    ! All
+    ! Main
         jd.com##.s-show
         jd.com##.jTdCode
         jd.com###footmark
@@ -141,7 +141,7 @@
         item.jd.com###J-summary-openPlusGift
 
 ! Taobao
-    ! All
+    ! Main
         taobao.com##.qr
         taobao.com##.footer
         taobao.com##.follow-mobile

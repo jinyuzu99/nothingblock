@@ -1,5 +1,5 @@
 ! JD
-    ! All
+    ! Main
         jd.com##.s-show
         jd.com##.jTdCode
         jd.com###footmark

@@ -1,5 +1,5 @@
 ! Taobao
-    ! All
+    ! Main
         taobao.com##.qr
         taobao.com##.footer
         taobao.com##.follow-mobile
@@ -13,16 +13,16 @@
         taobao.com##.skin-box-content
         taobao.com##.clearfix.J_SearchFt.search-ft
         tmall.*###J_100
+        tmall.com###footer
+        tmall.com##.sn-mobile
+        tmall.com##.hot-query
         tmall.*###J_MUIMallbar
         tmall.com###J_FloorCNXH
-        tmall.com###footer
-        tmall.com##.hot-query
         tmall.com##.s-hot-query
-        tmall.com##.sn-mobile
         tmall.com##.skin-box-content
         tmall.com##.mui-mbarp-qrcode
         tmall.com##.mui-mbar-tabs-mask
-    ! Homepage (Add ! to enable a section)
+    ! Homepage
         www.taobao.com##.logo
         www.taobao.com##.layer-inner
         www.taobao.com##.decorations-item
@@ -30,11 +30,9 @@
         www.taobao.com##.J_Headline.headline
         www.taobao.com##.J_Module.tbh-headline
         www.taobao.com##.J_Module.tbh-fixedtool
-        ! www.taobao.com##.clearfix.screen-outer
-        www.tmall.com##.j_top.top-con
         www.tmall.com##.side-bg
         www.tmall.com##.activity-bg
-        ! www.tmall.com##.category-con.j_category
+        www.tmall.com##.j_top.top-con
     ! Login
         login.taobao.com##.error.login-msg
     ! iTaobao
@@ -53,16 +51,16 @@
         pages.tmall.com##.tb-module
     ! Item
         item.taobao.com##.tb-shop
-        item.taobao.com##.tb-doctor
-        item.taobao.com##.tb-qrcode-tool
-        item.taobao.com##.tb-shop-search
-        item.taobao.com###J_Toolbar
-        item.taobao.com##.J_BigProm
-        item.taobao.com###J_PromoType
         detail.tmall.com##.shopwt
         detail.tmall.com##.col-sub
-        detail.tmall.com###mall-banner
+        item.taobao.com##.tb-doctor
+        item.taobao.com###J_Toolbar
+        item.taobao.com##.J_BigProm
         detail.tmall.com##.tm-layout
+        item.taobao.com###J_PromoType
+        detail.tmall.com###mall-banner
+        item.taobao.com##.tb-qrcode-tool
+        item.taobao.com##.tb-shop-search
         detail.tmall.com##.tm-qrcode-icon
         detail.tmall.com###J_TabRecommends
         detail.tmall.com###official-remind
