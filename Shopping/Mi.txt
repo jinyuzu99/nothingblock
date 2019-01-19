@@ -1,8 +1,9 @@
-! Homepage
-    mi.com##.flags
-    mi.com##.bar-s
-    mi.com##.home-banner-box
-    mi.com##.home-main.page-main
-    mi.com##.xm-carousel-container
-    mi.com##.site-info
-    mi.com##.site-footer
+! Mi
+    ! Homepage
+        mi.com##.flags
+        mi.com##.bar-s
+        mi.com##.home-banner-box
+        mi.com##.home-main.page-main
+        mi.com##.xm-carousel-container
+        mi.com##.site-info
+        mi.com##.site-footer
