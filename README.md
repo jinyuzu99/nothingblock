@@ -32,7 +32,7 @@ If you want to add a specific site, you can copy the filter and paste it to your
 ### Shopping
 
 * [Alibaba](Filter/Shopping/Taobao.txt) (2019.1.19)
-* [Amazon](Filter/Shopping/Amazon.txt) (2019.1.14)
+* [Amazon](Filter/Shopping/Amazon.com.txt) (2019.1.14)
 
 ---
 
