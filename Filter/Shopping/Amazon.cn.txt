@@ -1,0 +1,21 @@
+! Amazon.cn
+    ! Homepage
+        amazon.cn###rhf
+        amazon.cn###ctads
+        amazon.cn###navFooter
+        amazon.cn###nav-swmslot
+        amazon.cn##.nav-prime-try
+        amazon.cn###nav-link-prime
+        amazon.cn###gw-content-grid
+    ! Item
+        amazon.cn##.small
+        amazon.cn###hqpWrapper
+        amazon.cn###adv-float-div
+        amazon.cn###detail-ilm_div
+        amazon.cn###recentlyViewed
+        amazon.cn###hero-quick-promo
+        amazon.cn##.navFooterDLicense
+        amazon.cn###kcpApp_feature_div
+        amazon.cn###dp > table:nth-of-type(1)
+        amazon.cn###tellAFriendJumpbar_feature_div
+        amazon.cn###sims-consolidated-2_feature_div
