@@ -28,6 +28,7 @@
     
 ! Player
     bilibili.com##.bilibili-player-video-message
+    bilibili.com###live_recommand_report
     
 ! Feed
     t.bilibili.com##.f-lefright-panel
