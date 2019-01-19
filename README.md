@@ -2,7 +2,7 @@
 
 > “You know you've achieved perfection in design, not when you have nothing more to add, but when you have nothing more to take away.” ― Antoine de Saint-Exupéry
 
-NothingBlock removes nothing important to have "nothing more to take away".
+NothingBlock blocks nothing important to have "nothing more to take away".
 
 ![NothingBlock on Amazon.com](Asset/NothingBlock_Amazon.com.png)
 ![NothingBlock on Taobao](Asset/NothingBlock_Taobao.png)
