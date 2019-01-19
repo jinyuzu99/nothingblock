@@ -9,9 +9,9 @@ NothingBlock blocks nothing important to have "nothing more to take away".
 
 ## How to Use
 
-Add `https://raw.githubusercontent.com/sayomelu/NothingBlock/develop/NothingBlock.txt` to your ad blocker to use all filter lists.
+Add `https://raw.githubusercontent.com/sayomelu/NothingBlock/develop/NothingBlock.txt` to your [ad blocker](https://bing.com/search?q=ad+blocker) to use all filter lists.
 
-If you want to add a specific site, you can copy the filter and paste it to your filter list.
+If you want to add a specific site, you can copy the filter and paste it to your [ad blocker](https://bing.com/search?q=ad+blocker) filter list.
 
 ---
 
@@ -19,20 +19,20 @@ If you want to add a specific site, you can copy the filter and paste it to your
 
 ### Entertainment
 
-* [bilibili](Entertainment/bilibili.txt) (2019.1.19)
+* [bilibili](Filter/Entertainment/bilibili.txt) (2019.1.19)
 
 ### News
 
-* [Inoreader](News/Inoreader) (2019.1.14)
+* [Inoreader](Filter/News/Inoreader) (2019.1.14)
 
 ### Productivity
 
-* [Evernote](Productivity/Evernote) (2019.1.14)
+* [Evernote](Filter/Productivity/Evernote) (2019.1.14)
 
 ### Shopping
 
-* [Alibaba](Shopping/Taobao.txt) (2019.1.19)
-* [Amazon](Shopping/Amazon.txt) (2019.1.14)
+* [Alibaba](Filter/Shopping/Taobao.txt) (2019.1.19)
+* [Amazon](Filter/Shopping/Amazon.txt) (2019.1.14)
 
 ---
 
