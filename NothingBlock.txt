@@ -211,13 +211,3 @@
             item.jd.com##.aside
             item.jd.com###J_atmosphere_banner
             item.jd.com###J-summary-openPlusGift
-
-    ! Mi
-        ! Homepage
-            mi.com##.flags
-            mi.com##.bar-s
-            mi.com##.home-banner-box
-            mi.com##.home-main.page-main
-            mi.com##.xm-carousel-container
-            mi.com##.site-info
-            mi.com##.site-footer
