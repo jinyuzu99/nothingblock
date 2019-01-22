@@ -1,11 +1,10 @@
 ! Amap
-    ! Map
-        amap.com###citybox
-        amap.com##.amap-logo
-        amap.com##.red-point
-        amap.com##.amap-copyright
-        amap.com###amap-result-banner
-        amap.com##.no.placetools_claim
-        amap.com##.poi-sendcar.send2car
-        amap.com##.item.wumai.layer_item
-        amap.com##.notfull.item.fullscreen.tool_item
+    amap.com###citybox
+    amap.com##.amap-logo
+    amap.com##.red-point
+    amap.com##.amap-copyright
+    amap.com###amap-result-banner
+    amap.com##.no.placetools_claim
+    amap.com##.poi-sendcar.send2car
+    amap.com##.item.wumai.layer_item
+    amap.com##.notfull.item.fullscreen.tool_item
