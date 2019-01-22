@@ -9,7 +9,7 @@ NothingBlock blocks nothing important to have "nothing more to take away" on sup
 
 ## How to Use
 
-Add `https://raw.githubusercontent.com/sayomelu/NothingBlock/NothingBlock.txt` to your [ad blocker](https://bing.com/search?q=ad+blocker) to use all filter lists.
+Add `https://raw.githubusercontent.com/sayomelu/NothingBlock/NothingBlock` to your [ad blocker](https://bing.com/search?q=ad+blocker) to use all filter lists.
 
 *If you want to add a specific filter list, you can copy the filter list below and paste it to your [ad blocker](https://bing.com/search?q=ad+blocker) filter.*
 
@@ -19,7 +19,7 @@ Add `https://raw.githubusercontent.com/sayomelu/NothingBlock/NothingBlock.txt` t
 
 ### Entertainment
 
-* [bilibili](Filter/Entertainment/bilibili.txt) (2019.1.19)
+* [bilibili](Filter/Entertainment/bilibili) (2019.1.19)
 
 ### News
 
@@ -31,10 +31,10 @@ Add `https://raw.githubusercontent.com/sayomelu/NothingBlock/NothingBlock.txt` t
 
 ### Shopping
 
-* [Amazon.cn](Filter/Shopping/Amazon.cn.txt) (2019.1.19)
-* [Amazon.com](Filter/Shopping/Amazon.com.txt) (2019.1.14)
-* [JD](Filter/Shopping/JD.txt) (2019.1.19)
-* [Taobao](Filter/Shopping/Taobao.txt) (2019.1.19)
+* [Amazon.cn](Filter/Shopping/Amazon.cn) (2019.1.19)
+* [Amazon.com](Filter/Shopping/Amazon.com) (2019.1.14)
+* [JD](Filter/Shopping/JD) (2019.1.19)
+* [Taobao](Filter/Shopping/Taobao) (2019.1.19)
 
 ---
 
