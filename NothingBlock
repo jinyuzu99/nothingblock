@@ -2,217 +2,172 @@
 ! Title: NothingBlock filter
 ! Homepage: https://github.com/sayomelu/NothingBlock
 ! Expires: 7 days
-! Version: 2019.1.19
+! Version: 2019.1.22
 
-！bilibili
-    ! Homepage
-        bilibili.com##.icon.go-top
-        bilibili.com##.mobile.nav-item
-        bilibili.com##.nav-gif.gif-menu
-        bilibili.com##.bili-footer.footer
-        bilibili.com##.elevator-module.report-wrap-module
-        ! Section (Add ! to enable a section)
-        bilibili.com###special_recommend
-        bilibili.com###home_popularize
-        bilibili.com###bili_douga
-        ! bilibili.com##.bangumi-module
-        bilibili.com###bili_guochuang
-        bilibili.com##.clearfix.live-module
-        bilibili.com###bili_music
-        bilibili.com###bili_dance
-        bilibili.com###bili_game
-        bilibili.com###bili_technology
-        bilibili.com###bili_digital
-        bilibili.com###bili_life
-        bilibili.com###bili_documentary
-        bilibili.com###bili_kichiku
-        bilibili.com###bili_ent
-        bilibili.com###bili_movie
-        bilibili.com###bili_cinephile
-        bilibili.com###bili_ad
-        bilibili.com###bili_fashion
-        bilibili.com###bili_teleplay
-    ! Player
-        bilibili.com###live_recommand_report
-        bilibili.com##.bilibili-player-video-message
-    ! Feed
-        t.bilibili.com##.back-top
-        t.bilibili.com##.f-lefright-panel
-        ||s2.hdslb.com/bfs/static/blive/blfe-dynamic-web/static/img/*
-    ! Live
-        live.bilibili.com##.hot-list
-        live.bilibili.com##.idol-show
-        live.bilibili.com##.link-footer
-        live.bilibili.com##.side-bar-cntr
-        live.bilibili.com###player-header
-        live.bilibili.com##.haruna-canvas
-        live.bilibili.com##.video-cannot-autoplay-tips
-    ! Read
-        bilibili.com##.on.right-side-bar
-        bilibili.com##.up-article-list-block
-    ! Space
-        space.bilibili.com##.to-top
-
-! Inoreader
-    ! Web client
-        inoreader.com###below_tree
-        inoreader.com###sb_rp_upgrade           
-    ! Ad
-        inoreader.com##.adb_left
-        inoreader.com##.ad_title
-        inoreader.com###sinner_container
-
-! Evernote
-    ! Web client
-        evernote.com###qa-SIDEBAR_UPGRADE_BUTTON
-
-! Amazon.cn
-        ! Homepage
-            amazon.cn###rhf
-            amazon.cn###ctads
-            amazon.cn###navFooter
-            amazon.cn###nav-swmslot
-            amazon.cn##.nav-prime-try
-            amazon.cn###nav-link-prime
-            amazon.cn###gw-content-grid
-        ! Item
-            amazon.cn##.small
-            amazon.cn###hqpWrapper
-            amazon.cn###adv-float-div
-            amazon.cn###detail-ilm_div
-            amazon.cn###recentlyViewed
-            amazon.cn###hero-quick-promo
-            amazon.cn##.navFooterDLicense
-            amazon.cn###kcpApp_feature_div
-            amazon.cn###dp > table:nth-of-type(1)
-            amazon.cn###tellAFriendJumpbar_feature_div
-            amazon.cn###sims-consolidated-2_feature_div
-
-! Amazon.com
-    ! Homepage
-        amazon.com###rhf
-        amazon.com###nav-upnav
-        amazon.com###nav-orders
-        amazon.com###main-content
-        amazon.com##.nav-prime-try
-        amazon.com###nav-link-prime
-    ! Item
-        amazon.com###navFooter
-        amazon.com###tell-a-friend
-        amazon.com###feature-bullets
-        amazon.com###atfRight5_feature_div
-        amazon.com###issuancePriceblockAmabot_feature_div
-        amazon.com###alternativeOfferEligibilityMessaging_feature_div
-
-! JD
-    ! Main
-        jd.com##.s-show
-        jd.com##.jTdCode
-        jd.com###footmark
-        jd.com###nav-2014
-        jd.com###footer-2017
-        jd.com###service-2017
-        jd.com###GLOBAL_FOOTER
-        jd.com###J-global-toolbar
-    ! Homepage
-        www.jd.com##.floors
-        www.jd.com##.joytop
-        www.jd.com###hotwords
-        www.jd.com###J_mobile
-        www.jd.com###J_fs_act
-        www.jd.com###J_promo_lk
-    ! Home
-        home.jd.com##.box-2
-        home.jd.com##.m-service.m-block.m
-        !order.jd.com##.ui-slidebar
-    ! List
-        list.jd.com##.im-01
-        list.jd.com##.im-02
-        list.jd.com##.m-aside
-        list.jd.com##.p-icons
-        list.jd.com##.ps-wrap
-        list.jd.com##.scrolled
-        list.jd.com##.spu-link
-        list.jd.com##.price-plus-1
-        list.jd.com##.w:nth-of-type(6)
-    !Item
-        item.jd.com##.aside
-        item.jd.com###J_atmosphere_banner
-        item.jd.com###J-summary-openPlusGift
-
-! Taobao
-    ! Main
-        taobao.com##.qr
-        taobao.com##.footer
-        taobao.com##.follow-mobile
-        taobao.com###J_SiteFooter
-        taobao.com###J_SiteNavSeller
-        taobao.com###J_SiteNavMobile
-        taobao.com###J_SiteNavSitemap
-        taobao.com###J_SiteNavCatalog
-        taobao.com###J_SiteNavMytaobao
-        taobao.com##.superbanner-inner
-        taobao.com##.skin-box-content
-        taobao.com##.clearfix.J_SearchFt.search-ft
-        tmall.*###J_100
-        tmall.*###J_MUIMallbar
-        tmall.com###J_FloorCNXH
-        tmall.com###footer
-        tmall.com##.hot-query
-        tmall.com##.s-hot-query
-        tmall.com##.sn-mobile
-        tmall.com##.skin-box-content
-        tmall.com##.mui-mbarp-qrcode
-        tmall.com##.mui-mbar-tabs-mask
-    ! Homepage (Add ! to enable a section)
-        www.taobao.com##.logo
-        www.taobao.com##.layer-inner
-        www.taobao.com##.decorations-item
-        www.taobao.com##.J_Module.tbh-app
-        www.taobao.com##.J_Headline.headline
-        www.taobao.com##.J_Module.tbh-headline
-        www.taobao.com##.J_Module.tbh-fixedtool
-        ! www.taobao.com##.clearfix.screen-outer
-        www.tmall.com##.j_top.top-con
-        www.tmall.com##.side-bg
-        www.tmall.com##.activity-bg
-        ! www.tmall.com##.category-con.j_category
-    ! Login
-        login.taobao.com##.error.login-msg
-    ! iTaobao
-        i.taobao.com##.mt-ml-c2
-        i.taobao.com###J_MtFixInBottom
-        i.taobao.com##.m-guess-you-like
-        i.taobao.com##.m-someone-like-you
-    ! Search
-        s.taobao.com##.tb-side
-        s.taobao.com##.tb-footer
-        s.taobao.com##.sku-panel
-        s.taobao.com##.g-clearfix.row-4.row
-    ! Cart
-        cart.taobao.com###interested
-    ! Page
-        pages.tmall.com##.tb-module
-    ! Item
-        item.taobao.com##.tb-shop
-        item.taobao.com##.tb-doctor
-        item.taobao.com##.tb-qrcode-tool
-        item.taobao.com##.tb-shop-search
-        item.taobao.com###J_Toolbar
-        item.taobao.com##.J_BigProm
-        item.taobao.com###J_PromoType
-        detail.tmall.com##.shopwt
-        detail.tmall.com##.col-sub
-        detail.tmall.com###mall-banner
-        detail.tmall.com##.tm-layout
-        detail.tmall.com##.tm-qrcode-icon
-        detail.tmall.com###J_TabRecommends
-        detail.tmall.com###official-remind
-        detail.tmall.com##.tm-Right-Recommend
-        detail.tmall.com###tm-section-lidi-container
-    ! Chaoshi
-        chaoshi.tmall.com##.shortcut
-        chaoshi.tmall.com###J_config
-        chaoshi.tmall.com##.j_MostTop
-        chaoshi.tmall.com##.market-feature
-        chaoshi.tmall.com##.mui-global-footer-bottom-banner
+bilibili.com##.icon.go-top
+bilibili.com##.mobile.nav-item
+bilibili.com##.nav-gif.gif-menu
+bilibili.com##.bili-footer.footer
+bilibili.com##.elevator-module.report-wrap-module
+bilibili.com###special_recommend
+bilibili.com###home_popularize
+bilibili.com###bili_douga
+bilibili.com###bili_guochuang
+bilibili.com##.clearfix.live-module
+bilibili.com###bili_music
+bilibili.com###bili_dance
+bilibili.com###bili_game
+bilibili.com###bili_technology
+bilibili.com###bili_digital
+bilibili.com###bili_life
+bilibili.com###bili_documentary
+bilibili.com###bili_kichiku
+bilibili.com###bili_ent
+bilibili.com###bili_movie
+bilibili.com###bili_cinephile
+bilibili.com###bili_ad
+bilibili.com###bili_fashion
+bilibili.com###bili_teleplay
+bilibili.com###live_recommand_report
+bilibili.com##.bilibili-player-video-message
+t.bilibili.com##.back-top
+t.bilibili.com##.f-lefright-panel
+||s2.hdslb.com/bfs/static/blive/blfe-dynamic-web/static/img/*
+live.bilibili.com##.hot-list
+live.bilibili.com##.idol-show
+live.bilibili.com##.link-footer
+live.bilibili.com##.side-bar-cntr
+live.bilibili.com###player-header
+live.bilibili.com##.haruna-canvas
+live.bilibili.com##.video-cannot-autoplay-tips
+bilibili.com##.on.right-side-bar
+bilibili.com##.up-article-list-block
+space.bilibili.com##.to-top
+inoreader.com###below_tree
+inoreader.com###sb_rp_upgrade
+inoreader.com##.adb_left
+inoreader.com##.ad_title
+inoreader.com###sinner_container
+evernote.com###qa-SIDEBAR_UPGRADE_BUTTON
+amazon.cn###rhf
+amazon.cn###ctads
+amazon.cn###navFooter
+amazon.cn###nav-swmslot
+amazon.cn##.nav-prime-try
+amazon.cn###nav-link-prime
+amazon.cn###gw-content-grid
+amazon.cn##.small
+amazon.cn###hqpWrapper
+amazon.cn###adv-float-div
+amazon.cn###detail-ilm_div
+amazon.cn###recentlyViewed
+amazon.cn###hero-quick-promo
+amazon.cn##.navFooterDLicense
+amazon.cn###kcpApp_feature_div
+table:nth-of-type(1)
+amazon.cn###tellAFriendJumpbar_feature_div
+amazon.cn###sims-consolidated-2_feature_div
+amazon.com###rhf
+amazon.com###nav-upnav
+amazon.com###nav-orders
+amazon.com###main-content
+amazon.com##.nav-prime-try
+amazon.com###nav-link-prime
+amazon.com###navFooter
+amazon.com###tell-a-friend
+amazon.com###feature-bullets
+amazon.com###atfRight5_feature_div
+amazon.com###issuancePriceblockAmabot_feature_div
+amazon.com###alternativeOfferEligibilityMessaging_feature_div
+jd.com##.s-show
+jd.com##.jTdCode
+jd.com###footmark
+jd.com###nav-2014
+jd.com###footer-2017
+jd.com###service-2017
+jd.com###GLOBAL_FOOTER
+jd.com###J-global-toolbar
+www.jd.com##.floors
+www.jd.com##.joytop
+www.jd.com###hotwords
+www.jd.com###J_mobile
+www.jd.com###J_fs_act
+www.jd.com###J_promo_lk
+home.jd.com##.box-2
+home.jd.com##.m-service.m-block.m
+list.jd.com##.im-01
+list.jd.com##.im-02
+list.jd.com##.m-aside
+list.jd.com##.p-icons
+list.jd.com##.ps-wrap
+list.jd.com##.scrolled
+list.jd.com##.spu-link
+list.jd.com##.price-plus-1
+list.jd.com##.w:nth-of-type(6)
+item.jd.com##.aside
+item.jd.com###J_atmosphere_banner
+item.jd.com###J-summary-openPlusGift
+taobao.com##.qr
+taobao.com##.footer
+taobao.com##.follow-mobile
+taobao.com###J_SiteFooter
+taobao.com###J_SiteNavSeller
+taobao.com###J_SiteNavMobile
+taobao.com###J_SiteNavSitemap
+taobao.com###J_SiteNavCatalog
+taobao.com###J_SiteNavMytaobao
+taobao.com##.superbanner-inner
+taobao.com##.skin-box-content
+taobao.com##.clearfix.J_SearchFt.search-ft
+tmall.*###J_100
+tmall.*###J_MUIMallbar
+tmall.com###J_FloorCNXH
+tmall.com###footer
+tmall.com##.hot-query
+tmall.com##.s-hot-query
+tmall.com##.sn-mobile
+tmall.com##.skin-box-content
+tmall.com##.mui-mbarp-qrcode
+tmall.com##.mui-mbar-tabs-mask
+www.taobao.com##.logo
+www.taobao.com##.layer-inner
+www.taobao.com##.decorations-item
+www.taobao.com##.J_Module.tbh-app
+www.taobao.com##.J_Headline.headline
+www.taobao.com##.J_Module.tbh-headline
+www.taobao.com##.J_Module.tbh-fixedtool
+www.tmall.com##.j_top.top-con
+www.tmall.com##.side-bg
+www.tmall.com##.activity-bg
+login.taobao.com##.error.login-msg
+i.taobao.com##.mt-ml-c2
+i.taobao.com###J_MtFixInBottom
+i.taobao.com##.m-guess-you-like
+i.taobao.com##.m-someone-like-you
+s.taobao.com##.tb-side
+s.taobao.com##.tb-footer
+s.taobao.com##.sku-panel
+s.taobao.com##.g-clearfix.row-4.row
+cart.taobao.com###interested
+pages.tmall.com##.tb-module
+item.taobao.com##.tb-shop
+item.taobao.com##.tb-doctor
+item.taobao.com##.tb-qrcode-tool
+item.taobao.com##.tb-shop-search
+item.taobao.com###J_Toolbar
+item.taobao.com##.J_BigProm
+item.taobao.com###J_PromoType
+detail.tmall.com##.shopwt
+detail.tmall.com##.col-sub
+detail.tmall.com###mall-banner
+detail.tmall.com##.tm-layout
+detail.tmall.com##.tm-qrcode-icon
+detail.tmall.com###J_TabRecommends
+detail.tmall.com###official-remind
+detail.tmall.com##.tm-Right-Recommend
+detail.tmall.com###tm-section-lidi-container
+chaoshi.tmall.com##.shortcut
+chaoshi.tmall.com###J_config
+chaoshi.tmall.com##.j_MostTop
+chaoshi.tmall.com##.market-feature
+chaoshi.tmall.com##.mui-global-footer-bottom-banner
