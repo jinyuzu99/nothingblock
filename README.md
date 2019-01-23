@@ -9,7 +9,7 @@ NothingBlock blocks nothing important to have "nothing more to take away" on sup
 
 ## How to Use
 
-Add `https://raw.githubusercontent.com/sayomelu/NothingBlock/NothingBlock` to your [ad blocker](https://bing.com/search?q=ad+blocker) to use all filter lists.
+Add `https://raw.githubusercontent.com/sayomelu/NothingBlock/develop/Filter.txt` to your [ad blocker](https://bing.com/search?q=ad+blocker) to use all filter lists.
 
 *If you want to add a specific filter list, you can copy the filter list below and paste it to your [ad blocker](https://bing.com/search?q=ad+blocker) filter.*
 
