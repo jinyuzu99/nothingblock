@@ -25,6 +25,8 @@ Add `https://raw.githubusercontent.com/sayomelu/NothingBlock/develop/Filter.txt`
 ### Life
 
 * [Amap](Filter/Life/Amap) (2019.1.23)
+* [Google Map](Filter/Life/Google_Map) (2019.1.23)
+* [Google Photo](Filter/Life/Google_Photo) (2019.1.23)
 
 ### News
 
@@ -34,6 +36,12 @@ Add `https://raw.githubusercontent.com/sayomelu/NothingBlock/develop/Filter.txt`
 ### Productivity
 
 * [Evernote](Filter/Productivity/Evernote) (2019.1.14)
+* [Google Drive](Filter/Productivity/Google_Drive) (2019.1.14)
+
+### Search
+
+* [Bing](Filter/Search/Bing) (2019.1.23)
+* [Google](Filter/Search/Google) (2019.1.23)
 
 ### Shopping
 
@@ -42,10 +50,9 @@ Add `https://raw.githubusercontent.com/sayomelu/NothingBlock/develop/Filter.txt`
 * [JD](Filter/Shopping/JD) (2019.1.19)
 * [Taobao](Filter/Shopping/Taobao) (2019.1.19)
 
-### Other
+### Social
 
-* [Bing](Filter/Other/Bing) (2019.1.23)
-* [Google](Filter/Other/Google) (2019.1.23)
+* [Gmail](Filter/Social/Gmail) (2019.1.19)
 
 ---
 
