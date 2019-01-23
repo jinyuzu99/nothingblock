@@ -59,6 +59,7 @@
         detail.tmall.com##.tm-layout
         item.taobao.com###J_PromoType
         detail.tmall.com###mall-banner
+        item.taobao.com###J_IdsSegments
         item.taobao.com##.tb-qrcode-tool
         item.taobao.com##.tb-shop-search
         detail.tmall.com##.tm-qrcode-icon
