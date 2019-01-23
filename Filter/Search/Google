@@ -1,11 +1,14 @@
 ! Google
+    ! All
+        google.*##.gb_Bb
+        google.*##.gb_zg
     ! Homepage
         google.*###hptl
-        google.*##.gb_zg
         google.*##.gb_dh
-        google.*##.gb_Bb
         google.*###footer
         google.*###prm-pt
         google.*###sbfblt
-        google.*###footcnt
         www.google.*##input:nth-of-type(2)
+    ! Result
+        google.*###footcnt
+        google.*###resultStats
