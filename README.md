@@ -11,7 +11,7 @@ NothingBlock blocks nothing important to have "nothing more to take away" on sup
 
 Add `https://raw.githubusercontent.com/sayomelu/NothingBlock/develop/Filter.txt` to your [ad blocker](https://bing.com/search?q=ad+blocker) to use all filter lists.
 
-*If you want to add a specific filter list, you can copy the filter list below and paste it to your [ad blocker](https://bing.com/search?q=ad+blocker) filter.*
+*If you want to add a specific filter list, you can copy the filter list below and paste it to your ad blocker filter.*
 
 ---
 
@@ -20,10 +20,16 @@ Add `https://raw.githubusercontent.com/sayomelu/NothingBlock/develop/Filter.txt`
 ### Entertainment
 
 * [bilibili](Filter/Entertainment/bilibili) (2019.1.19)
+* [YouTube](Filter/Entertainment/YouTube) (2019.1.23)
+
+### Life
+
+* [Amap](Filter/Life/Amap) (2019.1.23)
 
 ### News
 
 * [Inoreader](Filter/News/Inoreader) (2019.1.14)
+* [IT Home](Filter/News/IT_Home) (2019.1.23)
 
 ### Productivity
 
@@ -35,6 +41,11 @@ Add `https://raw.githubusercontent.com/sayomelu/NothingBlock/develop/Filter.txt`
 * [Amazon.com](Filter/Shopping/Amazon.com) (2019.1.14)
 * [JD](Filter/Shopping/JD) (2019.1.19)
 * [Taobao](Filter/Shopping/Taobao) (2019.1.19)
+
+### Other
+
+* [Bing](Filter/Other/Bing) (2019.1.23)
+* [Google](Filter/Other/Google) (2019.1.23)
 
 ---
 
