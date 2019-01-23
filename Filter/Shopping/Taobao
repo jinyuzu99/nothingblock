@@ -40,13 +40,17 @@
         i.taobao.com###J_MtFixInBottom
         i.taobao.com##.m-guess-you-like
         i.taobao.com##.m-someone-like-you
+        member1.taobao.com###immediate-help-trigger
     ! Search
         s.taobao.com##.tb-side
         s.taobao.com##.tb-footer
         s.taobao.com##.sku-panel
         s.taobao.com##.g-clearfix.row-4.row
-    ! Cart
+    ! Cart & Favorite
         cart.taobao.com###interested
+        cart.taobao.com###J_SideFloat
+        shoucang.taobao.com###J_Feedback
+        shoucang.taobao.com##.fav-zuanshi
     ! Page
         pages.tmall.com##.tb-module
     ! Item
@@ -67,6 +71,12 @@
         detail.tmall.com###official-remind
         detail.tmall.com##.tm-Right-Recommend
         detail.tmall.com###tm-section-lidi-container
+        item.taobao.com###J_IdsSegments
+        item.taobao.com##.J_FavCount
+        item.taobao.com###J_StrPriceModBox
+        item.taobao.com##.tb-footer
+        item.taobao.com##.tb-price-spec
+
     ! Chaoshi
         chaoshi.tmall.com##.shortcut
         chaoshi.tmall.com###J_config
