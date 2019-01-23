@@ -1,0 +1,7 @@
+The Regular Expression used to build the filter.txt
+
+!.*
+
+.* 
+
+^(\t|\n|)*\n
