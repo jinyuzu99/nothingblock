@@ -1,5 +1,5 @@
 ! Amazon.com
-    ! Homepage
+    ! Home
         amazon.com###rhf
         amazon.com###nav-upnav
         amazon.com###nav-orders

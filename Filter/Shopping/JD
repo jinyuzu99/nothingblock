@@ -8,7 +8,7 @@
         jd.com###service-2017
         jd.com###GLOBAL_FOOTER
         jd.com###J-global-toolbar
-    ! Homepage
+    ! Home
         www.jd.com##.floors
         www.jd.com##.joytop
         www.jd.com###hotwords
@@ -18,7 +18,7 @@
     ! Home
         home.jd.com##.box-2
         home.jd.com##.m-service.m-block.m
-        !order.jd.com##.ui-slidebar
+        order.jd.com##.ui-slidebar
     ! List
         list.jd.com##.im-01
         list.jd.com##.im-02
