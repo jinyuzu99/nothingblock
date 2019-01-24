@@ -32,7 +32,6 @@ Add `https://raw.githubusercontent.com/sayomelu/NothingBlock/develop/Filter.txt`
 
 * [Inoreader](Filter/News/Inoreader) (2019.1.14)
 * [IT Home](Filter/News/IT_Home) (2019.1.23)
-* [The Verge](Filter/News/The_Verge) (2019.1.14)
 
 ### Productivity
 
