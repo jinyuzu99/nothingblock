@@ -1,12 +1,13 @@
 !unfinished
 !music163
     !Home
+        music.163.com##[href="#"]
+        music.163.com##[href="/friend"]
         music.163.com##[href="/store/product"]
         music.163.com##[href="/nmusician/web/recruit"]
         music.163.com##.lst
-        music.163.com##[href="/friend"]
-        music.163.com##.m-creator-center.f-pr.m-topvd
         music.163.com##li:nth-of-type(3) > .itm-2
         music.163.com##li:nth-of-type(4) > .itm-2
-        music.163.com##.f-pr.f-fl.head > .j-uflag.f-pa.m-topmsg
         music.163.com##.nav > li:nth-of-type(4)
+        music.163.com##.m-creator-center.f-pr.m-topvd
+        music.163.com##.f-pr.f-fl.head > .j-uflag.f-pa.m-topmsg
