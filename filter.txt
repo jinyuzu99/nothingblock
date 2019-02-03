@@ -112,7 +112,6 @@
         bing.com###hp_bottomCell
         bing.com###sc_hdu
         bing.com##.tipContainer
-
     ! Result
         bing.com###b_footer
         bing.com###ev_talkbox_wrapper
@@ -206,18 +205,19 @@
         item.jd.com##.aside
         item.jd.com###J_atmosphere_banner
         item.jd.com###J-summary-openPlusGift
-! Home
-    music.163.com##[href="/store/product"]
-    music.163.com##[href="/nmusician/web/recruit"]
-    music.163.com##.m-creator-center
-    music.163.com##.lst
-    music.163.com##.n-ban
-    music.163.com##.g-sd1
-    music.163.com##.g-ft
-    music.163.com##.n-bill
-    music.163.com##[href="#"]
-! Artist
-    music.163.com##.m-multi
+! Netease Music
+    ! Home
+        music.163.com##[href="/store/product"]
+        music.163.com##[href="/nmusician/web/recruit"]
+        music.163.com##.m-creator-center
+        music.163.com##.lst
+        music.163.com##.n-ban
+        music.163.com##.g-sd1
+        music.163.com##.g-ft
+        music.163.com##.n-bill
+        music.163.com##[href="#"]
+    ! Artist
+        music.163.com##.m-multi
 ! Taobao
     ! Main
         taobao.com##.qr
