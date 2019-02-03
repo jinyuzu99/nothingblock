@@ -127,20 +127,6 @@
         duckduckgo.com##.footer
 ! Evernote
     evernote.com###qa-SIDEBAR_UPGRADE_BUTTON
-! Google
-    ! All
-        google.*##.gb_Bb
-        google.*##.gb_zg
-    ! Home
-        google.*###hptl
-        google.*##.gb_dh
-        google.*###footer
-        google.*###prm-pt
-        google.*###sbfblt
-        www.google.*##input:nth-of-type(2)
-    ! Result
-        google.*###footcnt
-        google.*###resultStats
 ! Google Drive
     drive.google.com##.USrqEe-ml-Pr-qc-j
 ! Google Gmail
@@ -154,6 +140,20 @@
     photos.google.com##.Jf3Kxd
     photos.google.com##.E9F9ef
     photos.google.com##.DNAsC:nth-of-type(5)
+! Google Search
+    ! All
+        google.*##.gb_Bb
+        google.*##.gb_zg
+    ! Home
+        google.*###hptl
+        google.*##.gb_dh
+        google.*###footer
+        google.*###prm-pt
+        google.*###sbfblt
+        www.google.*##input:nth-of-type(2)
+    ! Result
+        google.*###footcnt
+        google.*###resultStats
 ! Inoreader
     ! Web
         inoreader.com###below_tree

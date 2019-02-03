@@ -1,4 +1,4 @@
-! Google
+! Google Search
     ! All
         google.*##.gb_Bb
         google.*##.gb_zg
