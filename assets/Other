@@ -1,4 +1,4 @@
-The Regular Expression used to build the filter.txt
+//The Regular Expression and header used to build the project
 
 [Adblock Plus 3.0]
 ! Title: NothingBlock filter
