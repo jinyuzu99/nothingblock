@@ -2,63 +2,46 @@
 
 > “You know you've achieved perfection in design, not when you have nothing more to add, but when you have nothing more to take away.” ― Antoine de Saint-Exupéry
 
-NothingBlock blocks nothing important to have "nothing more to take away" on supported desktop website.
+NothingBlock blocks unnecessary elements to have "nothing more to take away".
 
-![NothingBlock on Amazon.com](Asset/NothingBlock_Amazon.com.jpg)
-![NothingBlock on Taobao](Asset/NothingBlock_Taobao.jpg)
+![NothingBlock on Amazon.com](assets/nothingblock-on-amazon.com.jpg)
+![NothingBlock on Taobao](assets/nothingblock-on-taobao.jpg)
 
 ## How to Use
 
-Add `https://raw.githubusercontent.com/sayomelu/NothingBlock/master/Filter.txt` to your [ad blocker](https://bing.com/search?q=ad+blocker) to use all filter lists.
+Add the URL below to your [ad blocker](https://bing.com/search?q=ad+blocker) to use all filter lists.
 
-*If you want to add a specific filter list, you can copy the filter list below and paste it to your ad blocker filter.*
+`https://raw.githubusercontent.com/sayomelu/nothingblock/master/filter.txt`
+
+If you want to add a specific filter list, you can copy the filter list below and paste it to your ad blocker filter.
 
 ---
 
 ## Supported Website
 
-### Entertainment
-
-* [bilibili](Filter/Entertainment/bilibili) (2019.1.19)
-* [YouTube](Filter/Entertainment/YouTube) (2019.1.23)
-
-### Life
-
-* [Amap](Filter/Life/Amap) (2019.1.23)
-* [Google Map](Filter/Life/Google_Map) (2019.1.23)
-* [Google Photo](Filter/Life/Google_Photo) (2019.1.23)
-
-### News
-
-* [Inoreader](Filter/News/Inoreader) (2019.1.14)
-* [IT Home](Filter/News/IT_Home) (2019.1.23)
-
-### Productivity
-
-* [Evernote](Filter/Productivity/Evernote) (2019.1.14)
-* [Google Drive](Filter/Productivity/Google_Drive) (2019.1.14)
-
-### Search
-
-* [Bing](Filter/Search/Bing) (2019.1.23)
-* [DuckDuckGo](Filter/Search/DuckDuckGo) (2019.1.23)
-* [Google](Filter/Search/Google) (2019.1.23)
-
-### Shopping
-
-* [Amazon.cn](Filter/Shopping/Amazon.cn) (2019.1.19)
-* [Amazon.com](Filter/Shopping/Amazon.com) (2019.1.14)
-* [JD](Filter/Shopping/JD) (2019.1.19)
-* [Taobao](Filter/Shopping/Taobao) (2019.1.19)
-
-### Social
-
-* [Gmail](Filter/Social/Gmail) (2019.1.19)
+* [Amap](filter/amap.txt) (2019.1.23)
+* [Amazon.cn](filter/amazon.cn.txt) (2019.1.19)
+* [Amazon.com](filter/amazon.com.txt) (2019.1.14)
+* [Bilibili](filter/bilibili.txt) (2019.2.3)
+* [Bing](filter/bing.txt) (2019.1.23)
+* [DuckDuckGo](filter/duckduckgo.txt) (2019.1.23)
+* [Evernote](filter/evernote.txt) (2019.1.14)
+* [Google Drive](filter/google-drive.txt) (2019.1.14)
+* [Google Gmail](filter/google-gmail.txt) (2019.1.19)
+* [Google Map](filter/google-map.txt) (2019.1.23)
+* [Google Photo](filter/google-photo.txt) (2019.1.23)
+* [Google Search](filter/google-search.txt) (2019.1.23)
+* [Inoreader](filter/inoreader.txt) (2019.1.14)
+* [IT Home](filter/it-home.txt) (2019.1.23)
+* [JD](filter/jd.txt) (2019.1.19)
+* [Netease Music](filter/netease-music.txt) (2019.2.3)
+* [Taobao](filter/taobao.txt) (2019.1.19)
+* [YouTube](filter/youtube.txt) (2019.2.3)
 
 ---
 
 ## Support
 
-Create an [issue](https://github.com/sayomelu/NothingBlock/issues/new) on GitHub to ask for support, or chat with other users on [Telegram Group](https://t.me/NothingBlockGroup).
+Create an [issue](https://github.com/sayomelu/nothingblock/issues/new) on GitHub to ask for support, or chat with other users on [Telegram Group](https://t.me/nothingblock).
 
 ### Build by Sayo with ❤️

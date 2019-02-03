@@ -1,0 +1,13 @@
+! Netease Music
+    ! Home
+        music.163.com##[href="/store/product"]
+        music.163.com##[href="/nmusician/web/recruit"]
+        music.163.com##.m-creator-center
+        music.163.com##.lst
+        music.163.com##.n-ban
+        music.163.com##.g-sd1
+        music.163.com##.g-ft
+        music.163.com##.n-bill
+        music.163.com##[href="#"]
+    ! Artist
+        music.163.com##.m-multi
