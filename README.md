@@ -4,14 +4,14 @@
 
 NothingBlock blocks unnecessary elements to have "nothing more to take away".
 
-![NothingBlock on Amazon.com](assets/NothingBlock-on-Amazon.com.jpg)
-![NothingBlock on Taobao](assets/NothingBlock-on-Taobao.jpg)
+![NothingBlock on Amazon.com](assets/nothingblock-on-Amazon.com.jpg)
+![NothingBlock on Taobao](assets/nothingblock-on-Taobao.jpg)
 
 ## How to Use
 
 Add the URL below to your [ad blocker](https://bing.com/search?q=ad+blocker) to use all filter lists.
 
-`https://raw.githubusercontent.com/sayomelu/NothingBlock/develope/filter.txt`
+`https://raw.githubusercontent.com/sayomelu/nothingblock/develope/filter.txt`
 
 If you want to add a specific filter list, you can copy the filter list below and paste it to your ad blocker filter.
 
@@ -42,6 +42,6 @@ If you want to add a specific filter list, you can copy the filter list below an
 
 ## Support
 
-Create an [issue](https://github.com/sayomelu/NothingBlock/issues/new) on GitHub to ask for support, or chat with other users on [Telegram Group](https://t.me/nothingblock).
+Create an [issue](https://github.com/sayomelu/nothingblock/issues/new) on GitHub to ask for support, or chat with other users on [Telegram Group](https://t.me/nothingblock).
 
 ### Build by Sayo with ❤️
