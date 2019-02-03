@@ -11,7 +11,7 @@ NothingBlock blocks unnecessary elements to have "nothing more to take away".
 
 Add the URL below to your [ad blocker](https://bing.com/search?q=ad+blocker) to use all filter lists.
 
-`https://raw.githubusercontent.com/sayomelu/nothingblock/master/filter.txt`
+`https://raw.githubusercontent.com/sayomelu/nothingblock/develop/filter.txt`
 
 If you want to add a specific filter list, you can copy the filter list below and paste it to your ad blocker filter.
 
