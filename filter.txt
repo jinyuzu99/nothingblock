@@ -304,7 +304,5 @@
         chaoshi.tmall.com##.mui-global-footer-bottom-banner
 ! YouTube
     youtube.com###footer
-    youtube.com##.ytd-guide-renderer.style-scope:nth-of-type(4)
-    youtube.com##.ytd-button-renderer
     youtube.com###button > .ytd-topbar-menu-button-renderer
     youtube.com##.force-icon-button.size-default.style-default.ytd-menu-renderer.style-scope:nth-of-type(1)
