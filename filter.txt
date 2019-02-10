@@ -215,7 +215,6 @@
         music.163.com##.g-sd1
         music.163.com##.g-ft
         music.163.com##.n-bill
-        music.163.com##[href="#"]
     ! Artist
         music.163.com##.m-multi
 ! Taobao
@@ -293,7 +292,6 @@
         detail.tmall.com###tm-section-lidi-container
         item.taobao.com###J_IdsSegments
         item.taobao.com##.J_FavCount
-        item.taobao.com###J_StrPriceModBox
         item.taobao.com##.tb-footer
         item.taobao.com##.tb-price-spec
     ! Chaoshi
@@ -304,7 +302,5 @@
         chaoshi.tmall.com##.mui-global-footer-bottom-banner
 ! YouTube
     youtube.com###footer
-    youtube.com##.ytd-guide-renderer.style-scope:nth-of-type(4)
-    youtube.com##.ytd-button-renderer
     youtube.com###button > .ytd-topbar-menu-button-renderer
     youtube.com##.force-icon-button.size-default.style-default.ytd-menu-renderer.style-scope:nth-of-type(1)

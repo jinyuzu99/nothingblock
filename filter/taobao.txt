@@ -73,7 +73,6 @@
         detail.tmall.com###tm-section-lidi-container
         item.taobao.com###J_IdsSegments
         item.taobao.com##.J_FavCount
-        item.taobao.com###J_StrPriceModBox
         item.taobao.com##.tb-footer
         item.taobao.com##.tb-price-spec
     ! Chaoshi
