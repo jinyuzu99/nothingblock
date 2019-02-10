@@ -215,7 +215,6 @@
         music.163.com##.g-sd1
         music.163.com##.g-ft
         music.163.com##.n-bill
-        music.163.com##[href="#"]
     ! Artist
         music.163.com##.m-multi
 ! Taobao
