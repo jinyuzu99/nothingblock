@@ -8,6 +8,10 @@
 ! Expires: 7 days
 ! Version: 2019.1.22
 
+## URI
+
+abp:subscribe?location=[url]&title=[name]
+
 ## Regular Expression
 
 !.*
