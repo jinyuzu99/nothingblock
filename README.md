@@ -21,25 +21,25 @@ If you want to add a specific filter list, you can copy the filter list below an
 
 | **Website Name** | **Update Time** |
 |:---:|:---:|
-| [AcFun](filter/acfun.txt) | (2019.2.11) |
-| [Amap](filter/amap.txt) | (2019.1.23) |
-| [Amazon.cn](filter/amazon.cn.txt) | (2019.1.19) |
-| [Amazon.com](filter/amazon.com.txt) | (2019.1.14) |
-| [Bilibili](filter/bilibili.txt) | (2019.2.4) |
-| [Bing](filter/bing.txt) | (2019.1.23) |
-| [DuckDuckGo](filter/duckduckgo.txt) | (2019.1.23) |
-| [Evernote](filter/evernote.txt) | (2019.1.14) |
-| [Google Drive](filter/google-drive.txt) | (2019.1.14) |
-| [Google Gmail](filter/google-gmail.txt) | (2019.1.19) |
-| [Google Map](filter/google-map.txt) | (2019.1.23) |
-| [Google Photo](filter/google-photo.txt) | (2019.1.23) |
-| [Google Search](filter/google-search.txt) | (2019.1.23) |
-| [Inoreader](filter/inoreader.txt) | (2019.1.14) |
-| [IT Home](filter/it-home.txt) | (2019.1.23) |
-| [JD](filter/jd.txt) | (2019.1.19) |
-| [Netease Music](filter/netease-music.txt) | (2019.2.10) |
-| [Taobao](filter/taobao.txt) | (2019.1.19) |
-| [YouTube](filter/youtube.txt) | (2019.2.10) |
+| [AcFun](filter/acfun.txt) | 2019.2.11 |
+| [Amap](filter/amap.txt) | 2019.1.23 |
+| [Amazon.cn](filter/amazon.cn.txt) | 2019.1.19 |
+| [Amazon.com](filter/amazon.com.txt) | 2019.1.14 |
+| [Bilibili](filter/bilibili.txt) | 2019.2.4 |
+| [Bing](filter/bing.txt) | 2019.1.23 |
+| [DuckDuckGo](filter/duckduckgo.txt) | 2019.1.23 |
+| [Evernote](filter/evernote.txt) | 2019.1.14 |
+| [Google Drive](filter/google-drive.txt) | 2019.1.14 |
+| [Google Gmail](filter/google-gmail.txt) | 2019.1.19 |
+| [Google Map](filter/google-map.txt) | 2019.1.23 |
+| [Google Photo](filter/google-photo.txt) | 2019.1.23 |
+| [Google Search](filter/google-search.txt) | 2019.1.23 |
+| [Inoreader](filter/inoreader.txt) | 2019.1.14 |
+| [IT Home](filter/it-home.txt) | 2019.1.23 |
+| [JD](filter/jd.txt) | 2019.1.19 |
+| [Netease Music](filter/netease-music.txt) | 2019.2.10 |
+| [Taobao](filter/taobao.txt) | 2019.1.19 |
+| [YouTube](filter/youtube.txt) | 2019.2.10 |
 
 ## Support
 
