@@ -1,7 +1,5 @@
 # NothingBlock
 
-## Welcome to NothingBlock
-
 > “You know you've achieved perfection in design, not when you have nothing more to add, but when you have nothing more to take away.” ― Antoine de Saint-Exupéry
 
 NothingBlock blocks unnecessary elements to have "nothing more to take away".
@@ -17,7 +15,7 @@ Add the URL below to your [ad blocker](https://bing.com/search?q=ad+blocker) to 
 
 If you want to add a specific filter list, you can copy the filter list below and paste it to your ad blocker filter.
 
-## Supported Websites
+### Supported Websites
 
 | **Website Name** | **Update Time** |
 |:----------------:|:---------------:|
@@ -42,6 +40,15 @@ If you want to add a specific filter list, you can copy the filter list below an
 | [Taobao](filter/taobao.txt) | 2019.1.19 |
 | [YouTube](filter/youtube.txt) | 2019.2.10 |
 
+## Contributing
+
 ## Support
 
-Create an [issue](https://github.com/sayomelu/nothingblock/issues/new) on GitHub to ask for support, or chat with other users on [Telegram Group](https://t.me/nothingblock).
+- Report an [issue](https://github.com/sayomelu/nothingblock/issues/new)
+- Chat with users on [Telegram Group](https://t.me/nothingblock)
+
+## Donate
+
+Currently received `$0`
+
+Donate with [PayPal](https://paypal.me/p49302) [Alipay](assets/donate-alipay.jpg) [WeChat](assets/donate-wechat.jpg)
