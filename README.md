@@ -44,7 +44,7 @@ If you want to add a specific filter list, you can copy the filter list below an
 
 ## Support
 
-- Report an [issue](https://github.com/sayomelu/nothingblock/issues/new)
+- Create an [issue](https://github.com/sayomelu/nothingblock/issues/new/choose)
 - Chat with users on [Telegram Group](https://t.me/nothingblock)
 
 ## Donate
