@@ -62,7 +62,7 @@ If you want to contribute directly to the code base, please follow the steps bel
         ! [Website section 2](like "Article")
             [ab blcok list 3]
             [ab blcok list 4]
-            ...]
+            ...
     ```
 
     (You can use **Regular Expression** in [Tool](../assets/tool.md) to remove `!` and `[return]`)
