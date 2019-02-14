@@ -39,13 +39,16 @@ If you want to add a specific filter list, you can copy the filter list below an
 | [Netease Music](filters/netease-music.txt) | 2019.2.10 |
 | [Taobao](filters/taobao.txt) | 2019.1.19 |
 | [YouTube](filters/youtube.txt) | 2019.2.10 |
+| [Developing](docs/developing-websites.md) | .  . .  |
 
 ## Contributing
+
+Follow the [Contributing](docs/CONTRIBUTING.md) document to make contribution.
 
 ## Support
 
 - Create an [issue](https://github.com/sayomelu/nothingblock/issues/new/choose)
-- Chat with users on [Telegram Group](https://t.me/nothingblock)
+- Chat on [Telegram Group](https://t.me/nothingblock)
 
 ## Donate
 

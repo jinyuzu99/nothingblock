@@ -1,0 +1,95 @@
+# Contributing to NothingBlock
+
+## Feedback
+
+If you want to:
+
+- Ask questions
+- Report bugs
+- Request features
+- Vote for feature requests
+
+Please create or check [issues](https://github.com/sayomelu/nothingblock/issues/new/choose) to make contribution.
+
+If you want to chat with other users, please join our [Telegram Group](https://t.me/nothingblock).
+
+## Contribute to code
+
+If you want to contribute directly to the code base, please follow the steps below.
+
+### Getting the sources
+
+`git clone https://github.com/sayomelu/nothingblock.git`
+
+### Prerequisites
+
+- [Git](https://git-scm.com/) or [GitHub Desktop](https://desktop.github.com)
+
+- Web browser
+  - [Firefox](https://www.mozilla.org/firefox/) (**Recommended**)
+  - [Safari](https://www.apple.com/safari/)
+  - [more...](https://bing.com/search?q=web+browser)
+
+- Ad blocker
+  - [uBlock Original](https://github.com/gorhill/uBlock) (**Recommended**)
+  - [Adblock Plus](https://adblockplus.org)
+  - [more...](https://bing.com/search?q=ad+blocker)
+
+- Code editor
+  - [Visual Studio Code](https://code.visualstudio.com/) (**Recommend**)
+  - [Atom](https://atom.io/)
+  - [more...](https://bing.com/search?q=code+editor)
+
+### Writing filters
+
+(With recommended setup)
+
+1. Open the website you want to block.
+2. `Secondary click` on the website element you want to block, then choose `Block Element`.
+3. Find the appropriate fliter in `Cosmetic filters`, then choose `Preview` to check your fliter.
+4. Repeat step `2` ~ `3` until there is nothing more to block.
+5. Go to **Ad blocker** `Dashboard`, choose `My filters`, then copy all the filters.
+6. Create and open a new `[website-name-with-lowercase].txt` file in `nothingblock/filters/` with **Code editor**.
+7. Paste the text to the file.
+8. Edit the file in the format below:
+
+    ```adblock-filter
+    ! [Website Name with normal case](like "NothingBlock")
+        ! [Website section 1](like "Home")
+            [ab blcok list 1]
+            [ab blcok list 2]
+            ...
+        ! [Website section 2](like "Article")
+            [ab blcok list 3]
+            [ab blcok list 4]
+            ...]
+    ```
+
+    (You can use **Regular Expression** in [Tool](../assets/tool.md) to remove `!` and `[return]`)
+
+### Pulling Requests
+
+After writing your filter, you can pull request to our [develop branch](https://github.com/sayomelu/nothingblock/tree/develop) with the description in the format below:
+
+```markdown
+1. Add supported websites.
+2. Add items to supported websites.
+3. Fix issues on supported websites.
+
+---
+
+Add supported websites:
+
+- [Website Name with normal case]
+- ...
+
+Add items to supported websites:
+
+- [Website Name with normal case] ([Added item])
+- ...
+
+Fix issues on supported websites:
+
+- [Website Name with normal case] ([Fixed item])
+- ...
+```
