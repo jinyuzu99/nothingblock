@@ -39,7 +39,7 @@ If you want to add a specific filter list, you can copy the filter list below an
 | [Netease Music](filters/netease-music.txt) | 2019.2.10 |
 | [Taobao](filters/taobao.txt) | 2019.1.19 |
 | [YouTube](filters/youtube.txt) | 2019.2.10 |
-| [Developing](docs/developing-websites.md) | .  . .  |
+| [More](docs/more-websites.md) | .  . .  |
 
 ## Contributing
 

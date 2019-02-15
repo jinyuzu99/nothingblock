@@ -8,7 +8,6 @@
 - Spotify
 - SMZDM
 
-## Develope
+## Developing
 
-- AcFun
-- Amazon.co.jp
+-
