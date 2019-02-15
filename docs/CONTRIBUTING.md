@@ -69,26 +69,20 @@ If you want to contribute directly to the code base, please follow the steps bel
 
 ### Pulling Requests
 
-After writing your filter, you can pull request to our [develop branch](https://github.com/sayomelu/nothingblock/tree/develop) with the description in the format below:
+After writing your filter, you can pull request to our [develop branch](https://github.com/sayomelu/nothingblock/tree/develop) with the description in the format (also see in [Pull request template](../.github/PULL_REQUEST_TEMPLATE.md)) below:
 
 ```markdown
-1. Add supported websites.
-2. Add items to supported websites.
-3. Fix issues on supported websites.
-
----
-
-Add supported websites:
+Add supported website(s):
 
 - [Website Name with normal case]
 - ...
 
-Add items to supported websites:
+Add items to supported website(s):
 
 - [Website Name with normal case] ([Added item])
 - ...
 
-Fix issues on supported websites:
+Fix issues on supported website(s):
 
 - [Website Name with normal case] ([Fixed item])
 - ...
