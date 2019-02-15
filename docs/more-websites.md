@@ -10,5 +10,3 @@
 - Amazon.cn
 
 ## Developing
-
--
