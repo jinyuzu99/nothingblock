@@ -1,4 +1,4 @@
-# Contributing to NothingBlock
+# Contributing
 
 ## Feedback
 
@@ -44,22 +44,23 @@ If you want to contribute directly to the code base, please follow the steps bel
 
 (With recommended setup)
 
-1. Open the website you want to block.
+1. Open the website you want to block on your **Web browser** with **Ad blocker** enabled.
 2. `Secondary click` on the website element you want to block, then choose `Block Element`.
 3. Find the appropriate fliter in `Cosmetic filters`, then choose `Preview` to check your fliter.
-4. Repeat step `2` ~ `3` until there is nothing more to block.
-5. Go to **Ad blocker** `Dashboard`, choose `My filters`, then copy all the filters.
-6. Create and open a new `[website-name-with-lowercase].txt` file in `nothingblock/filters/` with **Code editor**.
-7. Paste the text to the file.
-8. Edit the file in the format below:
+4. Choose `Create` to create a new filter.
+5. Repeat step `2` ~ `4` until there is nothing more to block.
+6. Go to **Ad blocker** `Dashboard`, choose `My filters`, then copy all the filters.
+7. Create and open a new `[website-name-with-lowercase].txt` file in `nothingblock/filters/` with **Code editor**.
+8. Paste the text to the file.
+9. Edit the file in the format below:
 
     ```adblock-filter
-    ! [Website Name with normal case](like "NothingBlock")
-        ! [Website section 1](like "Home")
+    ! [Website Name with normal case] (like "NothingBlock")
+        ! [Website section 1] (like "Home")
             [ab blcok list 1]
             [ab blcok list 2]
             ...
-        ! [Website section 2](like "Article")
+        ! [Website section 2] (like "Article")
             [ab blcok list 3]
             [ab blcok list 4]
             ...
@@ -79,11 +80,11 @@ Add supported website(s):
 
 Add items to supported website(s):
 
-- [Website Name with normal case] ([Added item])
+- [Website Name with normal case] ([Detail])
 - ...
 
 Fix issues on supported website(s):
 
-- [Website Name with normal case] ([Fixed item])
+- [Website Name with normal case] ([Detail])
 - ...
 ```
