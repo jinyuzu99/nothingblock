@@ -7,6 +7,7 @@
 - Microsoft Office
 - Spotify
 - SMZDM
+- Amazon.cn
 
 ## Developing
 
