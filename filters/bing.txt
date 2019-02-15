@@ -5,7 +5,9 @@
         bing.com###id_rh
         bing.com###hp_bottomCell
         bing.com###sc_hdu
-        bing.com##.tipContainer
     ! Result
         bing.com###b_footer
-        bing.com###ev_talkbox_wrapper
+        bing.com##.rqnaContainer
+        cn.bing.com##.tipContainer
+        cn.bing.com##.bottomTipContainer
+        cn.bing.com###ev_talkbox_wrapper

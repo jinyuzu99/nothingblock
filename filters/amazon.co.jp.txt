@@ -1,0 +1,18 @@
+! Amazon.co.jp
+    ! Home
+        www.amazon.co.jp##.nav-prime-try
+        www.amazon.co.jp###nav-link-prime
+        www.amazon.co.jp###nav-swmslot
+        www.amazon.co.jp###nav-supra
+        www.amazon.co.jp###nav-orders
+        www.amazon.co.jp###main-content
+        www.amazon.co.jp###rhf
+        www.amazon.co.jp###navBackToTop
+        www.amazon.co.jp##.navFooterLinkLine
+    ! Item
+        www.amazon.co.jp###detail-ilm_div
+        www.amazon.co.jp###tell-a-friend
+        www.amazon.co.jp###sims-consolidated-1_feature_div
+        www.amazon.co.jp###sims-consolidated-2_feature_div
+    ! Cart
+        www.amazon.co.jp###sc-new-upsell
