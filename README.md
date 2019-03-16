@@ -33,6 +33,7 @@ If you want to add a specific filter list, you can copy the filter list below an
 | [Google Map](filters/google-map.txt) | 2019.1.23 |
 | [Google Photo](filters/google-photo.txt) | 2019.1.23 |
 | [Google Search](filters/google-search.txt) | 2019.2.13 |
+| [Grammarly](filters/grammarly.txt) | 2019.2.13 |
 | [Inoreader](filters/inoreader.txt) | 2019.1.14 |
 | [IT Home](filters/it-home.txt) | 2019.1.23 |
 | [JD](filters/jd.txt) | 2019.1.19 |
