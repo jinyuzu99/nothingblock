@@ -287,6 +287,10 @@
         music.163.com##.n-bill
     ! Artist
         music.163.com##.m-multi
+! Spotify
+    open.spotify.com##.spotify-logo--text
+    open.spotify.com##.NavBar__download-item
+    open.spotify.com##.ConnectBar
 ! Taobao
     ! Main
         taobao.com##.qr

@@ -38,6 +38,7 @@ If you want to add a specific filter list, you can copy the filter list below an
 | [IT Home](filters/it-home.txt) | 2019.1.23 |
 | [JD](filters/jd.txt) | 2019.1.19 |
 | [Netease Music](filters/netease-music.txt) | 2019.2.10 |
+| [Spotify](filters/spotify.txt) | 2019.3.16 |
 | [Taobao](filters/taobao.txt) | 2019.1.19 |
 | [WeChat](filters/wechat.txt) | 2019.3.16 |
 | [YouTube](filters/youtube.txt) | 2019.2.10 |
