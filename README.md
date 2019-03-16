@@ -37,6 +37,7 @@ If you want to add a specific filter list, you can copy the filter list below an
 | [Inoreader](filters/inoreader.txt) | 2019.1.14 |
 | [IT Home](filters/it-home.txt) | 2019.1.23 |
 | [JD](filters/jd.txt) | 2019.1.19 |
+| [Microsoft Office](filters/microsoft-office.txt) | 2019.3.16 |
 | [Netease Music](filters/netease-music.txt) | 2019.2.10 |
 | [Spotify](filters/spotify.txt) | 2019.3.16 |
 | [Taobao](filters/taobao.txt) | 2019.1.19 |

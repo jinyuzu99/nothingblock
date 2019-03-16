@@ -1,0 +1,17 @@
+! Microsoft Office
+    ! Office.com
+        www.office.com##.hero-section
+        www.office.com###my-account-link
+        www.office.com##.feedback-header
+    ! Office App
+        office.live.com##.headXLinks
+        live.com##.headBrand
+        live.com##.cui-ctl-medium
+        live.com##.SkypeButton
+        live.com##.skypeWX
+        live.com##.UsernameContainer
+        live.com###id__24
+    ! OneDrive
+        onedrive.live.com###O365_Lync_ButtonID
+        onedrive.live.com##.o365-flexPane-skype
+        onedrive.live.com##.LeftPane-notifications

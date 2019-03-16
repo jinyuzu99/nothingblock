@@ -4,7 +4,6 @@
 
 - DMZJ
 - Douban
-- Microsoft Office
 - SMZDM
 
 ## Developing
