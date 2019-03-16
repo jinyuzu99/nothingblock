@@ -1,0 +1,4 @@
+! Wechat
+    wx.qq.com##.desc
+    wx.qq.com##.web_wechat_screencut
+    ||res.wx.qq.com/a/wx_fed/webwx/res/static/img/2zrdI1g.jpg

@@ -370,6 +370,10 @@
         chaoshi.tmall.com##.j_MostTop
         chaoshi.tmall.com##.market-feature
         chaoshi.tmall.com##.mui-global-footer-bottom-banner
+! Wechat
+    wx.qq.com##.desc
+    wx.qq.com##.web_wechat_screencut
+    ||res.wx.qq.com/a/wx_fed/webwx/res/static/img/2zrdI1g.jpg
 ! YouTube
     youtube.com###footer
     youtube.com###button > .ytd-topbar-menu-button-renderer
