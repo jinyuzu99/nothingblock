@@ -2,7 +2,7 @@
 ! Title: NothingBlock filter
 ! Homepage: https://github.com/sayomelu/NothingBlock
 ! Expires: 1 days
-! Version: 2019.2.15
+! Version: 2019.3.17
 !
 ! AcFun
     ! Home
