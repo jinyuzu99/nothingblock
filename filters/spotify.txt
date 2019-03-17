@@ -1,0 +1,4 @@
+! Spotify
+    open.spotify.com##.spotify-logo--text
+    open.spotify.com##.NavBar__download-item
+    open.spotify.com##.ConnectBar

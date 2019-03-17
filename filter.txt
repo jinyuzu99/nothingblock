@@ -2,7 +2,7 @@
 ! Title: NothingBlock filter
 ! Homepage: https://github.com/sayomelu/NothingBlock
 ! Expires: 5 days
-! Version: 2019.2.15
+! Version: 2019.3.17
 !
 ! AcFun
     ! Home
@@ -218,6 +218,11 @@
         google.*##.kno-ftr
         google.*###footcnt
         google.*##.OJXvsb
+! Grammarly
+    ! Home
+        app.grammarly.com##._6d7d6010-index_navigation-apps
+    ! Documents
+        app.grammarly.com##._c9042367-button-button._8188d399-new_toggler-issuesWrapper._9a4125a4-typography-header3legacy
 ! Inoreader
     ! Web
         inoreader.com###below_tree
@@ -235,6 +240,23 @@
     ! Detail
         ithome.com##.sidebar
         ithome.com##.dajia
+! Microsoft Office
+    ! Office.com
+        www.office.com##.hero-section
+        www.office.com###my-account-link
+        www.office.com##.feedback-header
+    ! Office App
+        office.live.com##.headXLinks
+        live.com##.headBrand
+        live.com##.cui-ctl-medium
+        live.com##.SkypeButton
+        live.com##.skypeWX
+        live.com##.UsernameContainer
+        live.com###id__24
+    ! OneDrive
+        onedrive.live.com###O365_Lync_ButtonID
+        onedrive.live.com##.o365-flexPane-skype
+        onedrive.live.com##.LeftPane-notifications
 ! JD
     ! Main
         jd.com##.s-show
@@ -282,6 +304,10 @@
         music.163.com##.n-bill
     ! Artist
         music.163.com##.m-multi
+! Spotify
+    open.spotify.com##.spotify-logo--text
+    open.spotify.com##.NavBar__download-item
+    open.spotify.com##.ConnectBar
 ! Taobao
     ! Main
         taobao.com##.qr
@@ -365,7 +391,18 @@
         chaoshi.tmall.com##.j_MostTop
         chaoshi.tmall.com##.market-feature
         chaoshi.tmall.com##.mui-global-footer-bottom-banner
+! Wechat
+    wx.qq.com##.desc
+    wx.qq.com##.web_wechat_screencut
+    ||res.wx.qq.com/a/wx_fed/webwx/res/static/img/2zrdI1g.jpg
 ! YouTube
     youtube.com###footer
     youtube.com###button > .ytd-topbar-menu-button-renderer
     youtube.com##.force-icon-button.size-default.style-default.ytd-menu-renderer.style-scope:nth-of-type(1)
+! Zhihu
+    ! Home
+        www.zhihu.com##.Footer
+        www.zhihu.com##.CornerButtons
+    ! Answer
+        www.zhihu.com##.RelatedCommodities-title
+        www.zhihu.com##.RelatedCommodities-list
