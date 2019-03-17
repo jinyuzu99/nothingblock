@@ -43,6 +43,7 @@ If you want to add a specific filter list, you can copy the filter list below an
 | [Taobao](filters/taobao.txt) | 2019.1.19 |
 | [WeChat](filters/wechat.txt) | 2019.3.16 |
 | [YouTube](filters/youtube.txt) | 2019.2.10 |
+| [Zhihu](filters/zhihu.txt) | 2019.3.17 |
 | [More](docs/more-websites.md) | .  . .  |
 
 ## Contributing
