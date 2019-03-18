@@ -1,7 +1,7 @@
 [Adblock Plus 3.0]
 ! Title: NothingBlock filter
 ! Homepage: https://github.com/sayomelu/NothingBlock
-! Expires: 1 days
+! Expires: 5 days
 ! Version: 2019.3.18
 !
 ! AcFun
