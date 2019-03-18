@@ -2,7 +2,7 @@
 ! Title: NothingBlock filter
 ! Homepage: https://github.com/sayomelu/NothingBlock
 ! Expires: 5 days
-! Version: 2019.3.17
+! Version: 2019.3.18
 !
 ! AcFun
     ! Home
@@ -94,7 +94,6 @@
         www.amazon.co.jp###sims-consolidated-2_feature_div
     ! Cart
         www.amazon.co.jp###sc-new-upsell
-
 ! Amazon.com
     ! Home
         amazon.com###nav-upnav
@@ -167,7 +166,6 @@
         bing.com###id_s
         bing.com###id_rh
         bing.com###hp_bottomCell
-        bing.com###sc_hdu
     ! Result
         bing.com###b_footer
         bing.com##.rqnaContainer

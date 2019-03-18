@@ -4,7 +4,6 @@
         bing.com###id_s
         bing.com###id_rh
         bing.com###hp_bottomCell
-        bing.com###sc_hdu
     ! Result
         bing.com###b_footer
         bing.com##.rqnaContainer
