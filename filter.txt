@@ -94,7 +94,6 @@
         www.amazon.co.jp###sims-consolidated-2_feature_div
     ! Cart
         www.amazon.co.jp###sc-new-upsell
-
 ! Amazon.com
     ! Home
         amazon.com###nav-upnav
