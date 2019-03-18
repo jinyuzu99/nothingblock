@@ -25,7 +25,7 @@ If you want to add a specific filter list, you can copy the filter list below an
 | [Amazon.co.jp](filters/amazon.co.jp.txt) | 2019.2.13 |
 | [Amazon.com](filters/amazon.com.txt) | 2019.2.13 |
 | [Bilibili](filters/bilibili.txt) | 2019.2.4 |
-| [Bing](filters/bing.txt) | 2019.2.13 |
+| [Bing](filters/bing.txt) | 2019.3.18 |
 | [DuckDuckGo](filters/duckduckgo.txt) | 2019.1.23 |
 | [Evernote](filters/evernote.txt) | 2019.1.14 |
 | [Google Drive](filters/google-drive.txt) | 2019.1.14 |

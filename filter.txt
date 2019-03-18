@@ -2,7 +2,7 @@
 ! Title: NothingBlock filter
 ! Homepage: https://github.com/sayomelu/NothingBlock
 ! Expires: 5 days
-! Version: 2019.3.17
+! Version: 2019.3.18
 !
 ! AcFun
     ! Home
@@ -167,7 +167,6 @@
         bing.com###id_s
         bing.com###id_rh
         bing.com###hp_bottomCell
-        bing.com###sc_hdu
     ! Result
         bing.com###b_footer
         bing.com##.rqnaContainer
