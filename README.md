@@ -35,7 +35,7 @@ If you want to add a specific filter list, you can copy the filter list below an
 | [Google Search](filters/google-search.txt) | 2019.2.13 |
 | [Grammarly](filters/grammarly.txt) | 2019.3.16 |
 | [Inoreader](filters/inoreader.txt) | 2019.1.14 |
-| [IT Home](filters/it-home.txt) | 2019.1.23 |
+| [IT Home](filters/it-home.txt) | 2019.3.22 |
 | [JD](filters/jd.txt) | 2019.1.19 |
 | [Microsoft Office](filters/microsoft-office.txt) | 2019.3.16 |
 | [Netease Music](filters/netease-music.txt) | 2019.2.10 |
