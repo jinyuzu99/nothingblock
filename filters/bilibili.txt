@@ -30,6 +30,18 @@
     ! Player
         bilibili.com###live_recommand_report
         bilibili.com##.bilibili-player-video-message
+        bilibili.com##.header-pay-banner
+        bilibili.com##.pendant
+        bilibili.com##.true-love
+        bilibili.com##.nameplate
+        bilibili.com##.hot-follow
+        bilibili.com##.level
+        bilibili.com##.p-auth.auth
+        bilibili.com##.legalize
+        bilibili.com##.nav-goto-top
+        bilibili.com##.backup
+        bilibili.com###entryOld
+        bilibili.com##.help
     ! Feed
         t.bilibili.com##.back-top
         t.bilibili.com##.f-lefright-panel
