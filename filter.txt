@@ -2,7 +2,7 @@
 ! Title: NothingBlock filter
 ! Homepage: https://github.com/sayomelu/NothingBlock
 ! Expires: 5 days
-! Version: 2019.3.22
+! Version: 2019.4.3
 !
 ! AcFun
     ! Home
@@ -59,7 +59,6 @@
     ! Home
         amazon.cn###rhf
         amazon.cn###ctads
-        amazon.cn###navFooter
         amazon.cn###nav-swmslot
         amazon.cn##.nav-prime-try
         amazon.cn###nav-link-prime
@@ -143,6 +142,18 @@
     ! Player
         bilibili.com###live_recommand_report
         bilibili.com##.bilibili-player-video-message
+        bilibili.com##.header-pay-banner
+        bilibili.com##.pendant
+        bilibili.com##.true-love
+        bilibili.com##.nameplate
+        bilibili.com##.hot-follow
+        bilibili.com##.level
+        bilibili.com##.p-auth.auth
+        bilibili.com##.legalize
+        bilibili.com##.nav-goto-top
+        bilibili.com##.backup
+        bilibili.com###entryOld
+        bilibili.com##.help
     ! Feed
         t.bilibili.com##.back-top
         t.bilibili.com##.f-lefright-panel
