@@ -4,8 +4,8 @@
         bilibili.com##.mobile.nav-item
         bilibili.com##.nav-gif.gif-menu
         bilibili.com###fixed_app_download
-        bilibili.com##.bili-footer.footer
         bilibili.com##.elevator-module.report-wrap-module
+        bilibili.com##.fr > .nav-item:nth-of-type(2)
         ! Section (Add ! to enable a section)
         bilibili.com###special_recommend
         bilibili.com###home_popularize
@@ -27,6 +27,7 @@
         bilibili.com###bili_ad
         bilibili.com###bili_fashion
         bilibili.com###bili_teleplay
+        bilibili.com###bili_article
     ! Player
         bilibili.com###live_recommand_report
         bilibili.com##.bilibili-player-video-message
@@ -47,13 +48,21 @@
         t.bilibili.com##.f-lefright-panel
         ||s2.hdslb.com/bfs/static/blive/blfe-dynamic-web/static/img/*
     ! Live
+        live.bilibili.com###area-ctnr
+        live.bilibili.com##.shortcut-item:nth-of-type(3)
+        live.bilibili.com##.nav-items-ctnr
         live.bilibili.com##.hot-list
         live.bilibili.com##.idol-show
         live.bilibili.com##.link-footer
         live.bilibili.com##.side-bar-cntr
         live.bilibili.com###player-header
-        live.bilibili.com##.haruna-canvas
+        live.bilibili.com##.activity-pushing-out
+        live.bilibili.com###my-dear-haruna-vm
         live.bilibili.com##.video-cannot-autoplay-tips
+        live.bilibili.com##.fans-medal-item-ctnr
+		live.bilibili.com##.user-level-icon
+		live.bilibili.com##.title-label
+        live.bilibili.com##.left-action
     ! Read
         bilibili.com##.on.right-side-bar
         bilibili.com##.up-article-list-block
