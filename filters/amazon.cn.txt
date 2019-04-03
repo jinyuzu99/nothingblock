@@ -2,7 +2,6 @@
     ! Home
         amazon.cn###rhf
         amazon.cn###ctads
-        amazon.cn###navFooter
         amazon.cn###nav-swmslot
         amazon.cn##.nav-prime-try
         amazon.cn###nav-link-prime

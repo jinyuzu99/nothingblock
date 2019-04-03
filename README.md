@@ -21,7 +21,7 @@ If you want to add a specific filter list, you can copy the filter list below an
 |:----------------:|:---------------:|
 | [AcFun](filters/acfun.txt) | 2019.2.11 |
 | [Amap](filters/amap.txt) | 2019.1.23 |
-| [Amazon.cn](filters/amazon.cn.txt) | 2019.1.19 |
+| [Amazon.cn](filters/amazon.cn.txt) | 2019.4.3 |
 | [Amazon.co.jp](filters/amazon.co.jp.txt) | 2019.2.13 |
 | [Amazon.com](filters/amazon.com.txt) | 2019.2.13 |
 | [Bilibili](filters/bilibili.txt) | 2019.4.1 |

@@ -2,7 +2,7 @@
 ! Title: NothingBlock filter
 ! Homepage: https://github.com/sayomelu/NothingBlock
 ! Expires: 5 days
-! Version: 2019.4.1
+! Version: 2019.4.3
 !
 ! AcFun
     ! Home
@@ -59,7 +59,6 @@
     ! Home
         amazon.cn###rhf
         amazon.cn###ctads
-        amazon.cn###navFooter
         amazon.cn###nav-swmslot
         amazon.cn##.nav-prime-try
         amazon.cn###nav-link-prime
