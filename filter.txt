@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/sayomelu/NothingBlock
 ! Expires: 5 days
 ! Version: 2019.4.17
-
+!
 ! AcFun
     ! Home
         acfun.cn###appguideBox
@@ -110,6 +110,21 @@
         amazon.com###alternativeOfferEligibilityMessaging_feature_div
     ! Cart
     	www.amazon.com###sc-new-upsell
+! Baidu Search
+	! Home
+		www.baidu.com##a.mnav:nth-of-type(1)
+		www.baidu.com##a.mnav:nth-of-type(2)
+		www.baidu.com##a.mnav:nth-of-type(3)
+		www.baidu.com##a.mnav:nth-of-type(4)
+		www.baidu.com##a.mnav:nth-of-type(5)
+		www.baidu.com##a.mnav:nth-of-type(6)
+		www.baidu.com###s_upfunc_menus
+		www.baidu.com##.bri
+		www.baidu.com##.qrcode-item-1.qrcode-item
+		www.baidu.com###lh
+	! Results
+		www.baidu.com###content_right
+		www.baidu.com##.toindex
 ! Baidu Search
 	! Home
 		www.baidu.com##a.mnav:nth-of-type(1)
