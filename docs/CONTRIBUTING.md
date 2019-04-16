@@ -26,9 +26,6 @@ If you want to contribute directly to the code base, please follow the steps bel
 - [Git](https://git-scm.com/) or [GitHub Desktop](https://desktop.github.com)
 
 - Web browser
-  - [Firefox](https://www.mozilla.org/firefox/) (**Recommended**)
-  - [Safari](https://www.apple.com/safari/)
-  - [more...](https://bing.com/search?q=web+browser)
 
 - Ad blocker
   - [uBlock Original](https://github.com/gorhill/uBlock) (**Recommended**)
