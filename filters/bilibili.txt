@@ -28,6 +28,8 @@
         bilibili.com###bili_fashion
         bilibili.com###bili_teleplay
         bilibili.com###bili_article
+    ! Search
+        search.bilibili.com##.rocket-con
     ! Player
         bilibili.com###live_recommand_report
         bilibili.com##.bilibili-player-video-message
