@@ -24,7 +24,7 @@ If you want to add a specific filter list, you can copy the filter list below an
 | [Amazon.cn](filters/amazon.cn.txt) | 2019.4.3 |
 | [Amazon.co.jp](filters/amazon.co.jp.txt) | 2019.2.13 |
 | [Amazon.com](filters/amazon.com.txt) | 2019.2.13 |
-| [Bilibili](filters/bilibili.txt) | 2019.4.3 |
+| [Bilibili](filters/bilibili.txt) | 2019.4.17 |
 | [Bing](filters/bing.txt) | 2019.3.18 |
 | [DuckDuckGo](filters/duckduckgo.txt) | 2019.1.23 |
 | [Evernote](filters/evernote.txt) | 2019.1.14 |
@@ -54,9 +54,3 @@ Follow the [Contributing](docs/CONTRIBUTING.md) document to make contribution.
 
 - Create an [issue](https://github.com/sayomelu/nothingblock/issues/new/choose)
 - Chat on [Telegram Group](https://t.me/nothingblock)
-
-## Donate
-
-Currently received `$0`
-
-Donate with [PayPal](https://paypal.me/p49302) [Alipay](assets/donate-alipay.jpg) [WeChat](assets/donate-wechat.jpg)
