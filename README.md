@@ -54,9 +54,3 @@ Follow the [Contributing](docs/CONTRIBUTING.md) document to make contribution.
 
 - Create an [issue](https://github.com/sayomelu/nothingblock/issues/new/choose)
 - Chat on [Telegram Group](https://t.me/nothingblock)
-
-## Donate
-
-Currently received `$0`
-
-Donate with [PayPal](https://paypal.me/p49302) [Alipay](assets/donate-alipay.jpg) [WeChat](assets/donate-wechat.jpg)
