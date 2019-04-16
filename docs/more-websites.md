@@ -3,8 +3,9 @@
 ## To do
 
 - DMZJ
-- Douban
 - SMZDM
-- recover footer on amazon
+- Netease CC
 
 ## Developing
+
+- Douban
