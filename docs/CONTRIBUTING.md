@@ -13,7 +13,7 @@ Please create or check [issues](https://github.com/sayomelu/nothingblock/issues/
 
 If you want to chat with other users, please join our [Telegram Group](https://t.me/nothingblock).
 
-## Contribute to code
+## Contributing to code
 
 If you want to contribute directly to the code base, please follow the steps below.
 
@@ -26,9 +26,6 @@ If you want to contribute directly to the code base, please follow the steps bel
 - [Git](https://git-scm.com/) or [GitHub Desktop](https://desktop.github.com)
 
 - Web browser
-  - [Firefox](https://www.mozilla.org/firefox/) (**Recommended**)
-  - [Safari](https://www.apple.com/safari/)
-  - [more...](https://bing.com/search?q=web+browser)
 
 - Ad blocker
   - [uBlock Original](https://github.com/gorhill/uBlock) (**Recommended**)
@@ -37,12 +34,11 @@ If you want to contribute directly to the code base, please follow the steps bel
 
 - Code editor
   - [Visual Studio Code](https://code.visualstudio.com/) (**Recommend**)
-  - [Atom](https://atom.io/)
   - [more...](https://bing.com/search?q=code+editor)
 
 ### Writing filters
 
-(With recommended setup)
+With recommended setup.
 
 1. Open the website you want to block on your **Web browser** with **Ad blocker** enabled.
 2. `Secondary click` on the website element you want to block, then choose `Block Element`.
@@ -66,7 +62,7 @@ If you want to contribute directly to the code base, please follow the steps bel
             ...
     ```
 
-    (You can use **Regular Expression** in [Tool](../assets/tool.md) to remove `!` and `[return]`)
+    (You can use **Regular Expression** in [Tool](/docs/tool.md) to remove `!` and `[return]`)
 
 ### Pulling Requests
 
