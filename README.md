@@ -19,14 +19,15 @@ If you want to add a specific filter list, you can copy the filter list below an
 
 | **Website Name** | **Update Time** |
 |:----------------:|:---------------:|
-| [AcFun](filters/acfun.txt) | 2019.2.11 |
+| [AcFun](filters/acfun.txt) | 2019.4.29 |
 | [Amap](filters/amap.txt) | 2019.1.23 |
 | [Amazon.cn](filters/amazon.cn.txt) | 2019.4.3 |
 | [Amazon.co.jp](filters/amazon.co.jp.txt) | 2019.2.13 |
 | [Amazon.com](filters/amazon.com.txt) | 2019.2.13 |
 | [Baidu Search](filters/baidu-search.txt) | 2019.4.17 |
-| [Bilibili](filters/bilibili.txt) | 2019.4.17 |
+| [Bilibili](filters/bilibili.txt) | 2019.4.29 |
 | [Bing](filters/bing.txt) | 2019.3.18 |
+| [DMZJ](filters/dmzj.txt) | 2019.4.29 |
 | [DuckDuckGo](filters/duckduckgo.txt) | 2019.1.23 |
 | [Evernote](filters/evernote.txt) | 2019.1.14 |
 | [Google Drive](filters/google-drive.txt) | 2019.1.14 |
