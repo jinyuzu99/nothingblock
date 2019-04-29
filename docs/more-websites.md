@@ -2,10 +2,8 @@
 
 ## To do
 
-- DMZJ
-- SMZDM
 - Netease CC
 
 ## Developing
 
-- Douban
+- SMZDM

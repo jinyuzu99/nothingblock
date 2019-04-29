@@ -6,6 +6,7 @@
         bilibili.com###fixed_app_download
         bilibili.com##.elevator-module.report-wrap-module
         bilibili.com##.fr > .nav-item:nth-of-type(2)
+        bilibili.com##.gg-floor-module
         ! Section (Add ! to enable a section)
         bilibili.com###special_recommend
         bilibili.com###home_popularize
@@ -28,6 +29,7 @@
         bilibili.com###bili_fashion
         bilibili.com###bili_teleplay
         bilibili.com###bili_article
+        bilibili.com##.num
     ! Search
         search.bilibili.com##.rocket-con
     ! Player
@@ -43,7 +45,7 @@
         bilibili.com##.legalize
         bilibili.com##.nav-goto-top
         bilibili.com##.backup
-        bilibili.com###entryOld
+        bilibili.com##.entryOld
         bilibili.com##.help
     ! Feed
         t.bilibili.com##.back-top

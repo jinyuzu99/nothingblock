@@ -8,6 +8,7 @@
         acfun.cn##.area-ad.area
         acfun.cn##.footer-top.clearfix
         acfun.cn##.area-monkey.area.wp
+        acfun.cn###to-top
         acfun.cn##section.area-channel-big.area-channel.area.column-box.clearfix.wp:nth-of-type(4)
         acfun.cn##section.area-channel-big.area-channel.area.column-box.clearfix.wp:nth-of-type(5)
         acfun.cn##section.area-channel-big.area-channel.area.column-box.clearfix.wp:nth-of-type(7)
