@@ -3,7 +3,7 @@
 ## To do
 
 - Netease CC
+- CSDN
+- Weibo
 
 ## Developing
-
-- SMZDM
