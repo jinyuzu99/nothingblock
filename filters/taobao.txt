@@ -1,5 +1,5 @@
 ! Taobao
-    ! Main
+    ! Global
         taobao.com##.qr
         taobao.com##.footer
         taobao.com##.follow-mobile

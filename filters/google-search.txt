@@ -1,16 +1,15 @@
 ! Google Search
-    ! All
+    ! Global
         google.*##.gb_Bb
         google.*##.gb_Ib
         google.*##.gb_Tg
+        google.*##.gb_Tf
     ! Home
         google.*###hptl
-        google.*##.gb_dh
-        google.*###footer
-        google.*###prm-pt
+        google.*##.gb_Zd
         google.*###gbqfbb
         google.*###sbfblt
-        google.*##input:nth-of-type(2)
+        google.*##.VlcLAe
     ! Result
         google.*##.AUiS2
         google.*###resultStats
