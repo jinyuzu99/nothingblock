@@ -1,4 +1,11 @@
-! Bilibili    
+[Adblock Plus 3.0]
+! Title: NothingBlock Zero filter
+! Homepage: https://github.com/sayomelu/NothingBlock
+! Licence: https://github.com/sayomelu/nothingblock/blob/master/LICENSE
+! Expires: 5 days
+! Version: 2019.5.12
+!
+! Bilibili Zero
     ! Home
         bilibili.com##.fl.nav-con
         bilibili.com##.fr > .nav-item:nth-of-type(3)
