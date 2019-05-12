@@ -206,6 +206,35 @@
         bilibili.com##.up-article-list-block
     ! Space
         space.bilibili.com##.to-top
+! DMZJ
+    ! Home  
+        dmzj.com##a[href="//www.dmzj.com/app/index.html"]
+        dmzj.com##.login_tip
+        dmzj.com###floatCode
+        dmzj.com##.announce
+        dmzj.com##.ad
+        dmzj.com###sidePublic
+        dmzj.com##.head-public.youn_mh:nth-of-type(5)
+        dmzj.com##.head-public.youn_mh:nth-of-type(6)
+        dmzj.com##.comic_tab
+    ! Manhua
+        ||manhua.dmzj.com/css/img/mh_bg.jpg$image
+        manhua.dmzj.com##.logobox
+        manhua.dmzj.com##.newbotton
+        manhua.dmzj.com##.odd_anim_title
+        manhua.dmzj.com##.middleright_mr:nth-of-type(1) > .photo_part > .h2_title2 > h2
+        manhua.dmzj.com##.h2_icon22
+        manhua.dmzj.com##.icorss_acg
+        manhua.dmzj.com##.middleright_mr:nth-of-type(3) > .photo_part
+        manhua.dmzj.com##span > a[href="http://www.dmzj.com/app/pc.html"]
+        manhua.dmzj.com##.tcaricature_new:nth-of-type(7)
+        manhua.dmzj.com##.caricature_see
+        manhua.dmzj.com##.initialsnewindex
+        manhua.dmzj.com##.tcaricature_new:nth-of-type(11)
+        manhua.dmzj.com##.tcaricature_new:nth-of-type(12)
+        manhua.dmzj.com##.share_self
+        manhua.dmzj.com##.margin_top_10px.read_week:nth-of-type(4)
+        manhua.dmzj.com##.margin_top_10px.read_week:nth-of-type(5)
 ! Bing
     ! Home
         bing.com###id_n
