@@ -1,6 +1,7 @@
 ! JD
-    ! Main
+    ! Global
         jd.com##.s-show
+        jd.com###J_event
         jd.com##.jTdCode
         jd.com###footmark
         jd.com###nav-2014

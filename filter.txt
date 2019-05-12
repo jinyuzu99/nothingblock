@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/sayomelu/NothingBlock
 ! Licence: https://github.com/sayomelu/nothingblock/blob/master/LICENSE
 ! Expires: 5 days
-! Version: 2019.4.29
+! Version: 2019.5.12
 !
 ! AcFun
     ! Home
@@ -114,34 +114,20 @@
     	www.amazon.com###sc-new-upsell
 ! Baidu Search
 	! Home
-		www.baidu.com##a.mnav:nth-of-type(1)
-		www.baidu.com##a.mnav:nth-of-type(2)
-		www.baidu.com##a.mnav:nth-of-type(3)
-		www.baidu.com##a.mnav:nth-of-type(4)
-		www.baidu.com##a.mnav:nth-of-type(5)
-		www.baidu.com##a.mnav:nth-of-type(6)
-		www.baidu.com###s_upfunc_menus
-		www.baidu.com##.bri
-		www.baidu.com##.qrcode-item-1.qrcode-item
-		www.baidu.com###lh
+		baidu.com##a.mnav:nth-of-type(1)
+		baidu.com##a.mnav:nth-of-type(2)
+		baidu.com##a.mnav:nth-of-type(3)
+		baidu.com##a.mnav:nth-of-type(4)
+		baidu.com##a.mnav:nth-of-type(5)
+		baidu.com##a.mnav:nth-of-type(6)
+		baidu.com###s_upfunc_menus
+		baidu.com##.bri
+		baidu.com##.qrcode-item-1.qrcode-item
+		baidu.com###lh
+		baidu.com###s_wrap
 	! Results
-		www.baidu.com###content_right
-		www.baidu.com##.toindex
-! Baidu Search
-	! Home
-		www.baidu.com##a.mnav:nth-of-type(1)
-		www.baidu.com##a.mnav:nth-of-type(2)
-		www.baidu.com##a.mnav:nth-of-type(3)
-		www.baidu.com##a.mnav:nth-of-type(4)
-		www.baidu.com##a.mnav:nth-of-type(5)
-		www.baidu.com##a.mnav:nth-of-type(6)
-		www.baidu.com###s_upfunc_menus
-		www.baidu.com##.bri
-		www.baidu.com##.qrcode-item-1.qrcode-item
-		www.baidu.com###lh
-	! Results
-		www.baidu.com###content_right
-		www.baidu.com##.toindex
+		baidu.com###content_right
+		baidu.com##.toindex
 ！Bilibili
     ! Home
         bilibili.com##.icon.go-top
@@ -181,16 +167,20 @@
         bilibili.com##.bilibili-player-video-message
         bilibili.com##.header-pay-banner
         bilibili.com##.pendant
+        bilibili.com##.reply-notice
         bilibili.com##.true-love
         bilibili.com##.nameplate
         bilibili.com##.hot-follow
         bilibili.com##.level
         bilibili.com##.p-auth.auth
         bilibili.com##.legalize
+        bilibili.com##.float-nav
         bilibili.com##.nav-goto-top
         bilibili.com##.backup
-        bilibili.com##.entryOld
+        bilibili.com###entryOld
+        bilibili.com##.entry-old
         bilibili.com##.help
+        bilibili.com###activity_vote
     ! Feed
         t.bilibili.com##.back-top
         t.bilibili.com##.f-lefright-panel
@@ -216,6 +206,18 @@
         bilibili.com##.up-article-list-block
     ! Space
         space.bilibili.com##.to-top
+! Bing
+    ! Home
+        bing.com###id_n
+        bing.com###id_s
+        bing.com###id_rh
+        bing.com###hp_bottomCell
+    ! Result
+        bing.com###b_footer
+        bing.com##.rqnaContainer
+        cn.bing.com##.tipContainer
+        cn.bing.com##.bottomTipContainer
+        cn.bing.com###ev_talkbox_wrapper
 ! DMZJ
     ! Home  
         dmzj.com##a[href="//www.dmzj.com/app/index.html"]
@@ -245,18 +247,6 @@
         manhua.dmzj.com##.share_self
         manhua.dmzj.com##.margin_top_10px.read_week:nth-of-type(4)
         manhua.dmzj.com##.margin_top_10px.read_week:nth-of-type(5)
-! Bing
-    ! Home
-        bing.com###id_n
-        bing.com###id_s
-        bing.com###id_rh
-        bing.com###hp_bottomCell
-    ! Result
-        bing.com###b_footer
-        bing.com##.rqnaContainer
-        cn.bing.com##.tipContainer
-        cn.bing.com##.bottomTipContainer
-        cn.bing.com###ev_talkbox_wrapper
 ! DuckDuckGo
     ! Home
         duckduckgo.com##.showcase
@@ -282,18 +272,17 @@
     photos.google.com##.E9F9ef
     photos.google.com##.DNAsC:nth-of-type(5)
 ! Google Search
-    ! All
+    ! Global
         google.*##.gb_Bb
         google.*##.gb_Ib
         google.*##.gb_Tg
+        google.*##.gb_Tf
     ! Home
         google.*###hptl
-        google.*##.gb_dh
-        google.*###footer
-        google.*###prm-pt
+        google.*##.gb_Zd
         google.*###gbqfbb
         google.*###sbfblt
-        google.*##input:nth-of-type(2)
+        google.*##.VlcLAe
     ! Result
         google.*##.AUiS2
         google.*###resultStats
@@ -340,8 +329,9 @@
         onedrive.live.com##.o365-flexPane-skype
         onedrive.live.com##.LeftPane-notifications
 ! JD
-    ! Main
+    ! Global
         jd.com##.s-show
+        jd.com###J_event
         jd.com##.jTdCode
         jd.com###footmark
         jd.com###nav-2014
