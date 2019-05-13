@@ -35,4 +35,3 @@
         acfun.cn###up-contributions
         acfun.cn##.ArticleBlockRight.delveField
         acfun.cn##div.ArticleDynamicsTitle:nth-of-type(2)
-		
