@@ -51,7 +51,7 @@ With recommended setup.
 9. Edit the file in the format below:
 
     ```adblock-filter
-    ! [Website Name with normal case] (like "NothingBlock")
+    ! [Website Name with normal case] (like "Nothingblock")
         ! [Website section 1] (like "Home")
             [ab blcok list 1]
             [ab blcok list 2]

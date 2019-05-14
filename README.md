@@ -1,19 +1,19 @@
-# NothingBlock
+# Nothingblock
 
 > “You know you've achieved perfection in design, not when you have nothing more to add, but when you have nothing more to take away.” ― Antoine de Saint-Exupéry
 
-NothingBlock blocks unnecessary elements to have "nothing more to take away".
+Nothingblock blocks unnecessary elements to have "nothing more to take away".
 
-![NothingBlock on Amazon.com](assets/nothingblock-on-amazon.com.jpg)
-![NothingBlock on Taobao](assets/nothingblock-on-taobao.jpg)
+![Nothingblock on Amazon.com](assets/nothingblock-on-amazon.com.jpg)
+![Nothingblock on Taobao](assets/nothingblock-on-taobao.jpg)
 
 ## Getting Started
 
-Add the URL below to your [ad blocker](https://bing.com/search?q=ad+blocker) to use all NothingBlock filters.
+Add the URL below to your [ad blocker](https://bing.com/search?q=ad+blocker) to use all Nothingblock filters.
 
 `https://raw.githubusercontent.com/sayomelu/nothingblock/master/filter.txt`
 
-If you want to leave the contant only, add the URL below to your [ad blocker](https://bing.com/search?q=ad+blocker) to use all NothingBlock Zero filters.
+If you want to leave the contant only, add the URL below to your [ad blocker](https://bing.com/search?q=ad+blocker) to use all Nothingblock Zero filters.
 
 `https://raw.githubusercontent.com/sayomelu/nothingblock/master/filter-zero.txt`
 
