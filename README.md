@@ -11,11 +11,11 @@ Nothingblock blocks unnecessary elements to have "nothing more to take away".
 
 Add the URL below to your [ad blocker](https://bing.com/search?q=ad+blocker) to use all Nothingblock filters.
 
-`https://raw.githubusercontent.com/sayomelu/nothingblock/master/filter.txt`
+`https://raw.githubusercontent.com/sayo-melu/nothingblock/master/filter.txt`
 
 If you want to leave the contant only, add the URL below to your [ad blocker](https://bing.com/search?q=ad+blocker) to use all Nothingblock Zero filters.
 
-`https://raw.githubusercontent.com/sayomelu/nothingblock/master/filter-zero.txt`
+`https://raw.githubusercontent.com/sayo-melu/nothingblock/master/filter-zero.txt`
 
 If you want to add a specific filter list, you can copy the filter list below and paste it to your ad blocker filter.
 
@@ -59,5 +59,5 @@ Follow the [Contributing](docs/CONTRIBUTING.md) document to make contribution.
 
 ## Support
 
-- Create an [issue](https://github.com/sayomelu/nothingblock/issues/new/choose)
+- Create an [issue](https://github.com/sayo-melu/nothingblock/issues/new/choose)
 - Chat on [Telegram Group](https://t.me/nothingblock)

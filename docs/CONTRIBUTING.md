@@ -9,7 +9,7 @@ If you want to:
 - Request features
 - Vote for feature requests
 
-Please create or check [issues](https://github.com/sayomelu/nothingblock/issues/new/choose) to make contribution.
+Please create or check [issues](https://github.com/sayo-melu/nothingblock/issues/new/choose) to make contribution.
 
 If you want to chat with other users, please join our [Telegram Group](https://t.me/nothingblock).
 
@@ -19,7 +19,7 @@ If you want to contribute directly to the code base, please follow the steps bel
 
 ### Getting the sources
 
-`git clone https://github.com/sayomelu/nothingblock.git`
+`git clone https://github.com/sayo-melu/nothingblock.git`
 
 ### Prerequisites
 
@@ -66,7 +66,7 @@ With recommended setup.
 
 ### Pulling Requests
 
-After writing your filter, you can pull request to our [develop branch](https://github.com/sayomelu/nothingblock/tree/develop) with the description in the format (also see in [Pull request template](../.github/PULL_REQUEST_TEMPLATE.md)) below:
+After writing your filter, you can pull request to our [develop branch](https://github.com/sayo-melu/nothingblock/tree/develop) with the description in the format (also see in [Pull request template](../.github/PULL_REQUEST_TEMPLATE.md)) below:
 
 ```markdown
 Add supported website(s):
