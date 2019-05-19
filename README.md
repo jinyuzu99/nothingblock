@@ -17,10 +17,6 @@ If you want to leave the contant only, add the URL below to your [ad blocker](ht
 
 `https://raw.githubusercontent.com/sayo-melu/nothingblock/master/filter-zero.txt`
 
-If you want to leave the contant only, add the URL below to your [ad blocker](https://bing.com/search?q=ad+blocker) to use all NothingBlock Zero filters.
-
-`https://raw.githubusercontent.com/sayomelu/nothingblock/master/filter-zero.txt`
-
 If you want to add a specific filter list, you can copy the filter list below and paste it to your ad blocker filter.
 
 ### Supported Websites
