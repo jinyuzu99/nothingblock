@@ -28,12 +28,12 @@ If you want to contribute directly to the code base, please follow the steps bel
 - Web browser
 
 - Ad blocker
-  - [uBlock Original](https://github.com/gorhill/uBlock) (**Recommended**)
+  - [uBlock Original](https://github.com/gorhill/uBlock)
   - [Adblock Plus](https://adblockplus.org)
   - [more...](https://bing.com/search?q=ad+blocker)
 
 - Code editor
-  - [Visual Studio Code](https://code.visualstudio.com/) (**Recommend**)
+  - [Visual Studio Code](https://code.visualstudio.com/)
   - [more...](https://bing.com/search?q=code+editor)
 
 ### Writing filters
@@ -66,7 +66,7 @@ With recommended setup.
 
 ### Pulling Requests
 
-After writing your filter, you can pull request to our [develop branch](https://github.com/sayo-melu/nothingblock/tree/develop) with the description in the format (also see in [Pull request template](../.github/PULL_REQUEST_TEMPLATE.md)) below:
+After writing your filter, you can pull request to our [master branch](https://github.com/sayo-melu/nothingblock/tree/master) with the description in the format (also see in [Pull request template](../.github/PULL_REQUEST_TEMPLATE.md)) below:
 
 ```markdown
 Add supported website(s):
