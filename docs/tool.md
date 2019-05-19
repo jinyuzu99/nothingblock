@@ -4,8 +4,8 @@
 
 ``` adp
 [Adblock Plus 3.0]
-! Title: NothingBlock filter
-! Homepage: https://github.com/sayomelu/NothingBlock
+! Title: Nothingblock filter
+! Homepage: https://github.com/sayo-melu/nothingblock
 ! Expires: 7 days
 ! Version: 2019.1.22
 ```

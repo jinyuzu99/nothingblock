@@ -9,7 +9,7 @@ If you want to:
 - Request features
 - Vote for feature requests
 
-Please create or check [issues](https://github.com/sayomelu/nothingblock/issues/new/choose) to make contribution.
+Please create or check [issues](https://github.com/sayo-melu/nothingblock/issues/new/choose) to make contribution.
 
 If you want to chat with other users, please join our [Telegram Group](https://t.me/nothingblock).
 
@@ -19,7 +19,7 @@ If you want to contribute directly to the code base, please follow the steps bel
 
 ### Getting the sources
 
-`git clone https://github.com/sayomelu/nothingblock.git`
+`git clone https://github.com/sayo-melu/nothingblock.git`
 
 ### Prerequisites
 
@@ -46,12 +46,12 @@ With recommended setup.
 4. Choose `Create` to create a new filter.
 5. Repeat step `2` ~ `4` until there is nothing more to block.
 6. Go to **Ad blocker** `Dashboard`, choose `My filters`, then copy all the filters.
-7. Create and open a new `[website-name-with-lowercase].txt` file in `nothingblock/filters/` with **Code editor**.
+7. Create and open a new `[website-name-with-lowercase].txt` file in `nothingblock/filter-item/` with **Code editor**.
 8. Paste the text to the file.
 9. Edit the file in the format below:
 
     ```adblock-filter
-    ! [Website Name with normal case] (like "NothingBlock")
+    ! [Website Name with normal case] (like "Nothingblock")
         ! [Website section 1] (like "Home")
             [ab blcok list 1]
             [ab blcok list 2]
@@ -66,7 +66,7 @@ With recommended setup.
 
 ### Pulling Requests
 
-After writing your filter, you can pull request to our [develop branch](https://github.com/sayomelu/nothingblock/tree/develop) with the description in the format (also see in [Pull request template](../.github/PULL_REQUEST_TEMPLATE.md)) below:
+After writing your filter, you can pull request to our [develop branch](https://github.com/sayo-melu/nothingblock/tree/develop) with the description in the format (also see in [Pull request template](../.github/PULL_REQUEST_TEMPLATE.md)) below:
 
 ```markdown
 Add supported website(s):

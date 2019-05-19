@@ -1,4 +1,0 @@
-! YouTube
-    youtube.com###footer
-    youtube.com###button > .ytd-topbar-menu-button-renderer
-    youtube.com##.force-icon-button.size-default.style-default.ytd-menu-renderer.style-scope:nth-of-type(1)

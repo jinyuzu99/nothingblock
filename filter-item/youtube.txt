@@ -1,0 +1,3 @@
+! YouTube
+    youtube.com###footer
+    youtube.com###button > .ytd-topbar-menu-button-renderer
