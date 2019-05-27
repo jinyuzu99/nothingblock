@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/sayo-melu/nothingblock
 ! Licence: https://github.com/sayo-melu/nothingblock/blob/master/LICENSE
 ! Expires: 5 days
-! Version: 2019.05.19
+! Version: 2019.05.27
 !
 ! AcFun
     ! Home
@@ -180,6 +180,7 @@
         bilibili.com##.entry-old
         bilibili.com##.help
         bilibili.com###activity_vote
+        bilibili.com##.plad
     ! Feed
         t.bilibili.com##.back-top
         t.bilibili.com##.f-lefright-panel
