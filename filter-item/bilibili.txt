@@ -52,6 +52,7 @@
         bilibili.com##.help
         bilibili.com###activity_vote
         bilibili.com##.plad
+        bilibili.com##.hint-point-red
     ! Feed
         t.bilibili.com##.back-top
         t.bilibili.com##.f-lefright-panel

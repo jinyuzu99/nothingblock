@@ -1,5 +1,7 @@
 # Contributing
 
+[todo: add generate-filter]
+
 ## Feedback
 
 If you want to:
