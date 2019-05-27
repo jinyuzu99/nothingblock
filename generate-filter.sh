@@ -3,13 +3,13 @@
 
 # Nothingblock
 
-header='[Adblock Plus 3.0]
+header="[Adblock Plus 3.0]
 ! Title: Nothingblock filter
 ! Homepage: https://github.com/sayo-melu/nothingblock
 ! Licence: https://github.com/sayo-melu/nothingblock/blob/master/LICENSE
 ! Expires: 5 days
 ! Version: $(date +%Y.%m.%d)
-!'
+!"
 
 rm filter.txt
 touch filter.txt
@@ -24,13 +24,13 @@ done
 
 # Nothingblock Zero
 
-header_zero='[Adblock Plus 3.0]
+header_zero="[Adblock Plus 3.0]
 ! Title: Nothingblock Zero filter
 ! Homepage: https://github.com/sayo-melu/nothingblock
 ! Licence: https://github.com/sayo-melu/nothingblock/blob/master/LICENSE
 ! Expires: 5 days
 ! Version: $(date +%Y.%m.%d)
-!'
+!"
 
 rm filter-zero.txt
 touch filter-zero.txt
