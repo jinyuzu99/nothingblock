@@ -6,8 +6,12 @@
         bilibili.com###fixed_app_download
         bilibili.com##.elevator-module.report-wrap-module
         bilibili.com##.fr > .nav-item:nth-of-type(2)
+        bilibili.com##.fr > li.nav-item:nth-of-type(6)
         bilibili.com##li.loc-menu.nav-item:nth-of-type(7)
         bilibili.com##li.loc-menu.nav-item:nth-of-type(8)
+        bilibili.com##.new-comers-module
+        bilibili.com##.bangumi-module > .r-con
+        bilibili.com##.up-load
         bilibili.com##.gg-floor-module
         ! Section (Add ! to enable a section)
             bilibili.com###special_recommend
