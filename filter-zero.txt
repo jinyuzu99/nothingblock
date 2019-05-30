@@ -2,8 +2,8 @@
 ! Title: Nothingblock Zero filter
 ! Homepage: https://github.com/sayo-melu/nothingblock
 ! Licence: https://github.com/sayo-melu/nothingblock/blob/master/LICENSE
-! Expires: 5 days
-! Version: 2019.05.19
+! Expires: 2 days
+! Version: 2019.05.30
 !
 ! Bilibili
     ! Home

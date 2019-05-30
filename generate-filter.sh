@@ -7,7 +7,7 @@ header="[Adblock Plus 3.0]
 ! Title: Nothingblock filter
 ! Homepage: https://github.com/sayo-melu/nothingblock
 ! Licence: https://github.com/sayo-melu/nothingblock/blob/master/LICENSE
-! Expires: 5 days
+! Expires: 2 days
 ! Version: $(date +%Y.%m.%d)
 !"
 
@@ -28,7 +28,7 @@ header_zero="[Adblock Plus 3.0]
 ! Title: Nothingblock Zero filter
 ! Homepage: https://github.com/sayo-melu/nothingblock
 ! Licence: https://github.com/sayo-melu/nothingblock/blob/master/LICENSE
-! Expires: 5 days
+! Expires: 2 days
 ! Version: $(date +%Y.%m.%d)
 !"
 
