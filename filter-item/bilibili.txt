@@ -1,4 +1,4 @@
-！Bilibili
+! Bilibili
     ! Home
         bilibili.com##.icon.go-top
         bilibili.com##.mobile.nav-item

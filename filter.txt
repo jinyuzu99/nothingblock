@@ -127,7 +127,7 @@
 	! Results
 		baidu.com###content_right
 		baidu.com##.toindex
-！Bilibili
+! Bilibili
     ! Home
         bilibili.com##.icon.go-top
         bilibili.com##.mobile.nav-item
