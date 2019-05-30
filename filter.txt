@@ -139,28 +139,30 @@
         bilibili.com##li.loc-menu.nav-item:nth-of-type(8)
         bilibili.com##.gg-floor-module
         ! Section (Add ! to enable a section)
-        bilibili.com###special_recommend
-        bilibili.com###home_popularize
-        bilibili.com###bili_douga
-        ! bilibili.com##.bangumi-module
-        bilibili.com###bili_guochuang
-        bilibili.com##.clearfix.live-module
-        bilibili.com###bili_music
-        bilibili.com###bili_dance
-        bilibili.com###bili_game
-        bilibili.com###bili_technology
-        bilibili.com###bili_digital
-        bilibili.com###bili_life
-        bilibili.com###bili_documentary
-        bilibili.com###bili_kichiku
-        bilibili.com###bili_ent
-        bilibili.com###bili_movie
-        bilibili.com###bili_cinephile
-        bilibili.com###bili_ad
-        bilibili.com###bili_fashion
-        bilibili.com###bili_teleplay
-        bilibili.com###bili_article
-        bilibili.com##.num
+            bilibili.com###special_recommend
+            bilibili.com###home_popularize
+            bilibili.com###bili_douga
+            ! bilibili.com##.bangumi-module
+                bilibili.com##.new-comers-module
+                bilibili.com##.bangumi-module > .r-con
+            bilibili.com###bili_guochuang
+            bilibili.com##.clearfix.live-module
+            bilibili.com###bili_music
+            bilibili.com###bili_dance
+            bilibili.com###bili_game
+            bilibili.com###bili_technology
+            bilibili.com###bili_digital
+            bilibili.com###bili_life
+            bilibili.com###bili_documentary
+            bilibili.com###bili_kichiku
+            bilibili.com###bili_ent
+            bilibili.com###bili_movie
+            bilibili.com###bili_cinephile
+            bilibili.com###bili_ad
+            bilibili.com###bili_fashion
+            bilibili.com###bili_teleplay
+            bilibili.com###bili_article
+            bilibili.com##.num
     ! Search
         search.bilibili.com##.rocket-con
     ! Player
