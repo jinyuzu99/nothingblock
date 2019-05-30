@@ -56,8 +56,6 @@
     ! Feed
         t.bilibili.com##.back-top
         t.bilibili.com##.f-lefright-panel
-        t.bilibili.com##.guide
-        ||s2.hdslb.com/bfs/static/blive/blfe-dynamic-web/static/img/*.png$image
     ! Live
         live.bilibili.com###area-ctnr
         live.bilibili.com##.shortcut-item:nth-of-type(3)
