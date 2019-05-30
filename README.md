@@ -32,7 +32,7 @@ If you want to add a specific filter list, you can copy the filter list below an
 | [哔哩哔哩](filter-item/bilibili.txt) | 2019.5.30 |
 | [哔哩哔哩 Zero](filter-zero-item/bilibili.txt) | 2019.5.12 |
 | [Bing](filter-item/bing.txt) | 2019.3.18 |
-| [动漫之家](filter-item/dmzj.txt) | 2019.4.29 |
+| [动漫之家](filter-item/dmzj.txt) | 2019.5.30 |
 | [DuckDuckGo](filter-item/duckduckgo.txt) | 2019.1.23 |
 | [Evernote](filter-item/evernote.txt) | 2019.1.14 |
 | [Google Drive](filter-item/google-drive.txt) | 2019.1.14 |
@@ -48,7 +48,7 @@ If you want to add a specific filter list, you can copy the filter list below an
 | [网易云音乐](filter-item/netease-music.txt) | 2019.2.10 |
 | [Spotify](filter-item/spotify.txt) | 2019.3.16 |
 | [淘宝](filter-item/taobao.txt) | 2019.1.19 |
-| [WeChat 微信](filter-item/wechat.txt) | 2019.3.16 |
+| [WeChat 微信](filter-item/wechat.txt) | 2019.5.30 |
 | [YouTube](filter-item/youtube.txt) | 2019.5.19 |
 | [知乎](filter-item/zhihu.txt) | 2019.3.17 |
 | [More](docs/more-websites.md) | .  . .  |

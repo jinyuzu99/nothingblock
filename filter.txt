@@ -238,7 +238,6 @@
         dmzj.com##.head-public.youn_mh:nth-of-type(6)
         dmzj.com##.comic_tab
     ! Manhua
-        ||manhua.dmzj.com/css/img/mh_bg.jpg$image
         manhua.dmzj.com##.logobox
         manhua.dmzj.com##.newbotton
         manhua.dmzj.com##.odd_anim_title
@@ -474,7 +473,6 @@
 ! Wechat
     wx.qq.com##.desc
     wx.qq.com##.web_wechat_screencut
-    ||res.wx.qq.com/a/wx_fed/webwx/res/static/img/2zrdI1g.jpg
 ! YouTube
     youtube.com###footer
     youtube.com###button > .ytd-topbar-menu-button-renderer

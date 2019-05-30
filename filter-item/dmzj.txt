@@ -10,7 +10,6 @@
         dmzj.com##.head-public.youn_mh:nth-of-type(6)
         dmzj.com##.comic_tab
     ! Manhua
-        ||manhua.dmzj.com/css/img/mh_bg.jpg$image
         manhua.dmzj.com##.logobox
         manhua.dmzj.com##.newbotton
         manhua.dmzj.com##.odd_anim_title
