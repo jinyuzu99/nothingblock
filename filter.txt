@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/sayo-melu/nothingblock
 ! Licence: https://github.com/sayo-melu/nothingblock/blob/master/LICENSE
 ! Expires: 2 days
-! Version: 2019.05.30
+! Version: 2019.06.04
 !
 ! AcFun
     ! Home
@@ -474,7 +474,6 @@
     wx.qq.com##.desc
     wx.qq.com##.web_wechat_screencut
 ! YouTube
-    youtube.com###footer
     youtube.com###button > .ytd-topbar-menu-button-renderer
 ! Zhihu
     ! Home
