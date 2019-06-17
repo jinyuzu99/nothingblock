@@ -36,7 +36,6 @@ If you want to add a specific filter list, you can copy the filter list below an
 | [DuckDuckGo](filter-item/duckduckgo.txt) | 2019.1.23 |
 | [Evernote](filter-item/evernote.txt) | 2019.1.14 |
 | [Google Drive](filter-item/google-drive.txt) | 2019.1.14 |
-| [Google Gmail](filter-item/google-gmail.txt) | 2019.1.19 |
 | [Google Map](filter-item/google-map.txt) | 2019.1.23 |
 | [Google Photo](filter-item/google-photo.txt) | 2019.1.23 |
 | [Google Search](filter-item/google-search.txt) | 2019.5.12 |
@@ -45,6 +44,7 @@ If you want to add a specific filter list, you can copy the filter list below an
 | [IT 之家](filter-item/it-home.txt) | 2019.3.22 |
 | [JD 京东](filter-item/jd.txt) | 2019.5.12 |
 | [Microsoft Office](filter-item/microsoft-office.txt) | 2019.3.16 |
+| [网易CC](filter-item/netease-cc.txt) | 2019.6.18 |
 | [网易云音乐](filter-item/netease-music.txt) | 2019.2.10 |
 | [Spotify](filter-item/spotify.txt) | 2019.3.16 |
 | [淘宝](filter-item/taobao.txt) | 2019.1.19 |

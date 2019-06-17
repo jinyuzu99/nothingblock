@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/sayo-melu/nothingblock
 ! Licence: https://github.com/sayo-melu/nothingblock/blob/master/LICENSE
 ! Expires: 2 days
-! Version: 2019.06.04
+! Version: 2019.06.18
 !
 ! AcFun
     ! Home
@@ -267,8 +267,6 @@
     evernote.com###qa-SIDEBAR_UPGRADE_BUTTON
 ! Google Drive
     drive.google.com##.USrqEe-ml-Pr-qc-j
-! Google Gmail
-    mail.google.com###\:3
 ! Google Map
     google.*###fineprint-terms
     google.*###fineprint-rap-link
@@ -371,6 +369,20 @@
         onedrive.live.com###O365_Lync_ButtonID
         onedrive.live.com##.o365-flexPane-skype
         onedrive.live.com##.LeftPane-notifications
+! Netease CC
+    ! Player
+        cc.163.com##.side-nav-container
+        cc.163.com##.header-match-rcm-imgswrap
+        cc.163.com##.download-txt
+        cc.163.com###js-dynamic-msg-container
+        cc.163.com###menu-be-anchor
+        cc.163.com##.user-tool-bar
+        cc.163.com###first-reward-entry
+        cc.163.com###webChat
+        cc.163.com##.chat_priv_img
+        cc.163.com###gift-banner
+        cc.163.com###advertising
+        cc.163.com##.bubbler-modules:nth-of-type(2)
 ! Netease Music
     ! Home
         music.163.com##[href="/store/product"]

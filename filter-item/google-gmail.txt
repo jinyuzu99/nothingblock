@@ -1,2 +1,0 @@
-! Google Gmail
-    mail.google.com###\:3
