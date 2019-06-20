@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/sayo-melu/nothingblock
 ! Licence: https://github.com/sayo-melu/nothingblock/blob/master/LICENSE
 ! Expires: 2 days
-! Version: 2019.06.18
+! Version: 2019.06.20
 !
 ! AcFun
     ! Home
@@ -278,24 +278,21 @@
     photos.google.com##.DNAsC:nth-of-type(5)
 ! Google Search
     ! Global
-        google.*##.gb_Bb
-        google.*##.gb_Ib
-        google.*##.gb_Tg
         google.*##.gb_Tf
+        google.*##.gb_Of
     ! Home
         google.*###hptl
-        google.*##.gb_Zd
-        google.*###gbqfbb
+        google.*##.gb_Td
         google.*###sbfblt
         google.*##.VlcLAe
+        google.*###prm
     ! Result
         google.*##.AUiS2
         google.*###resultStats
         google.*###bres
         google.*##.kno-ftr
         google.*###footcnt
-        google.*##.OJXvsb
-! Grammarly
+        google.*##.OJXvsb! Grammarly
     ! Home
         app.grammarly.com##._6d7d6010-index_navigation-apps
     ! Documents

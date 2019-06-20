@@ -1,15 +1,13 @@
 ! Google Search
     ! Global
-        google.*##.gb_Bb
-        google.*##.gb_Ib
-        google.*##.gb_Tg
         google.*##.gb_Tf
+        google.*##.gb_Of
     ! Home
         google.*###hptl
-        google.*##.gb_Zd
-        google.*###gbqfbb
+        google.*##.gb_Td
         google.*###sbfblt
         google.*##.VlcLAe
+        google.*###prm
     ! Result
         google.*##.AUiS2
         google.*###resultStats

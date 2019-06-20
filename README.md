@@ -38,7 +38,7 @@ If you want to add a specific filter list, you can copy the filter list below an
 | [Google Drive](filter-item/google-drive.txt) | 2019.1.14 |
 | [Google Map](filter-item/google-map.txt) | 2019.1.23 |
 | [Google Photo](filter-item/google-photo.txt) | 2019.1.23 |
-| [Google Search](filter-item/google-search.txt) | 2019.5.12 |
+| [Google Search](filter-item/google-search.txt) | 2019.6.20 |
 | [Grammarly](filter-item/grammarly.txt) | 2019.3.16 |
 | [Inoreader](filter-item/inoreader.txt) | 2019.1.14 |
 | [IT 之家](filter-item/it-home.txt) | 2019.3.22 |
