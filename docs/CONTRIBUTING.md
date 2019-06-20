@@ -1,7 +1,5 @@
 # Contributing
 
-[todo: add generate-filter]
-
 ## Feedback
 
 If you want to:
@@ -40,31 +38,29 @@ If you want to contribute directly to the code base, please follow the steps bel
 
 ### Writing filters
 
-With recommended setup.
+Setup with uBlock Original + Visual Studio Code, others are similar.
 
 1. Open the website you want to block on your **Web browser** with **Ad blocker** enabled.
-2. `Secondary click` on the website element you want to block, then choose `Block Element`.
-3. Find the appropriate fliter in `Cosmetic filters`, then choose `Preview` to check your fliter.
-4. Choose `Create` to create a new filter.
-5. Repeat step `2` ~ `4` until there is nothing more to block.
-6. Go to **Ad blocker** `Dashboard`, choose `My filters`, then copy all the filters.
-7. Create and open a new `[website-name-with-lowercase].txt` file in `nothingblock/filter-item/` with **Code editor**.
-8. Paste the text to the file.
+2. **Secondary click** on the website element you want to block, then choose **Block Element**.
+3. Find the appropriate fliter in **Cosmetic filters**, then choose **Preview** to check your fliter.
+4. Choose **Create** to create a new filter.
+5. Repeat step **2** ~ **4** until there is nothing to block.
+6. Go to **Ad blocker** -> **Dashboard** - > **My filters**, then copy all the filters.
+7. Create and open a new `[Website name with lowercase and hyphen: sample-website].txt` file in `nothingblock/filter-item/` with **Code editor**.
+8. Paste the text to `[Website name with lowercase and hyphen: sample-website].txt`.
 9. Edit the file in the format below:
 
-    ```adblock-filter
-    ! [Website Name with normal case] (like "Nothingblock")
-        ! [Website section 1] (like "Home")
-            [ab blcok list 1]
-            [ab blcok list 2]
+    ```adp
+    ! [Website name with normal case and space and space: Sample Website]
+        ! [Website section 1] 
+            [filter 1]
+            [filter 2]
             ...
-        ! [Website section 2] (like "Article")
-            [ab blcok list 3]
-            [ab blcok list 4]
+        ! [Website section 2]
+            [filter 3]
+            [filter 4]
             ...
     ```
-
-    (You can use **Regular Expression** in [Tool](/docs/tool.md) to remove `!` and `[return]`)
 
 ### Pulling Requests
 
@@ -73,16 +69,16 @@ After writing your filter, you can pull request to our [master branch](https://g
 ```markdown
 Add supported website(s):
 
-- [Website Name with normal case]
+- [Website name with normal case and space]
 - ...
 
 Add items to supported website(s):
 
-- [Website Name with normal case] ([Detail])
+- [Website name with normal case and space] ([Detail])
 - ...
 
 Fix issues on supported website(s):
 
-- [Website Name with normal case] ([Detail])
+- [Website name with normal case and space] ([Detail])
 - ...
 ```
