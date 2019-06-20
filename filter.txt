@@ -113,21 +113,20 @@
     	www.amazon.com###sc-new-upsell
 ! Baidu Search
 	! Home
-		baidu.com##a.mnav:nth-of-type(1)
-		baidu.com##a.mnav:nth-of-type(2)
-		baidu.com##a.mnav:nth-of-type(3)
-		baidu.com##a.mnav:nth-of-type(4)
-		baidu.com##a.mnav:nth-of-type(5)
-		baidu.com##a.mnav:nth-of-type(6)
+        baidu.com##.mnav
+        baidu.com###s_top_wrap
 		baidu.com###s_upfunc_menus
-		baidu.com##.bri
-		baidu.com##.qrcode-item-1.qrcode-item
+        baidu.com##.bri
+        baidu.com##.s_bri
+        baidu.com##.s_bdbri
+		baidu.com##.qrcode-item
 		baidu.com###lh
 		baidu.com###s_wrap
+        baidu.com###ftCon
 	! Results
+        baidu.com##.bdsug-feedback-wrap
 		baidu.com###content_right
-		baidu.com##.toindex
-! Bilibili
+		baidu.com##.toindex! Bilibili
     ! Home
         bilibili.com##.icon.go-top
         bilibili.com##.mobile.nav-item
