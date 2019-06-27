@@ -51,7 +51,7 @@ If you want to add a specific filter list, you can copy the filter list below an
 | [WeChat 微信](filter-item/wechat.txt) | 2019.5.30 |
 | [YouTube](filter-item/youtube.txt) | 2019.6.4 |
 | [知乎](filter-item/zhihu.txt) | 2019.3.17 |
-| [More](docs/more-websites.md) | .  . .  |
+| [More](docs/more-websites.md) | [. . .](docs/more-websites.md) |
 
 ## Contributing
 

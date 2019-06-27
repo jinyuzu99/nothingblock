@@ -1,7 +1,7 @@
 # This script will combine all filters into filter.txt and filter-zero.txt.
 
 
-# Nothingblock
+# Nothingblock header
 
 header="[Adblock Plus 3.0]
 ! Title: Nothingblock filter
@@ -22,7 +22,7 @@ do
 done
 
 
-# Nothingblock Zero
+# Nothingblock Zero header
 
 header_zero="[Adblock Plus 3.0]
 ! Title: Nothingblock Zero filter
