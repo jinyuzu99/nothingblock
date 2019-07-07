@@ -9,11 +9,11 @@ Nothingblock blocks unnecessary elements to have "nothing more to take away".
 
 ## Getting Started
 
-Add the URL below to your [ad blocker](https://bing.com/search?q=ad+blocker) to use all Nothingblock filters.
+Add the URL below to your [ad blocker](https://bing.com/search?q=ad+blocker) to use all **Nothingblock** filters.
 
 `https://raw.githubusercontent.com/sayo-melu/nothingblock/master/filter.txt`
 
-If you want to leave the contant only, add the URL below to your [ad blocker](https://bing.com/search?q=ad+blocker) to use all Nothingblock Zero filters.
+If you want to leave the contant only, add the URL below to your [ad blocker](https://bing.com/search?q=ad+blocker) to use all **Nothingblock Zero** filters.
 
 `https://raw.githubusercontent.com/sayo-melu/nothingblock/master/filter-zero.txt`
 
