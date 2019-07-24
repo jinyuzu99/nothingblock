@@ -4,8 +4,8 @@
 
 Nothingblock blocks unnecessary elements to have "nothing more to take away".
 
-![Nothingblock on Amazon.com](assets/nothingblock-on-amazon.com.jpg)
-![Nothingblock on Taobao](assets/nothingblock-on-taobao.jpg)
+![Nothingblock on Amazon.com](Assets/nothingblock-onamazon.com.jpg)
+![Nothingblock on Taobao](Assets/nothingblock-on-taobao.jpg)
 
 ## Getting Started
 
@@ -33,7 +33,6 @@ If you want to add a specific filter list, you can copy the filter list below an
 | [Bing](filter-item/bing.txt) | 2019.3.18 |
 | [动漫之家](filter-item/dmzj.txt) | 2019.5.30 |
 | [DuckDuckGo](filter-item/duckduckgo.txt) | 2019.1.23 |
-| [Evernote](filter-item/evernote.txt) | 2019.1.14 |
 | [Google Drive](filter-item/google-drive.txt) | 2019.1.14 |
 | [Google Map](filter-item/google-map.txt) | 2019.1.23 |
 | [Google Photo](filter-item/google-photo.txt) | 2019.1.23 |
@@ -54,7 +53,7 @@ If you want to add a specific filter list, you can copy the filter list below an
 
 ## Contributing
 
-Follow the [Contributing](docs/CONTRIBUTING.md) document to make contribution.
+Follow the [Contributing](Docs/CONTRIBUTING.md) document to make contribution.
 
 ## Support
 
