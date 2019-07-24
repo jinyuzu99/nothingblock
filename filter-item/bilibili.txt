@@ -15,6 +15,7 @@
         bilibili.com##.bangumi-module > .r-con
         bilibili.com##.up-load
         bilibili.com##.gg-floor-module
+        bilibili.com##.partner
         ! Section (Add ! to enable a section)
             bilibili.com###special_recommend
             bilibili.com###home_popularize
