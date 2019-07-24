@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/sayo-melu/nothingblock
 ! Licence: https://github.com/sayo-melu/nothingblock/blob/master/LICENSE
 ! Expires: 2 days
-! Version: 2019.06.20
+! Version: 2019.07.24
 !
 ! AcFun
     ! Home
@@ -129,6 +129,8 @@
 		baidu.com##.toindex! Bilibili
     ! Home
         bilibili.com##.icon.go-top
+        bilibili.com##.game.nav-item
+        bilibili.com##.manga.nav-item
         bilibili.com##.mobile.nav-item
         bilibili.com##.nav-gif.gif-menu
         bilibili.com###fixed_app_download

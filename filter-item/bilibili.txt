@@ -1,6 +1,8 @@
 ! Bilibili
     ! Home
         bilibili.com##.icon.go-top
+        bilibili.com##.game.nav-item
+        bilibili.com##.manga.nav-item
         bilibili.com##.mobile.nav-item
         bilibili.com##.nav-gif.gif-menu
         bilibili.com###fixed_app_download
