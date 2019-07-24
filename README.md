@@ -4,8 +4,8 @@
 
 Nothingblock blocks unnecessary elements to have "nothing more to take away".
 
-![Nothingblock on Amazon.com](Assets/nothingblock-on-amazon.com.jpg)
-![Nothingblock on Taobao](Assets/nothingblock-on-taobao.jpg)
+![Nothingblock on Amazon.com](asset/nothingblock-on-amazon.com.jpg)
+![Nothingblock on Taobao](asset/nothingblock-on-taobao.jpg)
 
 ## Getting Started
 
@@ -53,7 +53,7 @@ If you want to add a specific filter list, you can copy the filter list below an
 
 ## Contributing
 
-Follow the [Contributing](Docs/CONTRIBUTING.md) document to make contribution.
+Follow the [Contributing](docs/CONTRIBUTING.md) document to make contribution.
 
 ## Support
 

@@ -15,7 +15,7 @@ echo  "$header" >> filter.txt
 
 for item in filter-item/*
 do
-	cat $item >> filter.txt
+	 cat $item >> filter.txt
 done
 
 echo 'Filter generated.'

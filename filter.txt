@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/sayo-melu/nothingblock
 ! Licence: https://github.com/sayo-melu/nothingblock/blob/master/LICENSE
 ! Expires: 2 days
-! Version: 2019.07.24
+! Version: 2019.07.25
 !
 ! AcFun
     ! Home
@@ -265,8 +265,6 @@
     ! Result
         duckduckgo.com###powered_by
         duckduckgo.com##.footer
-! Evernote
-    evernote.com###qa-SIDEBAR_UPGRADE_BUTTON
 ! Google Drive
     drive.google.com##.USrqEe-ml-Pr-qc-j
 ! Google Map
