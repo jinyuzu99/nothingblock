@@ -4,7 +4,7 @@
 
 Nothingblock blocks unnecessary elements to have "nothing more to take away".
 
-![Nothingblock on Amazon.com](Assets/nothingblock-onamazon.com.jpg)
+![Nothingblock on Amazon.com](Assets/nothingblock-on-amazon.com.jpg)
 ![Nothingblock on Taobao](Assets/nothingblock-on-taobao.jpg)
 
 ## Getting Started
