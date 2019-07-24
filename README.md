@@ -30,7 +30,6 @@ If you want to add a specific filter list, you can copy the filter list below an
 | [Amazon.com](filter-item/amazon.com.txt) | 2019.2.13 |
 | [百度搜索](filter-item/baidu-search.txt) | 2019.6.20 |
 | [哔哩哔哩](filter-item/bilibili.txt) | 2019.7.24 |
-| [哔哩哔哩 Zero](filter-zero-item/bilibili.txt) | 2019.5.12 |
 | [Bing](filter-item/bing.txt) | 2019.3.18 |
 | [动漫之家](filter-item/dmzj.txt) | 2019.5.30 |
 | [DuckDuckGo](filter-item/duckduckgo.txt) | 2019.1.23 |
