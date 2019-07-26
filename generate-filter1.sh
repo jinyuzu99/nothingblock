@@ -1,4 +1,4 @@
-# This script will combine all filters into filter.txt.
+# this script will combine all filters into filter.txt.
 
 header="[Adblock Plus 3.0]
 ! Title: Nothingblock filter
@@ -12,7 +12,7 @@ touch filter.txt
 
 echo  "$header" >> filter.txt
 
-for item in Item/*
+for item in filter-item/*
 do
 	cat $item >> filter.txt
 done
