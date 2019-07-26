@@ -1,5 +1,5 @@
-! IT Home
-    ! Home
+! it home
+    ! home
         ithome.com###rm_app
         ithome.com###tt50
         ithome.com###side_func
@@ -7,6 +7,6 @@
         ithome.com##.con_2
         ithome.com###ft
         ithome.com##.focus_area
-    ! Detail
+    ! detail
         ithome.com##.sidebar
         ithome.com##.dajia

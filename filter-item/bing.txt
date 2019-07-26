@@ -1,12 +1,12 @@
-! Bing
-    ! Home
+! bing
+    ! home
         bing.com###id_n
         bing.com###id_s
         bing.com###id_rh
-        bing.com###hp_bottomCell
-    ! Result
+        bing.com###hp_bottomcell
+    ! result
         bing.com###b_footer
-        bing.com##.rqnaContainer
-        cn.bing.com##.tipContainer
-        cn.bing.com##.bottomTipContainer
+        bing.com##.rqnacontainer
+        cn.bing.com##.tipcontainer
+        cn.bing.com##.bottomtipcontainer
         cn.bing.com###ev_talkbox_wrapper

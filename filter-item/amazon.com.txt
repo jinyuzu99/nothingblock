@@ -1,17 +1,17 @@
-! Amazon.com
-    ! Home
+! amazon.com
+    ! home
         amazon.com###nav-upnav
         amazon.com##.nav-prime-try
         amazon.com###nav-link-prime
         amazon.com###nav-orders
         amazon.com###main-content
         amazon.com###rhf
-        amazon.com###navBackToTop
-        amazon.com##.navFooterLinkLine
-    ! Item
+        amazon.com###navbacktotop
+        amazon.com##.navfooterlinkline
+    ! item
     	amazon.com###feature-bullets
     	www.amazon.com###detail-ilm_div
         amazon.com###tell-a-friend
-        amazon.com###alternativeOfferEligibilityMessaging_feature_div
-    ! Cart
+        amazon.com###alternativeoffereligibilitymessaging_feature_div
+    ! cart
     	www.amazon.com###sc-new-upsell

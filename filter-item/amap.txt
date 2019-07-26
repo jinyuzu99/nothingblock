@@ -1,5 +1,5 @@
-! Amap
-    ! Map
+! amap
+    ! map
         amap.com###citybox
         amap.com##.amap-logo
         amap.com##.red-point
@@ -9,7 +9,7 @@
         amap.com##.poi-sendcar.send2car
         amap.com##.item.wumai.layer_item
         amap.com##.notfull.item.fullscreen.tool_item
-    ! Detail
+    ! detail
         amap.com##.detail_download
         amap.com##.gotop
         amap.com##.footer

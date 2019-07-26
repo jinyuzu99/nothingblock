@@ -1,5 +1,5 @@
-! Google Photo    
-    photos.google.com##.NmWShc
-    photos.google.com##.Jf3Kxd
-    photos.google.com##.E9F9ef
-    photos.google.com##.DNAsC:nth-of-type(5)
+! google photo    
+    photos.google.com##.nmwshc
+    photos.google.com##.jf3kxd
+    photos.google.com##.e9f9ef
+    photos.google.com##.dnasc:nth-of-type(5)

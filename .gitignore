@@ -1,17 +1,17 @@
-# Linux
+# linux
 *~
 .fuse_hidden*
 .directory
-.Trash-*
+.trash-*
 .nfs*
 
-# Windows
-Thumbs.db
+# windows
+thumbs.db
 ehthumbs.db
 ehthumbs_vista.db
 *.stackdump
-[Dd]esktop.ini
-$RECYCLE.BIN/
+[dd]esktop.ini
+$recycle.bin/
 *.cab
 *.msi
 *.msix
@@ -19,21 +19,21 @@ $RECYCLE.BIN/
 *.msp
 *.lnk
 
-# macOS
-.DS_Store
-.AppleDouble
-.LSOverride
-Icon
+# macos
+.ds_store
+.appledouble
+.lsoverride
+icon
 ._*
-.DocumentRevisions-V100
+.documentrevisions-v100
 .fseventsd
-.Spotlight-V100
-.TemporaryItems
-.Trashes
-.VolumeIcon.icns
+.spotlight-v100
+.temporaryitems
+.trashes
+.volumeicon.icns
 .com.apple.timemachine.donotpresent
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
+.appledb
+.appledesktop
+network trash folder
+temporary items
 .apdisk

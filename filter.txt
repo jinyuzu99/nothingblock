@@ -1,13 +1,13 @@
-[Adblock Plus 3.0]
-! Title: Nothingblock filter
-! Homepage: https://github.com/sayo-melu/nothingblock
-! Licence: https://github.com/sayo-melu/nothingblock/blob/master/LICENSE
-! Expires: 2 days
-! Version: 2019.07.26
-acfun.cn###appguideBox
-acfun.cn##.creditCard
-acfun.cn##.log-dot.niudanIcon
-acfun.cn##.log-dot.gameIcon
+[adblock plus 3.0]
+! title: nothingblock filter
+! homepage: https://github.com/sayo-melu/nothingblock
+! licence: https://github.com/sayo-melu/nothingblock/blob/master/license
+! expires: 2 days
+! version: 2019.07.26
+acfun.cn###appguidebox
+acfun.cn##.creditcard
+acfun.cn##.log-dot.niudanicon
+acfun.cn##.log-dot.gameicon
 acfun.cn##.download-app.fr
 acfun.cn##.area-ad.area
 acfun.cn##.footer-top.clearfix
@@ -29,13 +29,13 @@ acfun.cn##div.part-guide-left:nth-of-type(10)
 acfun.cn##div.part-guide-left:nth-of-type(5)
 acfun.cn##.recmd.area.clearfix.crumb
 acfun.cn##.a-column-left
-acfun.cn##div.ArticleBlockSpace.ArticleBlockRight:nth-of-type(6)
-acfun.cn##div.ArticleBlockSpace.ArticleBlockRight:nth-of-type(5)
-acfun.cn##.ArticleOperateBitBlock.ArticleBlockSpace.a-column-right
+acfun.cn##div.articleblockspace.articleblockright:nth-of-type(6)
+acfun.cn##div.articleblockspace.articleblockright:nth-of-type(5)
+acfun.cn##.articleoperatebitblock.articleblockspace.a-column-right
 acfun.cn###realate-article
 acfun.cn###up-contributions
-acfun.cn##.ArticleBlockRight.delveField
-acfun.cn##div.ArticleDynamicsTitle:nth-of-type(2)! Amap
+acfun.cn##.articleblockright.delvefield
+acfun.cn##div.articledynamicstitle:nth-of-type(2)! amap
 amap.com###citybox
 amap.com##.amap-logo
 amap.com##.red-point
@@ -55,15 +55,15 @@ amazon.cn##.nav-prime-try
 amazon.cn###nav-link-prime
 amazon.cn###gw-content-grid
 amazon.cn##.small
-amazon.cn###hqpWrapper
+amazon.cn###hqpwrapper
 amazon.cn###adv-float-div
 amazon.cn###detail-ilm_div
-amazon.cn###recentlyViewed
+amazon.cn###recentlyviewed
 amazon.cn###hero-quick-promo
-amazon.cn##.navFooterDLicense
-amazon.cn###kcpApp_feature_div
+amazon.cn##.navfooterdlicense
+amazon.cn###kcpapp_feature_div
 amazon.cn###dp > table:nth-of-type(1)
-amazon.cn###tellAFriendJumpbar_feature_div
+amazon.cn###tellafriendjumpbar_feature_div
 amazon.cn###sims-consolidated-2_feature_div
 www.amazon.co.jp##.nav-prime-try
 www.amazon.co.jp###nav-link-prime
@@ -72,8 +72,8 @@ www.amazon.co.jp###nav-supra
 www.amazon.co.jp###nav-orders
 www.amazon.co.jp###main-content
 www.amazon.co.jp###rhf
-www.amazon.co.jp###navBackToTop
-www.amazon.co.jp##.navFooterLinkLine
+www.amazon.co.jp###navbacktotop
+www.amazon.co.jp##.navfooterlinkline
 www.amazon.co.jp###detail-ilm_div
 www.amazon.co.jp###tell-a-friend
 www.amazon.co.jp###sims-consolidated-1_feature_div
@@ -85,12 +85,12 @@ amazon.com###nav-link-prime
 amazon.com###nav-orders
 amazon.com###main-content
 amazon.com###rhf
-amazon.com###navBackToTop
-amazon.com##.navFooterLinkLine
+amazon.com###navbacktotop
+amazon.com##.navfooterlinkline
 amazon.com###feature-bullets
 www.amazon.com###detail-ilm_div
 amazon.com###tell-a-friend
-amazon.com###alternativeOfferEligibilityMessaging_feature_div
+amazon.com###alternativeoffereligibilitymessaging_feature_div
 www.amazon.com###sc-new-upsell
 baidu.com##.mnav
 baidu.com###s_top_wrap
@@ -101,10 +101,10 @@ baidu.com##.s_bdbri
 baidu.com##.qrcode-item
 baidu.com###lh
 baidu.com###s_wrap
-baidu.com###ftCon
+baidu.com###ftcon
 baidu.com##.bdsug-feedback-wrap
 baidu.com###content_right
-baidu.com##.toindex! Bilibili
+baidu.com##.toindex! bilibili
 bilibili.com##.icon.go-top
 bilibili.com##.game.nav-item
 bilibili.com##.manga.nav-item
@@ -159,7 +159,7 @@ bilibili.com##.legalize
 bilibili.com##.float-nav
 bilibili.com##.nav-goto-top
 bilibili.com##.backup
-bilibili.com###entryOld
+bilibili.com###entryold
 bilibili.com##.entry-old
 bilibili.com##.help
 bilibili.com###activity_vote
@@ -188,18 +188,18 @@ space.bilibili.com##.to-top
 bing.com###id_n
 bing.com###id_s
 bing.com###id_rh
-bing.com###hp_bottomCell
+bing.com###hp_bottomcell
 bing.com###b_footer
-bing.com##.rqnaContainer
-cn.bing.com##.tipContainer
-cn.bing.com##.bottomTipContainer
+bing.com##.rqnacontainer
+cn.bing.com##.tipcontainer
+cn.bing.com##.bottomtipcontainer
 cn.bing.com###ev_talkbox_wrapper
 dmzj.com##a[href="//www.dmzj.com/app/index.html"]
 dmzj.com##.login_tip
-dmzj.com###floatCode
+dmzj.com###floatcode
 dmzj.com##.announce
 dmzj.com##.ad
-dmzj.com###sidePublic
+dmzj.com###sidepublic
 dmzj.com##.head-public.youn_mh:nth-of-type(5)
 dmzj.com##.head-public.youn_mh:nth-of-type(6)
 dmzj.com##.comic_tab
@@ -225,29 +225,29 @@ duckduckgo.com##.tag-home
 duckduckgo.com##.onboarding-ed
 duckduckgo.com###powered_by
 duckduckgo.com##.footer
-drive.google.com##.USrqEe-ml-Pr-qc-j
+drive.google.com##.usrqee-ml-pr-qc-j
 google.*###fineprint-terms
 google.*###fineprint-rap-link
 google.*##.link-like
-photos.google.com##.NmWShc
-photos.google.com##.Jf3Kxd
-photos.google.com##.E9F9ef
-photos.google.com##.DNAsC:nth-of-type(5)
-google.*##.gb_Tf
-google.*##.gb_Of
+photos.google.com##.nmwshc
+photos.google.com##.jf3kxd
+photos.google.com##.e9f9ef
+photos.google.com##.dnasc:nth-of-type(5)
+google.*##.gb_tf
+google.*##.gb_of
 google.*###hptl
-google.*##.gb_Td
+google.*##.gb_td
 google.*###sbfblt
-google.*##.VlcLAe
+google.*##.vlclae
 google.*###prm
-google.*##.AUiS2
-google.*###resultStats
+google.*##.auis2
+google.*###resultstats
 google.*###bres
 google.*##.kno-ftr
 google.*###footcnt
-google.*##.OJXvsb! Grammarly
+google.*##.ojxvsb! grammarly
 app.grammarly.com##._6d7d6010-index_navigation-apps
-app.grammarly.com##._c9042367-button-button._8188d399-new_toggler-issuesWrapper._9a4125a4-typography-header3legacy
+app.grammarly.com##._c9042367-button-button._8188d399-new_toggler-issueswrapper._9a4125a4-typography-header3legacy
 inoreader.com###below_tree
 inoreader.com###sb_rp_upgrade
 ithome.com###rm_app
@@ -260,20 +260,20 @@ ithome.com##.focus_area
 ithome.com##.sidebar
 ithome.com##.dajia
 jd.com##.s-show
-jd.com###J_event
-jd.com##.jTdCode
+jd.com###j_event
+jd.com##.jtdcode
 jd.com###footmark
 jd.com###nav-2014
 jd.com###footer-2017
 jd.com###service-2017
-jd.com###GLOBAL_FOOTER
-jd.com###J-global-toolbar
+jd.com###global_footer
+jd.com###j-global-toolbar
 www.jd.com##.floors
 www.jd.com##.joytop
 www.jd.com###hotwords
-www.jd.com###J_mobile
-www.jd.com###J_fs_act
-www.jd.com###J_promo_lk
+www.jd.com###j_mobile
+www.jd.com###j_fs_act
+www.jd.com###j_promo_lk
 home.jd.com##.box-2
 home.jd.com##.m-service.m-block.m
 order.jd.com##.ui-slidebar
@@ -287,21 +287,21 @@ list.jd.com##.spu-link
 list.jd.com##.price-plus-1
 list.jd.com##.w:nth-of-type(6)
 item.jd.com##.aside
-item.jd.com###J_atmosphere_banner
-item.jd.com###J-summary-openPlusGift
+item.jd.com###j_atmosphere_banner
+item.jd.com###j-summary-openplusgift
 www.office.com##.hero-section
 www.office.com###my-account-link
 www.office.com##.feedback-header
-office.live.com##.headXLinks
-live.com##.headBrand
+office.live.com##.headxlinks
+live.com##.headbrand
 live.com##.cui-ctl-medium
-live.com##.SkypeButton
-live.com##.skypeWX
-live.com##.UsernameContainer
+live.com##.skypebutton
+live.com##.skypewx
+live.com##.usernamecontainer
 live.com###id__24
-onedrive.live.com###O365_Lync_ButtonID
-onedrive.live.com##.o365-flexPane-skype
-onedrive.live.com##.LeftPane-notifications
+onedrive.live.com###o365_lync_buttonid
+onedrive.live.com##.o365-flexpane-skype
+onedrive.live.com##.leftpane-notifications
 cc.163.com##.side-nav-container
 cc.163.com##.header-match-rcm-imgswrap
 cc.163.com##.download-txt
@@ -309,7 +309,7 @@ cc.163.com###js-dynamic-msg-container
 cc.163.com###menu-be-anchor
 cc.163.com##.user-tool-bar
 cc.163.com###first-reward-entry
-cc.163.com###webChat
+cc.163.com###webchat
 cc.163.com##.chat_priv_img
 cc.163.com###gift-banner
 cc.163.com###advertising
@@ -324,26 +324,26 @@ music.163.com##.g-ft
 music.163.com##.n-bill
 music.163.com##.m-multi
 open.spotify.com##.spotify-logo--text
-open.spotify.com##.NavBar__download-item
-open.spotify.com##.ConnectBar
+open.spotify.com##.navbar__download-item
+open.spotify.com##.connectbar
 taobao.com##.qr
 taobao.com##.footer
 taobao.com##.follow-mobile
-taobao.com###J_SiteFooter
-taobao.com###J_SiteNavSeller
-taobao.com###J_SiteNavMobile
-taobao.com###J_SiteNavSitemap
-taobao.com###J_SiteNavCatalog
-taobao.com###J_SiteNavMytaobao
+taobao.com###j_sitefooter
+taobao.com###j_sitenavseller
+taobao.com###j_sitenavmobile
+taobao.com###j_sitenavsitemap
+taobao.com###j_sitenavcatalog
+taobao.com###j_sitenavmytaobao
 taobao.com##.superbanner-inner
 taobao.com##.skin-box-content
-taobao.com##.clearfix.J_SearchFt.search-ft
-tmall.*###J_100
+taobao.com##.clearfix.j_searchft.search-ft
+tmall.*###j_100
 tmall.com###footer
 tmall.com##.sn-mobile
 tmall.com##.hot-query
-tmall.*###J_MUIMallbar
-tmall.com###J_FloorCNXH
+tmall.*###j_muimallbar
+tmall.com###j_floorcnxh
 tmall.com##.s-hot-query
 tmall.com##.skin-box-content
 tmall.com##.mui-mbarp-qrcode
@@ -351,16 +351,16 @@ tmall.com##.mui-mbar-tabs-mask
 www.taobao.com##.logo
 www.taobao.com##.layer-inner
 www.taobao.com##.decorations-item
-www.taobao.com##.J_Module.tbh-app
-www.taobao.com##.J_Headline.headline
-www.taobao.com##.J_Module.tbh-headline
-www.taobao.com##.J_Module.tbh-fixedtool
+www.taobao.com##.j_module.tbh-app
+www.taobao.com##.j_headline.headline
+www.taobao.com##.j_module.tbh-headline
+www.taobao.com##.j_module.tbh-fixedtool
 www.tmall.com##.side-bg
 www.tmall.com##.activity-bg
 www.tmall.com##.j_top.top-con
 login.taobao.com##.error.login-msg
 i.taobao.com##.mt-ml-c2
-i.taobao.com###J_MtFixInBottom
+i.taobao.com###j_mtfixinbottom
 i.taobao.com##.m-guess-you-like
 i.taobao.com##.m-someone-like-you
 member1.taobao.com###immediate-help-trigger
@@ -369,44 +369,44 @@ s.taobao.com##.tb-footer
 s.taobao.com##.sku-panel
 s.taobao.com##.g-clearfix.row-4.row
 cart.taobao.com###interested
-cart.taobao.com###J_SideFloat
-shoucang.taobao.com###J_Feedback
+cart.taobao.com###j_sidefloat
+shoucang.taobao.com###j_feedback
 shoucang.taobao.com##.fav-zuanshi
 pages.tmall.com##.tb-module
 item.taobao.com##.tb-shop
 detail.tmall.com##.shopwt
 detail.tmall.com##.col-sub
 item.taobao.com##.tb-doctor
-item.taobao.com###J_Toolbar
-item.taobao.com##.J_BigProm
+item.taobao.com###j_toolbar
+item.taobao.com##.j_bigprom
 detail.tmall.com##.tm-layout
-item.taobao.com###J_PromoType
+item.taobao.com###j_promotype
 detail.tmall.com###mall-banner
-item.taobao.com###J_IdsSegments
+item.taobao.com###j_idssegments
 item.taobao.com##.tb-qrcode-tool
 item.taobao.com##.tb-shop-search
 detail.tmall.com##.tm-qrcode-icon
-detail.tmall.com###J_TabRecommends
+detail.tmall.com###j_tabrecommends
 detail.tmall.com###official-remind
-detail.tmall.com##.tm-Right-Recommend
+detail.tmall.com##.tm-right-recommend
 detail.tmall.com###tm-section-lidi-container
-item.taobao.com###J_IdsSegments
-item.taobao.com##.J_FavCount
+item.taobao.com###j_idssegments
+item.taobao.com##.j_favcount
 item.taobao.com##.tb-footer
 item.taobao.com##.tb-price-spec
 chaoshi.tmall.com##.shortcut
-chaoshi.tmall.com###J_config
-chaoshi.tmall.com##.j_MostTop
+chaoshi.tmall.com###j_config
+chaoshi.tmall.com##.j_mosttop
 chaoshi.tmall.com##.market-feature
 chaoshi.tmall.com##.mui-global-footer-bottom-banner
 wx.qq.com##.desc
 wx.qq.com##.web_wechat_screencut
-weibo.com##.W_new
+weibo.com##.w_new
 weibo.com##.gn_nav
 weibo.com##.send_weibo
 weibo.com##.mini_panel_area
 weibo.com##.player_bg
-weibo.com###WB_webchat
+weibo.com###wb_webchat
 ||img.t.sinajs.cn/t6/skin/public/feed_cover/$image
 weibo.com###v6_pl_rightmod_rank
 weibo.com###v6_pl_rightmod_attfeed
@@ -419,12 +419,12 @@ weibo.com##.icon_member5
 weibo.com##.icon_member6
 weibo.com##.icon_member7
 weibo.com##.icon_approve_gold
-weibo.com##.S_line1.line > span > em:nth-of-type(2)
-weibo.com##.S_line1.line > .S_txt2 > span > em:nth-of-type(2)
+weibo.com##.s_line1.line > span > em:nth-of-type(2)
+weibo.com##.s_line1.line > .s_txt2 > span > em:nth-of-type(2)
 weibo.com##.footer_link
-weibo.com###base_scrollToTop
+weibo.com###base_scrolltotop
 youtube.com###button > .ytd-topbar-menu-button-renderer
-www.zhihu.com##.Footer
-www.zhihu.com##.CornerButtons
-www.zhihu.com##.RelatedCommodities-title
-www.zhihu.com##.RelatedCommodities-list
+www.zhihu.com##.footer
+www.zhihu.com##.cornerbuttons
+www.zhihu.com##.relatedcommodities-title
+www.zhihu.com##.relatedcommodities-list

@@ -1,5 +1,5 @@
-! Netease CC
-    ! Player
+! netease cc
+    ! player
         cc.163.com##.side-nav-container
         cc.163.com##.header-match-rcm-imgswrap
         cc.163.com##.download-txt
@@ -7,7 +7,7 @@
         cc.163.com###menu-be-anchor
         cc.163.com##.user-tool-bar
         cc.163.com###first-reward-entry
-        cc.163.com###webChat
+        cc.163.com###webchat
         cc.163.com##.chat_priv_img
         cc.163.com###gift-banner
         cc.163.com###advertising

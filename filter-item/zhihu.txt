@@ -1,7 +1,7 @@
-! Zhihu
-    ! Home
-        www.zhihu.com##.Footer
-        www.zhihu.com##.CornerButtons
-    ! Answer
-        www.zhihu.com##.RelatedCommodities-title
-        www.zhihu.com##.RelatedCommodities-list
+! zhihu
+    ! home
+        www.zhihu.com##.footer
+        www.zhihu.com##.cornerbuttons
+    ! answer
+        www.zhihu.com##.relatedcommodities-title
+        www.zhihu.com##.relatedcommodities-list

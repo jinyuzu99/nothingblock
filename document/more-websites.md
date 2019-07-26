@@ -1,11 +1,11 @@
-# More Websites
+# more websites
 
-## To do
+## to do
 
-- CSDN
-- Weibo
-- Overleaf
+- csdn
+- weibo
+- overleaf
 
-## Developing
+## developing
 
-- Netease CC
+- netease cc

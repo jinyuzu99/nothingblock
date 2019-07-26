@@ -1,15 +1,15 @@
-! DMZJ
-    ! Home  
+! dmzj
+    ! home  
         dmzj.com##a[href="//www.dmzj.com/app/index.html"]
         dmzj.com##.login_tip
-        dmzj.com###floatCode
+        dmzj.com###floatcode
         dmzj.com##.announce
         dmzj.com##.ad
-        dmzj.com###sidePublic
+        dmzj.com###sidepublic
         dmzj.com##.head-public.youn_mh:nth-of-type(5)
         dmzj.com##.head-public.youn_mh:nth-of-type(6)
         dmzj.com##.comic_tab
-    ! Manhua
+    ! manhua
         manhua.dmzj.com##.logobox
         manhua.dmzj.com##.newbotton
         manhua.dmzj.com##.odd_anim_title

@@ -1,84 +1,67 @@
-# Contributing
+# contributing
 
-## Feedback
+## feedback
 
-If you want to:
+if you want to:
 
-- Ask questions
-- Report bugs
-- Request features
-- Vote for feature requests
+- ask questions
+- report bugs
+- request features
+- vote for feature requests
 
-Please create or check [issues](https://github.com/sayo-melu/nothingblock/issues/new/choose) to make contribution.
+please create or check [issues](https://github.com/sayo-melu/nothingblock/issues/new/choose) to make contribution.
 
-If you want to chat with other users, please join our [Telegram Group](https://t.me/nothingblock).
+if you want to chat with other users, please join our [telegram group](https://t.me/nothingblock).
 
-## Contributing to code
+## contributing to code
 
-If you want to contribute directly to the code base, please follow the steps below.
+if you want to contribute directly to the code base, please follow the steps below.
 
-### Getting the sources
+### getting the sources
 
 `git clone https://github.com/sayo-melu/nothingblock.git`
 
-### Prerequisites
+### prerequisites
 
-- [Git](https://git-scm.com/) or [GitHub Desktop](https://desktop.github.com)
+- [git](https://git-scm.com/) or [github desktop](https://desktop.github.com)
 
-- Web browser
+- web browser
 
-- Ad blocker
-  - [uBlock Original](https://github.com/gorhill/uBlock)
-  - [Adblock Plus](https://adblockplus.org)
+- ad blocker
+  - [ublock original](https://github.com/gorhill/ublock)
+  - [adblock plus](https://adblockplus.org)
   - [more...](https://bing.com/search?q=ad+blocker)
 
-- Code editor
-  - [Visual Studio Code](https://code.visualstudio.com/)
+- code editor
+  - [visual studio code](https://code.visualstudio.com/)
   - [more...](https://bing.com/search?q=code+editor)
 
-### Writing filters
+### writing filters
 
-Setup with uBlock Original + Visual Studio Code, others are similar.
+setup with ublock original + visual studio code, others are similar.
 
-1. Open the website you want to block on your **Web browser** with **Ad blocker** enabled.
-2. **Secondary click** on the website element you want to block, then choose **Block Element**.
-3. Find the appropriate fliter in **Cosmetic filters**, then choose **Preview** to check your fliter.
-4. Choose **Create** to create a new filter.
-5. Repeat step **2** ~ **4** until there is nothing to block.
-6. Go to **Ad blocker** -> **Dashboard** - > **My filters**, then copy all the filters.
-7. Create and open a new `[Website name with lowercase and hyphen: sample-website].txt` file in `nothingblock/Item/` with **Code editor**.
-8. Paste the text to `[Website name with lowercase and hyphen: sample-website].txt`.
-9. Edit the file in the format below:
+1. open the website you want to block on your **web browser** with **ad blocker** enabled.
+2. **secondary click** on the website element you want to block, then choose **block element**.
+3. find the appropriate fliter in **cosmetic filters**, then choose **preview** to check your fliter.
+4. choose **create** to create a new filter.
+5. repeat step **2** ~ **4** until there is nothing to block.
+6. go to **ad blocker** -> **dashboard** - > **my filters**, then copy all the filters.
+7. create and open a new `[website name with lowercase and hyphen: sample-website].txt` file in `nothingblock/item/` with **code editor**.
+8. paste the text to `[website name with lowercase and hyphen: sample-website].txt`.
+9. edit the file in the format below:
 
     ```adp
-    ! [Website name with normal case and space and space: Sample Website]
-        ! [Website section 1]
+    ! [website name with normal case and space and space: sample website]
+        ! [website section 1]
             [filter 1]
             [filter 2]
             ...
-        ! [Website section 2]
+        ! [website section 2]
             [filter 3]
             [filter 4]
             ...
     ```
 
-### Pulling Requests
+### pulling requests
 
-After writing your filter, you can pull request to our [master branch](https://github.com/sayo-melu/nothingblock/tree/master) with the description in the format (also see in [Pull request template](../.github/PULL_REQUEST_TEMPLATE.md)) below:
-
-```markdown
-Add supported website(s):
-
-- [Website name with normal case and space]
-- ...
-
-Add items to supported website(s):
-
-- [Website name with normal case and space] ([Detail])
-- ...
-
-Fix issues on supported website(s):
-
-- [Website name with normal case and space] ([Detail])
-- ...
-```
+after writing your filter, you can pull request to nothingblock [master branch](https://github.com/sayo-melu/nothingblock/tree/master) with the description in [pull request template](../.github/pull_request_template.md) format.

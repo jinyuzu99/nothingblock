@@ -1,17 +1,17 @@
-! Google Search
-    ! Global
-        google.*##.gb_Tf
-        google.*##.gb_Of
-    ! Home
+! google search
+    ! global
+        google.*##.gb_tf
+        google.*##.gb_of
+    ! home
         google.*###hptl
-        google.*##.gb_Td
+        google.*##.gb_td
         google.*###sbfblt
-        google.*##.VlcLAe
+        google.*##.vlclae
         google.*###prm
-    ! Result
-        google.*##.AUiS2
-        google.*###resultStats
+    ! result
+        google.*##.auis2
+        google.*###resultstats
         google.*###bres
         google.*##.kno-ftr
         google.*###footcnt
-        google.*##.OJXvsb
+        google.*##.ojxvsb

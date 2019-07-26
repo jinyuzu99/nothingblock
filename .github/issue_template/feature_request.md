@@ -1,23 +1,23 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: '[Short description]'
+name: feature request
+about: suggest an idea for this project
+title: '[short description]'
 labels: feature
 assignees: ''
 
 ---
 
-**Feature to request**
+**feature to request**
 
-- [Feature]
+- [feature]
 - ...
 
-**Benefit to user or developer**
+**benefit to user or developer**
 
-- [Benefit]
+- [benefit]
 - ...
 
-**Asset**
+**asset**
 
-- [Asset: Screenshot or file]
+- [asset: screenshot or file]
 - ...

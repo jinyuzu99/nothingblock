@@ -1,5 +1,5 @@
-! Bilibili
-    ! Home
+! bilibili
+    ! home
         bilibili.com##.icon.go-top
         bilibili.com##.game.nav-item
         bilibili.com##.manga.nav-item
@@ -16,7 +16,7 @@
         bilibili.com##.up-load
         bilibili.com##.gg-floor-module
         bilibili.com##.partner
-        ! Section (Add ! to enable a section)
+        ! section (add ! to enable a section)
             bilibili.com###special_recommend
             bilibili.com###home_popularize
             bilibili.com###bili_douga
@@ -41,9 +41,9 @@
             bilibili.com###bili_teleplay
             bilibili.com###bili_article
             bilibili.com##.num
-    ! Search
+    ! search
         search.bilibili.com##.rocket-con
-    ! Player
+    ! player
         bilibili.com###live_recommand_report
         bilibili.com##.bilibili-player-video-message
         bilibili.com##.header-pay-banner
@@ -58,16 +58,16 @@
         bilibili.com##.float-nav
         bilibili.com##.nav-goto-top
         bilibili.com##.backup
-        bilibili.com###entryOld
+        bilibili.com###entryold
         bilibili.com##.entry-old
         bilibili.com##.help
         bilibili.com###activity_vote
         bilibili.com##.plad
         bilibili.com##.hint-point-red
-    ! Feed
+    ! feed
         t.bilibili.com##.back-top
         t.bilibili.com##.f-lefright-panel
-    ! Live
+    ! live
         live.bilibili.com###area-ctnr
         live.bilibili.com##.shortcut-item:nth-of-type(3)
         live.bilibili.com##.nav-items-ctnr
@@ -83,8 +83,8 @@
 		live.bilibili.com##.user-level-icon
 		live.bilibili.com##.title-label
         live.bilibili.com##.left-action
-    ! Read
+    ! read
         bilibili.com##.on.right-side-bar
         bilibili.com##.up-article-list-block
-    ! Space
+    ! space
         space.bilibili.com##.to-top
