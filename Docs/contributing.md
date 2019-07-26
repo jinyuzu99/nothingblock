@@ -46,13 +46,13 @@ Setup with uBlock Original + Visual Studio Code, others are similar.
 4. Choose **Create** to create a new filter.
 5. Repeat step **2** ~ **4** until there is nothing to block.
 6. Go to **Ad blocker** -> **Dashboard** - > **My filters**, then copy all the filters.
-7. Create and open a new `[Website name with lowercase and hyphen: sample-website].txt` file in `nothingblock/filter-item/` with **Code editor**.
+7. Create and open a new `[Website name with lowercase and hyphen: sample-website].txt` file in `nothingblock/Item/` with **Code editor**.
 8. Paste the text to `[Website name with lowercase and hyphen: sample-website].txt`.
 9. Edit the file in the format below:
 
     ```adp
     ! [Website name with normal case and space and space: Sample Website]
-        ! [Website section 1] 
+        ! [Website section 1]
             [filter 1]
             [filter 2]
             ...
