@@ -1,27 +1,23 @@
-# Nothingblock
+# nothingblock
 
-> “You know you've achieved perfection in design, not when you have nothing more to add, but when you have nothing more to take away.” ― Antoine de Saint-Exupéry
+> “you know you've achieved perfection in design, not when you have nothing more to add, but when you have nothing more to take away.” ― antoine de saint-exupéry
 
-Nothingblock blocks unnecessary elements to have "nothing more to take away".
+nothingblock blocks unnecessary elements to have "nothing more to take away".
 
-![Nothingblock on Amazon.com](asset/nothingblock-on-amazon.com.jpg)
-![Nothingblock on Taobao](asset/nothingblock-on-taobao.jpg)
+![nothingblock on Amazon.com](asset/nothingblock-on-amazon.com.jpg)
+![nothingblock on Taobao](asset/nothingblock-on-taobao.jpg)
 
-## Getting Started
+## getting started
 
-Add the URL below to your [ad blocker](https://bing.com/search?q=ad+blocker) to use all **Nothingblock** filters.
+add the URL below to your [ad blocker](https://bing.com/search?q=ad+blocker) to use all **Nothingblock** filters.
 
 `https://raw.githubusercontent.com/sayo-melu/nothingblock/master/filter.txt`
 
-If you want to leave the contant only, add the URL below to your [ad blocker](https://bing.com/search?q=ad+blocker) to use all **Nothingblock Zero** filters.
+if you want to add a specific filter list, you can copy the filter list below and paste it to your ad blocker filter.
 
-`https://raw.githubusercontent.com/sayo-melu/nothingblock/master/filter-zero.txt`
+### supported websites
 
-If you want to add a specific filter list, you can copy the filter list below and paste it to your ad blocker filter.
-
-### Supported Websites
-
-| **Website Name** | **Update Time** |
+| **website name** | **update time** |
 |:----------------:|:---------------:|
 | [AcFun](filter-item/acfun.txt) | 2019.4.29 |
 | [Amap 高德地图](filter-item/amap.txt) | 2019.1.23 |
@@ -49,13 +45,13 @@ If you want to add a specific filter list, you can copy the filter list below an
 | [WeChat 微信](filter-item/wechat.txt) | 2019.5.30 |
 | [YouTube](filter-item/youtube.txt) | 2019.6.4 |
 | [知乎](filter-item/zhihu.txt) | 2019.3.17 |
-| [More](docs/more-websites.md) | [. . .](docs/more-websites.md) |
+| [more](docs/more-websites.md) | [. . .](docs/more-websites.md) |
 
-## Contributing
+## contributing
 
-Follow the [Contributing](docs/contributing.md) document to make contribution.
+follow the [contributing document](docs/contributing.md) to make contribution.
 
-## Support
+## support
 
-- Create an [issue](https://github.com/sayo-melu/nothingblock/issues/new/choose)
-- Chat on [Telegram Group](https://t.me/nothingblock)
+- create an [issue](https://github.com/sayo-melu/nothingblock/issues/new/choose)
+- chat on [Telegram Group](https://t.me/nothingblock)
