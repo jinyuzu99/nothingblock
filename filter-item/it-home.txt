@@ -1,12 +1,12 @@
 ! it home
-    ! home
-        ithome.com###rm_app
-        ithome.com###tt50
-        ithome.com###side_func
-        ithome.com##.bx2
-        ithome.com##.con_2
-        ithome.com###ft
-        ithome.com##.focus_area
-    ! detail
-        ithome.com##.sidebar
-        ithome.com##.dajia
+  ! home
+    ithome.com###rm_app
+    ithome.com###tt50
+    ithome.com###side_func
+    ithome.com##.bx2
+    ithome.com##.con_2
+    ithome.com###ft
+    ithome.com##.focus_area
+  ! detail
+    ithome.com##.sidebar
+    ithome.com##.dajia

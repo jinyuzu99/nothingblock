@@ -1,18 +1,18 @@
 ! amazon.co.jp
-    ! home
-        www.amazon.co.jp##.nav-prime-try
-        www.amazon.co.jp###nav-link-prime
-        www.amazon.co.jp###nav-swmslot
-        www.amazon.co.jp###nav-supra
-        www.amazon.co.jp###nav-orders
-        www.amazon.co.jp###main-content
-        www.amazon.co.jp###rhf
-        www.amazon.co.jp###navbacktotop
-        www.amazon.co.jp##.navfooterlinkline
-    ! item
-        www.amazon.co.jp###detail-ilm_div
-        www.amazon.co.jp###tell-a-friend
-        www.amazon.co.jp###sims-consolidated-1_feature_div
-        www.amazon.co.jp###sims-consolidated-2_feature_div
-    ! cart
-        www.amazon.co.jp###sc-new-upsell
+  ! home
+    amazon.co.jp##.nav-prime-try
+    amazon.co.jp###nav-link-prime
+    amazon.co.jp###nav-swmslot
+    amazon.co.jp###nav-supra
+    amazon.co.jp###nav-orders
+    amazon.co.jp###main-content
+    amazon.co.jp###rhf
+    amazon.co.jp###navBackToTop
+    amazon.co.jp##.navFooterLinkLine
+  ! item
+    amazon.co.jp###detail-ilm_div
+    amazon.co.jp###tell-a-friend
+    amazon.co.jp###sims-consolidated-1_feature_div
+    amazon.co.jp###sims-consolidated-2_feature_div
+  ! cart
+    amazon.co.jp###sc-new-upsell

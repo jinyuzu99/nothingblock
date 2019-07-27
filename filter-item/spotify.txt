@@ -1,4 +1,4 @@
 ! spotify
-    open.spotify.com##.spotify-logo--text
-    open.spotify.com##.navbar__download-item
-    open.spotify.com##.connectbar
+  open.spotify.com##.spotify-logo--text
+  open.spotify.com##.NavBar__download-item
+  open.spotify.com##.ConnectBar

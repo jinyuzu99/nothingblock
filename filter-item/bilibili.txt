@@ -1,90 +1,90 @@
 ! bilibili
-    ! home
-        bilibili.com##.icon.go-top
-        bilibili.com##.game.nav-item
-        bilibili.com##.manga.nav-item
-        bilibili.com##.mobile.nav-item
-        bilibili.com##.nav-gif.gif-menu
-        bilibili.com###fixed_app_download
-        bilibili.com##.elevator-module.report-wrap-module
-        bilibili.com##.fr > .nav-item:nth-of-type(2)
-        bilibili.com##.fr > li.nav-item:nth-of-type(6)
-        bilibili.com##li.loc-menu.nav-item:nth-of-type(7)
-        bilibili.com##li.loc-menu.nav-item:nth-of-type(8)
-        bilibili.com##.new-comers-module
-        bilibili.com##.bangumi-module > .r-con
-        bilibili.com##.up-load
-        bilibili.com##.gg-floor-module
-        bilibili.com##.partner
-        ! section (add ! to enable a section)
-            bilibili.com###special_recommend
-            bilibili.com###home_popularize
-            bilibili.com###bili_douga
-            ! bilibili.com##.bangumi-module
-                bilibili.com##.new-comers-module
-                bilibili.com##.bangumi-module > .r-con
-            bilibili.com###bili_guochuang
-            bilibili.com##.clearfix.live-module
-            bilibili.com###bili_music
-            bilibili.com###bili_dance
-            bilibili.com###bili_game
-            bilibili.com###bili_technology
-            bilibili.com###bili_digital
-            bilibili.com###bili_life
-            bilibili.com###bili_documentary
-            bilibili.com###bili_kichiku
-            bilibili.com###bili_ent
-            bilibili.com###bili_movie
-            bilibili.com###bili_cinephile
-            bilibili.com###bili_ad
-            bilibili.com###bili_fashion
-            bilibili.com###bili_teleplay
-            bilibili.com###bili_article
-            bilibili.com##.num
-    ! search
-        search.bilibili.com##.rocket-con
-    ! player
-        bilibili.com###live_recommand_report
-        bilibili.com##.bilibili-player-video-message
-        bilibili.com##.header-pay-banner
-        bilibili.com##.pendant
-        bilibili.com##.reply-notice
-        bilibili.com##.true-love
-        bilibili.com##.nameplate
-        bilibili.com##.hot-follow
-        bilibili.com##.level
-        bilibili.com##.p-auth.auth
-        bilibili.com##.legalize
-        bilibili.com##.float-nav
-        bilibili.com##.nav-goto-top
-        bilibili.com##.backup
-        bilibili.com###entryold
-        bilibili.com##.entry-old
-        bilibili.com##.help
-        bilibili.com###activity_vote
-        bilibili.com##.plad
-        bilibili.com##.hint-point-red
-    ! feed
-        t.bilibili.com##.back-top
-        t.bilibili.com##.f-lefright-panel
-    ! live
-        live.bilibili.com###area-ctnr
-        live.bilibili.com##.shortcut-item:nth-of-type(3)
-        live.bilibili.com##.nav-items-ctnr
-        live.bilibili.com##.hot-list
-        live.bilibili.com##.idol-show
-        live.bilibili.com##.link-footer
-        live.bilibili.com##.side-bar-cntr
-        live.bilibili.com###player-header
-        live.bilibili.com##.activity-pushing-out
-        live.bilibili.com###my-dear-haruna-vm
-        live.bilibili.com##.video-cannot-autoplay-tips
-        live.bilibili.com##.fans-medal-item-ctnr
-		live.bilibili.com##.user-level-icon
-		live.bilibili.com##.title-label
-        live.bilibili.com##.left-action
-    ! read
-        bilibili.com##.on.right-side-bar
-        bilibili.com##.up-article-list-block
-    ! space
-        space.bilibili.com##.to-top
+  ! home
+    bilibili.com##.icon.go-top
+    bilibili.com##.game.nav-item
+    bilibili.com##.manga.nav-item
+    bilibili.com##.mobile.nav-item
+    bilibili.com##.nav-gif.gif-menu
+    bilibili.com###fixed_app_download
+    bilibili.com##.elevator-module.report-wrap-module
+    bilibili.com##.fr > .nav-item:nth-of-type(2)
+    bilibili.com##.fr > li.nav-item:nth-of-type(6)
+    bilibili.com##li.loc-menu.nav-item:nth-of-type(7)
+    bilibili.com##li.loc-menu.nav-item:nth-of-type(8)
+    bilibili.com##.new-comers-module
+    bilibili.com##.bangumi-module > .r-con
+    bilibili.com##.up-load
+    bilibili.com##.gg-floor-module
+    bilibili.com##.partner
+    bilibili.com##.num
+    ! section (add '!' to enable a section)
+      bilibili.com###special_recommend
+      bilibili.com###home_popularize
+      bilibili.com###bili_douga
+      ! bilibili.com##.bangumi-module
+      bilibili.com##.new-comers-module
+      bilibili.com##.bangumi-module > .r-con
+      bilibili.com###bili_guochuang
+      bilibili.com##.clearfix.live-module
+      bilibili.com###bili_music
+      bilibili.com###bili_dance
+      bilibili.com###bili_game
+      bilibili.com###bili_technology
+      bilibili.com###bili_digital
+      bilibili.com###bili_life
+      bilibili.com###bili_documentary
+      bilibili.com###bili_kichiku
+      bilibili.com###bili_ent
+      bilibili.com###bili_movie
+      bilibili.com###bili_cinephile
+      bilibili.com###bili_ad
+      bilibili.com###bili_fashion
+      bilibili.com###bili_teleplay
+      bilibili.com###bili_article
+  ! search
+    search.bilibili.com##.rocket-con
+  ! player
+    bilibili.com###live_recommand_report
+    bilibili.com##.bilibili-player-video-message
+    bilibili.com##.header-pay-banner
+    bilibili.com##.pendant
+    bilibili.com##.reply-notice
+    bilibili.com##.true-love
+    bilibili.com##.nameplate
+    bilibili.com##.hot-follow
+    bilibili.com##.level
+    bilibili.com##.p-auth.auth
+    bilibili.com##.legalize
+    bilibili.com##.float-nav
+    bilibili.com##.nav-goto-top
+    bilibili.com##.backup
+    bilibili.com###entryOld
+    bilibili.com##.entry-old
+    bilibili.com##.help
+    bilibili.com###activity_vote
+    bilibili.com##.plad
+    bilibili.com##.hint-point-red
+  ! feed
+    t.bilibili.com##.back-top
+    t.bilibili.com##.f-lefright-panel
+  ! live
+    live.bilibili.com###area-ctnr
+    live.bilibili.com##.shortcut-item:nth-of-type(3)
+    live.bilibili.com##.nav-items-ctnr
+    live.bilibili.com##.hot-list
+    live.bilibili.com##.idol-show
+    live.bilibili.com##.link-footer
+    live.bilibili.com##.side-bar-cntr
+    live.bilibili.com###player-header
+    live.bilibili.com##.activity-pushing-out
+    live.bilibili.com###my-dear-haruna-vm
+    live.bilibili.com##.video-cannot-autoplay-tips
+    live.bilibili.com##.fans-medal-item-ctnr
+    live.bilibili.com##.user-level-icon
+    live.bilibili.com##.title-label
+    live.bilibili.com##.left-action
+  ! read
+    bilibili.com##.on.right-side-bar
+    bilibili.com##.up-article-list-block
+  ! space
+    space.bilibili.com##.to-top

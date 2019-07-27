@@ -50,17 +50,17 @@ setup with ublock original + visual studio code, others are similar.
 8. paste the text to `[website name with lowercase and hyphen: sample-website].txt`.
 9. edit the file in the format below:
 
-    ```adp
-    ! [website name with normal case and space and space: sample website]
-        ! [website section 1]
-            [filter 1]
-            [filter 2]
-            ...
-        ! [website section 2]
-            [filter 3]
-            [filter 4]
-            ...
-    ```
+  ```adp
+  ! [website name: sample website]
+    ! [website section 1]
+      [filter 1]
+      [filter 2]
+      ...
+    ! [website section 2]
+      [filter 3]
+      [filter 4]
+      ...
+  ```
 
 ### pulling requests
 

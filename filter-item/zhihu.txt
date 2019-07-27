@@ -1,7 +1,7 @@
 ! zhihu
-    ! home
-        www.zhihu.com##.footer
-        www.zhihu.com##.cornerbuttons
-    ! answer
-        www.zhihu.com##.relatedcommodities-title
-        www.zhihu.com##.relatedcommodities-list
+  ! home
+    zhihu.com##.Footer
+    zhihu.com##.CornerButtons
+  ! answer
+    zhihu.com##.RelatedCommodities-title
+    zhihu.com##.RelatedCommodities-list

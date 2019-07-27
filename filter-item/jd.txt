@@ -1,36 +1,35 @@
 ! jd
-    ! global
-        jd.com##.s-show
-        jd.com###j_event
-        jd.com##.jtdcode
-        jd.com###footmark
-        jd.com###nav-2014
-        jd.com###footer-2017
-        jd.com###service-2017
-        jd.com###global_footer
-        jd.com###j-global-toolbar
-    ! home
-        www.jd.com##.floors
-        www.jd.com##.joytop
-        www.jd.com###hotwords
-        www.jd.com###j_mobile
-        www.jd.com###j_fs_act
-        www.jd.com###j_promo_lk
-    ! home
-        home.jd.com##.box-2
-        home.jd.com##.m-service.m-block.m
-        order.jd.com##.ui-slidebar
-    ! list
-        list.jd.com##.im-01
-        list.jd.com##.im-02
-        list.jd.com##.m-aside
-        list.jd.com##.p-icons
-        list.jd.com##.ps-wrap
-        list.jd.com##.scrolled
-        list.jd.com##.spu-link
-        list.jd.com##.price-plus-1
-        list.jd.com##.w:nth-of-type(6)
-    ! item
-        item.jd.com##.aside
-        item.jd.com###j_atmosphere_banner
-        item.jd.com###j-summary-openplusgift
+  ! global
+    jd.com##.s-show
+    jd.com###J_event
+    jd.com##.jTdCode
+    jd.com###footmark
+    jd.com###nav-2014
+    jd.com###footer-2017
+    jd.com###service-2017
+    jd.com###GLOBAL_FOOTER
+    jd.com###J-global-toolbar
+  ! home
+    www.jd.com##.floors
+    www.jd.com##.joytop
+    www.jd.com###hotwords
+    www.jd.com###J_mobile
+    www.jd.com###J_fs_act
+    www.jd.com###J_promo_lk
+    home.jd.com##.box-2
+    home.jd.com##.m-service.m-block.m
+    order.jd.com##.ui-slidebar
+  ! list
+    list.jd.com##.im-01
+    list.jd.com##.im-02
+    list.jd.com##.m-aside
+    list.jd.com##.p-icons
+    list.jd.com##.ps-wrap
+    list.jd.com##.scrolled
+    list.jd.com##.spu-link
+    list.jd.com##.price-plus-1
+    list.jd.com##.w:nth-of-type(6)
+  ! item
+    item.jd.com##.aside
+    item.jd.com###J_atmosphere_banner
+    item.jd.com###J-summary-openPlusGift

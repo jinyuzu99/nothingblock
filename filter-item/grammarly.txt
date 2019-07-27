@@ -1,5 +1,0 @@
-! grammarly
-    ! home
-        app.grammarly.com##._6d7d6010-index_navigation-apps
-    ! documents
-        app.grammarly.com##._c9042367-button-button._8188d399-new_toggler-issueswrapper._9a4125a4-typography-header3legacy
