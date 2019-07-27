@@ -9,9 +9,9 @@
     amazon.com###navBackToTop
     amazon.com##.navFooterLinkLine
   ! item
-  	amazon.com###feature-bullets
-  	amazon.com###detail-ilm_div
+    amazon.com###feature-bullets
+    amazon.com###detail-ilm_div
     amazon.com###tell-a-friend
     amazon.com###alternativeOfferEligibilityMessaging_feature_div
   ! cart
-  	amazon.com###sc-new-upsell
+    amazon.com###sc-new-upsell

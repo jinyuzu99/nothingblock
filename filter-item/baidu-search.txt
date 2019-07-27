@@ -1,5 +1,5 @@
 ! baidu search
-	! home
+  ! home
     baidu.com##.mnav
     baidu.com###s_top_wrap
     baidu.com###s_upfunc_menus
@@ -10,7 +10,7 @@
     baidu.com###lh
     baidu.com###s_wrap
     baidu.com###ftCon
-	! results
+  ! results
     baidu.com##.bdsug-feedback-wrap
     baidu.com###content_right
     baidu.com##.toindex
