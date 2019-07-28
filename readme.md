@@ -1,6 +1,6 @@
 <h1>
 <sub>
-<img  src="asset/nothongblock-logo.png" height="38" width="38">
+<img  src="asset/nothongblock-logo.png" height="40" width="40">
 </sub>
 nothingblock
 </h1>
