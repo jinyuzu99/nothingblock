@@ -49,7 +49,7 @@ if you want to add a specific filter list, you can copy the filter list below an
 | [wechat](filter-item/wechat.txt) | 2019.5.30 |
 | [youtube](filter-item/youtube.txt) | 2019.6.4 |
 | [zhihu](filter-item/zhihu.txt) | 2019.3.17 |
-| [more](document/more-websites.md) | [. . .](document/more-websites.md) |
+| [more](document/more-website.md) | . . . |
 
 ## contributing
 
