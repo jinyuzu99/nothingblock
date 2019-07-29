@@ -2,8 +2,8 @@
 ! title: nothingblock filter
 ! homepage: https://github.com/sayo-melu/nothingblock
 ! licence: https://github.com/sayo-melu/nothingblock/blob/master/license.txt
-! expires: 2 days
-! version: 2019.07.27
+! expires: 5 days
+! version: 2019.07.29
 acfun.cn###appguideBox
 acfun.cn##.creditCard
 acfun.cn##.log-dot.niudanIcon
@@ -325,9 +325,9 @@ open.spotify.com##.spotify-logo--text
 open.spotify.com##.NavBar__download-item
 open.spotify.com##.ConnectBar
 taobao.com##.qr
-taobao.com##.footer
+！taobao.com##.footer
 taobao.com##.follow-mobile
-taobao.com###J_SiteFooter
+！taobao.com###J_SiteFooter
 taobao.com###J_SiteNavSeller
 taobao.com###J_SiteNavMobile
 taobao.com###J_SiteNavSitemap
@@ -346,7 +346,6 @@ tmall.com##.s-hot-query
 tmall.com##.skin-box-content
 tmall.com##.mui-mbarp-qrcode
 tmall.com##.mui-mbar-tabs-mask
-www.taobao.com##.logo
 www.taobao.com##.layer-inner
 www.taobao.com##.decorations-item
 www.taobao.com##.J_Module.tbh-app

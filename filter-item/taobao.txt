@@ -1,9 +1,9 @@
 ! taobao
   ! global
     taobao.com##.qr
-    taobao.com##.footer
+    ！taobao.com##.footer
     taobao.com##.follow-mobile
-    taobao.com###J_SiteFooter
+    ！taobao.com###J_SiteFooter
     taobao.com###J_SiteNavSeller
     taobao.com###J_SiteNavMobile
     taobao.com###J_SiteNavSitemap
@@ -23,7 +23,6 @@
     tmall.com##.mui-mbarp-qrcode
     tmall.com##.mui-mbar-tabs-mask
   ! home
-    www.taobao.com##.logo
     www.taobao.com##.layer-inner
     www.taobao.com##.decorations-item
     www.taobao.com##.J_Module.tbh-app
