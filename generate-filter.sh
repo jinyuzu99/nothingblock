@@ -3,8 +3,8 @@
 header="[adblock plus 3.0]
 ! title: nothingblock filter
 ! homepage: https://github.com/sayo-melu/nothingblock
-! licence: https://github.com/sayo-melu/nothingblock/blob/master/license
-! expires: 2 days
+! licence: https://github.com/sayo-melu/nothingblock/blob/master/license.txt
+! expires: 5 days
 ! version: $(date +%Y.%m.%d)"
 
 rm filter.txt
