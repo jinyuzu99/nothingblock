@@ -1,9 +1,9 @@
 ! taobao
   ! global
     taobao.com##.qr
-    ！taobao.com##.footer
+    taobao.com##.tbh-banner
     taobao.com##.follow-mobile
-    ！taobao.com###J_SiteFooter
+    taobao.com###J_Banner
     taobao.com###J_SiteNavSeller
     taobao.com###J_SiteNavMobile
     taobao.com###J_SiteNavSitemap

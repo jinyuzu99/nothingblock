@@ -45,7 +45,7 @@ if you want to add a specific filter list, you can copy the filter list below an
 | [netease cc](filter-item/netease-cc.txt) | 2019.6.18 |
 | [netease music](filter-item/netease-music.txt) | 2019.2.10 |
 | [spotify](filter-item/spotify.txt) | 2019.3.16 |
-| [taobao](filter-item/taobao.txt) | 2019.7.29 |
+| [taobao](filter-item/taobao.txt) | 2019.7.30 |
 | [wechat](filter-item/wechat.txt) | 2019.5.30 |
 | [youtube](filter-item/youtube.txt) | 2019.6.4 |
 | [zhihu](filter-item/zhihu.txt) | 2019.3.17 |
