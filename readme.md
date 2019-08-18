@@ -7,7 +7,7 @@
 
 > “you know you've achieved perfection in design, not when you have nothing more to add, but when you have nothing more to take away.” ― antoine de saint-exupéry
 
-nothingblock blocks unnecessary elements to have "nothing more to take away". [why i build nothingblock](+ easy for screen reader)
+nothingblock blocks unnecessary elements to have "nothing more to take away".
 
 ![nothingblock on amazon.com](asset/nothingblock-on-amazon.com.jpg)
 ![nothingblock on taobao](asset/nothingblock-on-taobao.jpg)
