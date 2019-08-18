@@ -405,9 +405,10 @@ weibo.com##.send_weibo
 weibo.com##.mini_panel_area
 weibo.com##.player_bg
 weibo.com###WB_webchat
-||img.t.sinajs.cn/t6/skin/public/feed_cover/$image
+weibo.com###base_scrollToTop
 weibo.com###v6_pl_rightmod_rank
 weibo.com###v6_pl_rightmod_attfeed
+||img.t.sinajs.cn/t6/skin/public/feed_cover/$image
 weibo.com##.icon_member_dis
 weibo.com##.icon_member1
 weibo.com##.icon_member2
@@ -419,8 +420,7 @@ weibo.com##.icon_member7
 weibo.com##.icon_approve_gold
 weibo.com##.S_line1.line > span > em:nth-of-type(2)
 weibo.com##.S_line1.line > .S_txt2 > span > em:nth-of-type(2)
-weibo.com##.footer_link
-weibo.com###base_scrollToTop
+weibo.com##.footer_link 
 zhihu.com##.Footer
 zhihu.com##.CornerButtons
 zhihu.com##.RelatedCommodities-title
