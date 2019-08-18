@@ -1,6 +1,6 @@
 <h1>
   <sub>
-    <img  src="asset/nothongblock-logo.png" height="40" width="40">
+    <img src="asset/nothongblock-logo.png" alt="nothongblock logo" height="40" width="40">
   </sub>
   nothingblock
 </h1>
@@ -9,8 +9,7 @@
 
 nothingblock blocks unnecessary elements to have "nothing more to take away".
 
-![nothingblock on amazon.com](asset/nothingblock-on-amazon.com.jpg)
-![nothingblock on taobao](asset/nothingblock-on-taobao.jpg)
+![nothingblock sample](asset/nothingblock-sample.jpg)
 
 ## getting started
 
