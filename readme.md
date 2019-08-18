@@ -1,13 +1,13 @@
 <h1>
-<sub>
-<img  src="asset/nothongblock-logo.png" height="40" width="40">
-</sub>
-nothingblock
+  <sub>
+    <img  src="asset/nothongblock-logo.png" height="40" width="40">
+  </sub>
+  nothingblock
 </h1>
 
 > “you know you've achieved perfection in design, not when you have nothing more to add, but when you have nothing more to take away.” ― antoine de saint-exupéry
 
-nothingblock blocks unnecessary elements to have "nothing more to take away".
+nothingblock blocks unnecessary elements to have "nothing more to take away". [why i build nothingblock](+ easy for screen reader)
 
 ![nothingblock on amazon.com](asset/nothingblock-on-amazon.com.jpg)
 ![nothingblock on taobao](asset/nothingblock-on-taobao.jpg)
@@ -30,7 +30,7 @@ if you want to add a specific filter list, you can copy the filter list below an
 | [amazon.co.jp](filter-item/amazon.co.jp.txt) | 2019.2.13 |
 | [amazon.com](filter-item/amazon.com.txt) | 2019.2.13 |
 | [baidu search](filter-item/baidu-search.txt) | 2019.6.20 |
-| [bilibili](filter-item/bilibili.txt) | 2019.7.24 |
+| [bilibili](filter-item/bilibili.txt) | 2019.8.18 |
 | [bing](filter-item/bing.txt) | 2019.3.18 |
 | [dmzj](filter-item/dmzj.txt) | 2019.5.30 |
 | [duckduckgo](filter-item/duckduckgo.txt) | 2019.1.23 |

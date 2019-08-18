@@ -41,6 +41,7 @@
       bilibili.com###bili_fashion
       bilibili.com###bili_teleplay
       bilibili.com###bili_article
+      bilibili.com###bili_manga
   ! search
     search.bilibili.com##.rocket-con
   ! player

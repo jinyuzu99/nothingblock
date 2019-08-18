@@ -3,7 +3,7 @@
 ! homepage: https://github.com/sayo-melu/nothingblock
 ! licence: https://github.com/sayo-melu/nothingblock/blob/master/license.txt
 ! expires: 5 days
-! version: 2019.08.03
+! version: 2019.08.18
 acfun.cn###appguideBox
 acfun.cn##.creditCard
 acfun.cn##.log-dot.niudanIcon
@@ -144,6 +144,7 @@ bilibili.com###bili_ad
 bilibili.com###bili_fashion
 bilibili.com###bili_teleplay
 bilibili.com###bili_article
+bilibili.com###bili_manga
 search.bilibili.com##.rocket-con
 bilibili.com###live_recommand_report
 bilibili.com##.bilibili-player-video-message
