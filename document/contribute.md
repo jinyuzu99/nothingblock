@@ -1,29 +1,29 @@
-# contributing
+# contribute
 
 ## feedback
 
 if you want to:
 
-- ask questions
-- report bugs
-- request features
-- vote for feature requests
+- ask question
+- report bug
+- request feature
+- vote for feature request
 
-please create or check [issues](https://github.com/sayo-melu/nothingblock/issues/new/choose) to make contribution.
+please create or check [issue](https://github.com/sayo-melu/nothingblock/issues/new/choose) to make contribution.
 
-if you want to chat with other users, please join our [telegram group](https://t.me/nothingblock).
+if you want to chat with other user, please join our [telegram group](https://t.me/nothingblock).
 
-## contributing to code
+## contribute to code
 
-if you want to contribute directly to the code base, please follow the steps below.
+if you want to contribute directly to the code base, please follow the step below.
 
-### getting the sources
+### get the source
 
 `git clone https://github.com/sayo-melu/nothingblock.git`
 
-### prerequisites
+### prerequisite
 
-- [git](https://git-scm.com/) or [github desktop](https://desktop.github.com)
+- [git](https://git-scm.com/)
 
 - web browser
 
@@ -36,16 +36,16 @@ if you want to contribute directly to the code base, please follow the steps bel
   - [visual studio code](https://code.visualstudio.com/)
   - [more...](https://bing.com/search?q=code+editor)
 
-### writing filters
+### writing filter
 
-setup with ublock original + visual studio code, others are similar.
+setup with ublock original + visual studio code, other are similar.
 
 1. open the website you want to block on your **web browser** with **ad blocker** enabled.
 2. **secondary click** on the website element you want to block, then choose **block element**.
 3. find the appropriate fliter in **cosmetic filters**, then choose **preview** to check your fliter.
 4. choose **create** to create a new filter.
 5. repeat step **2** ~ **4** until there is nothing to block.
-6. go to **ad blocker** -> **dashboard** - > **my filters**, then copy all the filters.
+6. go to **ad blocker** -> **dashboard** - > **my filter**, then copy all the filter.
 7. create and open a new `[website name with lowercase and hyphen: sample-website].txt` file in `nothingblock/item/` with **code editor**.
 8. paste the text to `[website name with lowercase and hyphen: sample-website].txt`.
 9. edit the file in the format below:
@@ -62,6 +62,6 @@ setup with ublock original + visual studio code, others are similar.
       ...
   ```
 
-### pulling requests
+### pull request
 
 after writing your filter, you can pull request to nothingblock [master branch](https://github.com/sayo-melu/nothingblock/tree/master) with the description in [pull request template](../.github/pull_request_template.md) format.

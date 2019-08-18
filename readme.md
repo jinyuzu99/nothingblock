@@ -46,12 +46,13 @@ if you want to add a specific filter list, you can copy the filter list below an
 | [spotify](filter-item/spotify.txt) | 2019.3.16 |
 | [taobao](filter-item/taobao.txt) | 2019.7.30 |
 | [wechat](filter-item/wechat.txt) | 2019.5.30 |
+| [weibo](filter-item/weibo.txt) | 2019.8.15 |
 | [zhihu](filter-item/zhihu.txt) | 2019.3.17 |
 | [more](document/more-website.md) | . . . |
 
 ## contribute
 
-follow the [contribute document](document/contributing.md) to make contribution.
+follow the [contribute document](document/contribute.md) to make contribution.
 
 ## support
 

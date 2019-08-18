@@ -1,14 +1,14 @@
-**add supported websites**
+**add supported website**
 
 - [website name]
 - ...
 
-**add items to supported websites**
+**add item to supported website**
 
 - [website name] ([added item])
 - ...
 
-**fix issues on supported websites**
+**fix issue on supported website**
 
 - [website name] ([fixed item])
 - ...
