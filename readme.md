@@ -5,21 +5,21 @@
   nothingblock
 </h1>
 
-> “you know you've achieved perfection in design, not when you have nothing more to add, but when you have nothing more to take away.” ― antoine de saint-exupéry
+> 'you know you've achieved perfection in design, not when you have nothing more to add, but when you have nothing more to take away.' ― antoine de saint-exupéry
 
-nothingblock blocks unnecessary elements to have "nothing more to take away".
+nothingblock blocks unnecessary element to have 'nothing more to take away'.
 
 ![nothingblock sample](asset/nothingblock-sample.jpg)
 
-## getting started
+## get start
 
-add the url below to your [ad blocker](https://bing.com/search?q=ad+blocker) to use all **nothingblock** filters.
+add the url below to your [ad blocker](https://bing.com/search?q=ad+blocker) to use all **nothingblock** filter.
 
 `https://raw.githubusercontent.com/sayo-melu/nothingblock/master/filter.txt`
 
 if you want to add a specific filter list, you can copy the filter list below and paste it to your ad blocker filter.
 
-### supported websites
+### support website
 
 | **website name** | **update time** |
 |:----------------:|:---------------:|
@@ -49,9 +49,9 @@ if you want to add a specific filter list, you can copy the filter list below an
 | [zhihu](filter-item/zhihu.txt) | 2019.3.17 |
 | [more](document/more-website.md) | . . . |
 
-## contributing
+## contribute
 
-follow the [contributing document](document/contributing.md) to make contribution.
+follow the [contribute document](document/contributing.md) to make contribution.
 
 ## support
 
