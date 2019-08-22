@@ -37,6 +37,7 @@ if you want to add a specific filter list, you can copy the filter list below an
 | [google map](filter-item/google-map.txt) | 2019.1.23 |
 | [google photo](filter-item/google-photo.txt) | 2019.1.23 |
 | [google search](filter-item/google-search.txt) | 2019.6.20 |
+| [中国大学mooc](filter-item/icourse163.txt) | 2019.8.22 |
 | [inoreader](filter-item/inoreader.txt) | 2019.1.14 |
 | [it home](filter-item/it-home.txt) | 2019.3.22 |
 | [jd](filter-item/jd.txt) | 2019.7.27 |
@@ -47,7 +48,6 @@ if you want to add a specific filter list, you can copy the filter list below an
 | [taobao](filter-item/taobao.txt) | 2019.7.30 |
 | [wechat](filter-item/wechat.txt) | 2019.5.30 |
 | [weibo](filter-item/weibo.txt) | 2019.8.15 |
-| [中国大学mooc](filter-item/icourse163.txt) | 2019.8.22 |
 | [zhihu](filter-item/zhihu.txt) | 2019.3.17 |
 | [more](document/more-website.md) | . . . |
 
