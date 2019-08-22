@@ -3,7 +3,7 @@
 ! homepage: https://github.com/sayo-melu/nothingblock
 ! licence: https://github.com/sayo-melu/nothingblock/blob/master/license.txt
 ! expires: 5 days
-! version: 2019.08.18
+! version: 2019.08.22
 acfun.cn###appguideBox
 acfun.cn##.creditCard
 acfun.cn##.log-dot.niudanIcon
@@ -104,7 +104,7 @@ baidu.com###s_wrap
 baidu.com###ftCon
 baidu.com##.bdsug-feedback-wrap
 baidu.com###content_right
-baidu.com##.toindex! bilibili
+baidu.com##.toindex
 bilibili.com##.icon.go-top
 bilibili.com##.game.nav-item
 bilibili.com##.manga.nav-item
@@ -246,7 +246,36 @@ google.*###resultStats
 google.*###bres
 google.*##.kno-ftr
 google.*###footcnt
-google.*##.OJXvsb! inoreader
+google.*##.OJXvsb
+www.icourse163.org###auto-id-1566466924917
+www.icourse163.org##.e-hover-source.m-head-right-more
+www.icourse163.org##.f-pr.f-fr.f3
+www.icourse163.org##.f-pr.f-fr.f4
+www.icourse163.org##.ga-click.m-head-cloud
+www.icourse163.org##.ga-click.m-head-link-to-geek
+www.icourse163.org##.ga-click.m-head-link-to-study163
+www.icourse163.org###j-activityBanner
+www.icourse163.org###j-activityRightBanner
+www.icourse163.org###j-index-column-box
+www.icourse163.org###j-side-operation
+www.icourse163.org##.m-head-app
+www.icourse163.org##.m-head-app-text.e-hover-source
+www.icourse163.org##.m-index-student.p-index-studentFunc
+www.icourse163.org##.p-index-discussFunc
+www.icourse163.org##.p-index-recCourseFunc
+www.icourse163.org##.p-index-schoolFunc
+www.icourse163.org##.p-index-selfDefineFunc
+www.icourse163.org##.g-sd2
+www.icourse163.org##.u-navLogin-app
+www.icourse163.org##.u-navLogin-appText.e-hover-source
+www.icourse163.org###auto-id-1566467179644
+www.icourse163.org##.u-navLogin-cloud
+www.icourse163.org##.u-navLogin-discuss
+www.icourse163.org###j-plan-panle
+www.icourse163.org###j-sidebar
+www.icourse163.org##[href="//www.icourse163.org/topics/topmszl/"]
+www.icourse163.org##.f-fr.u-ui-box
+www.icourse163.org##.u-st-plan.fr.item
 inoreader.com###below_tree
 inoreader.com###sb_rp_upgrade
 ithome.com###rm_app

@@ -47,6 +47,7 @@ if you want to add a specific filter list, you can copy the filter list below an
 | [taobao](filter-item/taobao.txt) | 2019.7.30 |
 | [wechat](filter-item/wechat.txt) | 2019.5.30 |
 | [weibo](filter-item/weibo.txt) | 2019.8.15 |
+| [中国大学mooc](filter-item/icourse163.txt) | 2019.8.22 |
 | [zhihu](filter-item/zhihu.txt) | 2019.3.17 |
 | [more](document/more-website.md) | . . . |
 
