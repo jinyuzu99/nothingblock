@@ -9,7 +9,7 @@ if you want to:
 - request feature
 - vote for feature request
 
-please create or check [issue](https://github.com/sayo-melu/nothingblock/issues/new/choose) to make contribution.
+please create or check [issue](https://github.com/dorjmi/nothingblock/issues/new/choose) to make contribution.
 
 if you want to chat with other user, please join our [telegram group](https://t.me/nothingblock).
 
@@ -19,7 +19,7 @@ if you want to contribute directly to the code base, please follow the step belo
 
 ### get the source
 
-`git clone https://github.com/sayo-melu/nothingblock.git`
+`git clone https://github.com/dorjmi/nothingblock.git`
 
 ### prerequisite
 
@@ -64,4 +64,4 @@ setup with ublock original + visual studio code, other are similar.
 
 ### pull request
 
-after writing your filter, you can pull request to nothingblock [master branch](https://github.com/sayo-melu/nothingblock/tree/master) with the description in [pull request template](../.github/pull_request_template.md) format.
+after writing your filter, you can pull request to nothingblock [master branch](https://github.com/dorjmi/nothingblock/tree/master) with the description in [pull request template](../.github/pull_request_template.md) format.

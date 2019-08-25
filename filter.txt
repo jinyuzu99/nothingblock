@@ -1,7 +1,7 @@
 [adblock plus 3.0]
 ! title: nothingblock filter
-! homepage: https://github.com/sayo-melu/nothingblock
-! licence: https://github.com/sayo-melu/nothingblock/blob/master/license.txt
+! homepage: https://github.com/dorjmi/nothingblock
+! licence: https://github.com/dorjmi/nothingblock/blob/master/license.txt
 ! expires: 5 days
 ! version: 2019.08.22
 acfun.cn###appguideBox
