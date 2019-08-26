@@ -15,7 +15,7 @@ nothingblock blocks unnecessary element to have 'nothing more to take away'.
 
 add the url below to your [ad blocker](https://bing.com/search?q=ad+blocker) to use all **nothingblock** filter.
 
-`https://raw.githubusercontent.com/dorjmi/master/filter.txt`
+`https://raw.githubusercontent.com/dorjmi/nothingblock/master/filter.txt`
 
 if you want to add a specific filter list, you can copy the filter list below and paste it to your ad blocker filter.
 
