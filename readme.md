@@ -29,7 +29,7 @@ if you want to add a specific filter list, you can copy the filter list below an
 |        [amazon.co.jp](filter-item/amazon.co.jp.txt)         |    2019.2.13    |
 |          [amazon.com](filter-item/amazon.com.txt)           |    2019.2.13    |
 |   [baidu search (百度搜索)](filter-item/baidu-search.txt)   |    2019.6.20    |
-|       [bilibili (哔哩哔哩)](filter-item/bilibili.txt)       |    2019.8.18    |
+|       [bilibili (哔哩哔哩)](filter-item/bilibili.txt)       |    2019.8.31    |
 |                [bing](filter-item/bing.txt)                 |    2019.3.18    |
 |           [dmzj (动漫之家)](filter-item/dmzj.txt)           |    2019.5.30    |
 |          [duckduckgo](filter-item/duckduckgo.txt)           |    2019.1.23    |
@@ -42,7 +42,7 @@ if you want to add a specific filter list, you can copy the filter list below an
 |        [it home (it 之家)](filter-item/it-home.txt)         |    2019.3.22    |
 |               [jd (京东)](filter-item/jd.txt)               |    2019.7.27    |
 |    [microsoft office](filter-item/microsoft-office.txt)     |    2019.3.16    |
-|     [netease cc (网易 cc)](filter-item/netease-cc.txt)      |    2019.6.18    |
+|     [netease cc (网易 cc)](filter-item/netease-cc.txt)      |    2019.8.31    |
 | [netease music (网易云音乐)](filter-item/netease-music.txt) |    2019.2.10    |
 |             [spotify](filter-item/spotify.txt)              |    2019.3.16    |
 |           [taobao (淘宝)](filter-item/taobao.txt)           |    2019.7.30    |

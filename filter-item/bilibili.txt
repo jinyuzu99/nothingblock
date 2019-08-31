@@ -69,21 +69,36 @@
     t.bilibili.com##.back-top
     t.bilibili.com##.f-lefright-panel
   ! live
-    live.bilibili.com###area-ctnr
-    live.bilibili.com##.shortcut-item:nth-of-type(3)
-    live.bilibili.com##.nav-items-ctnr
-    live.bilibili.com##.hot-list
-    live.bilibili.com##.idol-show
-    live.bilibili.com##.link-footer
-    live.bilibili.com##.side-bar-cntr
-    live.bilibili.com###player-header
-    live.bilibili.com##.activity-pushing-out
-    live.bilibili.com###my-dear-haruna-vm
-    live.bilibili.com##.video-cannot-autoplay-tips
-    live.bilibili.com##.fans-medal-item-ctnr
-    live.bilibili.com##.user-level-icon
-    live.bilibili.com##.title-label
-    live.bilibili.com##.left-action
+    ! home
+      live.bilibili.com##.shortcut-item:nth-of-type(3)
+      live.bilibili.com##.flying-vm
+      live.bilibili.com##.t-center.player-area-ctnr
+      live.bilibili.com###app > div:nth-of-type(6)
+      live.bilibili.com###app > div:nth-of-type(7)
+      live.bilibili.com###app > div:nth-of-type(8)
+      live.bilibili.com###app > div:nth-of-type(9)
+      live.bilibili.com###app > div:nth-of-type(10)
+      live.bilibili.com###app > div:nth-of-type(11)
+      live.bilibili.com###app > div:nth-of-type(12)
+      live.bilibili.com###app > div:nth-of-type(13)
+      live.bilibili.com###app > div:nth-of-type(14)
+      live.bilibili.com###app > div:nth-of-type(15)
+      live.bilibili.com###app > div:nth-of-type(16)
+    ! player
+      live.bilibili.com##.hour-rank
+      live.bilibili.com##.room-bg
+      live.bilibili.com##.side-bar-cntr
+      live.bilibili.com##.activity-pushing-out
+      live.bilibili.com###my-dear-haruna-vm
+      live.bilibili.com##.announcement-wrapper
+      live.bilibili.com##.fans-medal-item-ctnr
+      live.bilibili.com##.user-level-icon
+      live.bilibili.com##.title-label
+      live.bilibili.com##.guard-icon
+      live.bilibili.com##.system-msg
+      live.bilibili.com##.vip-icon
+      live.bilibili.com###chat-draw-area-vm
+      live.bilibili.com##.week-star-rank
   ! read
     bilibili.com##.on.right-side-bar
     bilibili.com##.up-article-list-block

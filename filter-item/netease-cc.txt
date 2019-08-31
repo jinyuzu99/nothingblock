@@ -5,6 +5,7 @@
   cc.163.com###js-dynamic-msg-container
   cc.163.com###menu-be-anchor
   cc.163.com##.user-tool-bar
+  cc.163.com###player-banner
   cc.163.com###first-reward-entry
   cc.163.com###webChat
   cc.163.com##.chat_priv_img
