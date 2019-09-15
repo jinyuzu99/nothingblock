@@ -9,4 +9,4 @@ jobs:
 
     steps:
     - name: run generate-filter.sh
-      run: generate-filter.sh
+      run: /generate-filter.sh
