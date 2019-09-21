@@ -4,20 +4,19 @@
     jd.com###J_event
     jd.com##.jTdCode
     jd.com###footmark
-    jd.com###nav-2014
     jd.com###footer-2017
     jd.com###service-2017
     jd.com###GLOBAL_FOOTER
     jd.com###J-global-toolbar
   ! home
-    www.jd.com##.floors
-    www.jd.com##.joytop
+    www.jd.com###J_promotional-top
+    www.jd.com###J_app
     www.jd.com###hotwords
     www.jd.com###J_mobile
     www.jd.com###J_fs_act
     www.jd.com###J_promo_lk
     home.jd.com##.box-2
-    home.jd.com##.m-service.m-block.m
+    !home.jd.com##.m-service.m-block.m
     order.jd.com##.ui-slidebar
   ! list
     list.jd.com##.im-01

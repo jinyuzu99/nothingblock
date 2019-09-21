@@ -40,7 +40,7 @@ if you want to add a specific filter list, you can copy the filter list below an
 | [icourse 163 (中国大学 mooc)](filter-item/icourse163.txt)   | 2019.8.22   |
 | [inoreader](filter-item/inoreader.txt)                      | 2019.1.14   |
 | [it home (it 之家)](filter-item/it-home.txt)                | 2019.3.22   |
-| [jd (京东)](filter-item/jd.txt)                             | 2019.7.27   |
+| [jd (京东)](filter-item/jd.txt)                             | 2019.9.21   |
 | [microsoft office](filter-item/microsoft-office.txt)        | 2019.3.16   |
 | [netease cc (网易 cc)](filter-item/netease-cc.txt)          | 2019.8.31   |
 | [netease music (网易云音乐)](filter-item/netease-music.txt) | 2019.2.10   |
