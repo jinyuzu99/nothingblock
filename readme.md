@@ -7,7 +7,7 @@
 
 > 'you know you've achieved perfection in design, not when you have nothing more to add, but when you have nothing more to take away.' ― antoine de saint-exupéry
 
-nothingblock blocks unnecessary element to have 'nothing more to take away'.
+nothingblock blocks unnecessary element to have 'nothing more to take away'. 
 
 ![nothingblock sample](asset/nothingblock-sample.jpg)
 
@@ -50,6 +50,10 @@ if you want to add a specific filter list, you can copy the filter list below an
 | [weibo (微博)](filter-item/weibo.txt)                       | 2019.8.15   |
 | [zhihu (知乎)](filter-item/zhihu.txt)                       | 2019.3.17   |
 | [more](document/more-website.md)                            | . . .       |
+
+## follow
+
+- [product hunt](https://www.producthunt.com/posts/nothingblock)
 
 ## contribute
 
