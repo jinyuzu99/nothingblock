@@ -44,7 +44,7 @@ if you want to add a specific filter list, you can copy the filter list below an
 | [microsoft office](filter-item/microsoft-office.txt)        | 2019.3.16   |
 | [netease cc (网易 cc)](filter-item/netease-cc.txt)          | 2019.8.31   |
 | [netease music (网易云音乐)](filter-item/netease-music.txt) | 2019.2.10   |
-| [spotify](filter-item/spotify.txt)                          | 2019.3.16   |
+| [spotify](filter-item/spotify.txt)                          | 2019.9.30   |
 | [taobao (淘宝)](filter-item/taobao.txt)                     | 2019.7.30   |
 | [wechat (微信)](filter-item/wechat.txt)                     | 2019.5.30   |
 | [weibo (微博)](filter-item/weibo.txt)                       | 2019.8.15   |

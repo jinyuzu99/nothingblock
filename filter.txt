@@ -3,7 +3,7 @@
 ! homepage: https://github.com/dorjmi/nothingblock
 ! licence: https://github.com/dorjmi/nothingblock/blob/master/license.txt
 ! expires: 5 days
-! version: 2019.09.21
+! version: 2019.09.30
 acfun.cn###appguideBox
 acfun.cn##.creditCard
 acfun.cn##.log-dot.niudanIcon
@@ -364,7 +364,8 @@ music.163.com##.g-ft
 music.163.com##.n-bill
 music.163.com##.m-multi
 open.spotify.com##.spotify-logo--text
-open.spotify.com##.NavBar__download-item
+open.spotify.com##._668f8eb097574762d66d361cc6d37850-scss
+open.spotify.com##.CreatePlaylistButton
 open.spotify.com##.ConnectBar
 taobao.com##.qr
 taobao.com##.tbh-banner
