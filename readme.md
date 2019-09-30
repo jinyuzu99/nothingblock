@@ -5,7 +5,7 @@
   nothingblock
 </h1>
 
-> 'you know you've achieved perfection in design, not when you have nothing more to add, but when you have nothing more to take away.' ― antoine de saint-exupéry
+> 'you know you've achieved perfection in design, not when you have nothing more to add, but when you have nothing more to take away.' ― antoine de saint exupery
 
 nothingblock blocks unnecessary element to have 'nothing more to take away'. 
 
