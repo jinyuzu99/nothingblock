@@ -1,24 +1,24 @@
-**bug description**
+## description
 
-[description]
+[issue occur when...]
 
-**reproduce**
+## reproduce
 
 1. [step 1]
 2. [step 2]
 3. ...
 4. issue occur
 
-**expected behavior**
-a clear and concise description of what you expected to happen.
+## expect behavior
 
-**asset**
+[it should...]
 
-- [asset: screenshot or file]
-- ...
+## asset
 
-**environment**
+[insert screenshot or file]
 
-- os: [operating system name: linux]
-- browser: [browser name: chrome]
-- ad blocker: [ad blocker name: ublock original]
+## environment
+
+- operating system: [my operating system]
+- browser: [my browser]
+- ad blocker: [my ad blocker]

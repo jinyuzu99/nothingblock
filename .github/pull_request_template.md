@@ -1,14 +1,9 @@
-**add supported website**
+## add filter
 
 - [website name]
 - ...
 
-**add item to supported website**
+## update filter
 
 - [website name] ([added item])
-- ...
-
-**fix issue on supported website**
-
-- [website name] ([fixed item])
 - ...
