@@ -9,7 +9,7 @@ if you want to:
 - request feature
 - vote for feature request
 
-please create or check [issue](https://github.com/dorjmi/nothingblock/issues/new/choose) to make contribution.
+please create or check [issue](https://github.com/dorjmi/nothingblock/issues/new) to make contribution.
 
 if you want to chat with other user, please join our [telegram group](https://t.me/nothingblock).
 

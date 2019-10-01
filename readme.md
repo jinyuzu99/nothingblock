@@ -61,5 +61,5 @@ follow the [contribute document](document/contribute.md) to make contribution.
 
 ## support
 
-- create an [issue](https://github.com/dorjmi/nothingblock/issues/new/choose)
+- create an [issue](https://github.com/dorjmi/nothingblock/issues/new)
 - chat on [telegram group](https://t.me/nothingblock)
