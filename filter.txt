@@ -3,7 +3,7 @@
 ! homepage: https://github.com/dorjmi/nothingblock
 ! licence: https://github.com/dorjmi/nothingblock/blob/master/license.txt
 ! expires: 5 days
-! version: 2019.09.30
+! version: 2019.10.06
 acfun.cn###appguideBox
 acfun.cn##.creditCard
 acfun.cn##.log-dot.niudanIcon
@@ -168,9 +168,10 @@ bilibili.com##.plad
 bilibili.com##.hint-point-red
 t.bilibili.com##.back-top
 t.bilibili.com##.f-lefright-panel
+||s2.hdslb.com/bfs/static/blive/blfe-dynamic-web/static/img/background*$image
+||s2.hdslb.com/bfs/static/blive/blfe-message-web/static/img/infocenterbg.*$image
 live.bilibili.com##.shortcut-item:nth-of-type(3)
 live.bilibili.com##.flying-vm
-live.bilibili.com##.t-center.player-area-ctnr
 live.bilibili.com###app > div:nth-of-type(6)
 live.bilibili.com###app > div:nth-of-type(7)
 live.bilibili.com###app > div:nth-of-type(8)

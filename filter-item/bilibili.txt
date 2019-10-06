@@ -68,11 +68,13 @@
   ! feed
     t.bilibili.com##.back-top
     t.bilibili.com##.f-lefright-panel
+    ||s2.hdslb.com/bfs/static/blive/blfe-dynamic-web/static/img/background*$image
+  ! message
+    ||s2.hdslb.com/bfs/static/blive/blfe-message-web/static/img/infocenterbg.*$image
   ! live
     ! home
       live.bilibili.com##.shortcut-item:nth-of-type(3)
       live.bilibili.com##.flying-vm
-      live.bilibili.com##.t-center.player-area-ctnr
       live.bilibili.com###app > div:nth-of-type(6)
       live.bilibili.com###app > div:nth-of-type(7)
       live.bilibili.com###app > div:nth-of-type(8)
