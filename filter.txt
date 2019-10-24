@@ -3,7 +3,7 @@
 ! homepage: https://github.com/dorjmi/nothingblock
 ! licence: https://github.com/dorjmi/nothingblock/blob/master/license.txt
 ! expires: 5 days
-! version: 2019.10.06
+! version: 2019.10.24
 acfun.cn###appguideBox
 acfun.cn##.creditCard
 acfun.cn##.log-dot.niudanIcon
@@ -234,6 +234,11 @@ manhua.dmzj.com##.tcaricature_new:nth-of-type(12)
 manhua.dmzj.com##.share_self
 manhua.dmzj.com##.margin_top_10px.read_week:nth-of-type(4)
 manhua.dmzj.com##.margin_top_10px.read_week:nth-of-type(5)
+dropbox.com###maestro-prompt
+dropbox.com##.maestro-nav__products > li:nth-of-type(3)
+dropbox.com##.maestro-nav__products > li:nth-of-type(5)
+dropbox.com##.maestro-nav__product-superscript
+dropbox.com##.privacy-link
 duckduckgo.com##.showcase
 duckduckgo.com##.social
 duckduckgo.com##.tag-home

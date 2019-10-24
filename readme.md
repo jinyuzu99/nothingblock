@@ -32,6 +32,7 @@ if you want to add a specific filter list, you can copy the filter list below an
 | [bilibili (哔哩哔哩)](filter-item/bilibili.txt)             | 2019.10.6   |
 | [bing](filter-item/bing.txt)                                | 2019.3.18   |
 | [dmzj (动漫之家)](filter-item/dmzj.txt)                     | 2019.5.30   |
+| [dropbox](filter-item/dropbox.txt)                          | 2019.10.24   |
 | [duckduckgo](filter-item/duckduckgo.txt)                    | 2019.1.23   |
 | [google drive](filter-item/google-drive.txt)                | 2019.1.14   |
 | [google map](filter-item/google-map.txt)                    | 2019.1.23   |
