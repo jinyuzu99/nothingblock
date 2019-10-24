@@ -10,7 +10,7 @@ header="[adblock plus 3.0]
 rm filter.txt
 touch filter.txt
 
-echo  "$header" >> filter.txt
+echo "$header" >> filter.txt
 
 for item in filter-item/*
 do
