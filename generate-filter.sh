@@ -4,7 +4,7 @@ header="[adblock plus 3.0]
 ! title: nothingblock filter
 ! homepage: https://github.com/dorjmi/nothingblock
 ! licence: https://github.com/dorjmi/nothingblock/blob/master/license.txt
-! expires: 5 days
+! expires: 2 days
 ! version: $(date +%Y.%m.%d)"
 
 rm filter.txt
