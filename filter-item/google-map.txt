@@ -1,4 +1,4 @@
-! google map
+! home
   google.*###fineprint-terms
   google.*###fineprint-rap-link
   google.*##.link-like

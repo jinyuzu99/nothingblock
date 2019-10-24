@@ -1,4 +1,4 @@
-! spotify
+! home
   open.spotify.com##.spotify-logo--text
   open.spotify.com##._668f8eb097574762d66d361cc6d37850-scss
   open.spotify.com##.CreatePlaylistButton

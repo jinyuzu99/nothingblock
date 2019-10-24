@@ -1,18 +1,17 @@
-! google search
-  ! global
-    google.*##.gb_Tf
-    google.*##.gb_Of
-  ! home
-    google.*###hptl
-    google.*##.gb_Td
-    google.*###sbfblt
-    google.*##.VlcLAe
-    google.*###prm
-  ! result
-    google.*##.AUiS2
-    google.*###resultStats
-    google.*###bres
-    google.*##.kno-ftr
-    google.*###footcnt
-    google.*##.OJXvsb
-    
+! global
+  google.*##.gb_Tf
+  google.*##.gb_Of
+! home
+  google.*###hptl
+  google.*##.gb_Td
+  google.*###sbfblt
+  google.*##.VlcLAe
+  google.*###prm
+! result
+  google.*##.AUiS2
+  google.*###resultStats
+  google.*###bres
+  google.*##.kno-ftr
+  google.*###footcnt
+  google.*##.OJXvsb
+  

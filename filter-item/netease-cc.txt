@@ -1,4 +1,4 @@
-! netease cc
+! player
   cc.163.com##.side-nav-container
   cc.163.com##.header-match-rcm-imgswrap
   cc.163.com##.download-txt
