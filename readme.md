@@ -11,9 +11,9 @@ nothingblock blocks unnecessary element to have 'nothing more to take away'.
 
 ![nothingblock sample](asset/nothingblock-sample.jpg)
 
-## get start
+## start
 
-add the url below to your [ad blocker](https://bing.com/search?q=ad+blocker) to use all **nothingblock** filter.
+add the url below to your [ad blocker](https://bing.com/search?q=ad+blocker) to use all **nothingblock** filter. (dns blocker is not supported)
 
 `https://raw.githubusercontent.com/dorjmi/nothingblock/master/filter.txt`
 
