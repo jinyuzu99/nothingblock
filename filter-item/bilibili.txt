@@ -1,22 +1,18 @@
 ! home
   bilibili.com##.icon.go-top
   bilibili.com##.game.nav-item
-  bilibili.com##.manga.nav-item
+  bilibili.com##.buy.nav-item
   bilibili.com##.mobile.nav-item
   bilibili.com##.nav-gif.gif-menu
-  bilibili.com###fixed_app_download
-  bilibili.com##.elevator-module.report-wrap-module
-  bilibili.com##.fr > .nav-item:nth-of-type(2)
-  bilibili.com##.fr > li.nav-item:nth-of-type(6)
   bilibili.com##li.loc-menu.nav-item:nth-of-type(7)
   bilibili.com##li.loc-menu.nav-item:nth-of-type(8)
-  bilibili.com##.new-comers-module
-  bilibili.com##.bangumi-module > .r-con
+  bilibili.com##.nav-wrapper-right > .nav-con > .nav-con-ul > li.nav-item:nth-of-type(2)
+  bilibili.com##.nav-wrapper-right > .nav-con > .nav-con-ul > li.nav-item:nth-of-type(6)
+  bilibili.com##.nav-wrapper-right > .nav-con > .nav-con-ul > li.nav-item:nth-of-type(8)
   bilibili.com##.up-load
-  bilibili.com##.gg-floor-module
-  bilibili.com##.partner
-  bilibili.com##.num
-  ! section (add '!' to enable a section)
+  bilibili.com##.elevator-module
+  bilibili.com###fixed_app_download
+! section (add '!' to enable a section)
     bilibili.com###special_recommend
     bilibili.com###home_popularize
     bilibili.com###bili_douga
@@ -41,6 +37,27 @@
     bilibili.com###bili_teleplay
     bilibili.com###bili_article
     bilibili.com###bili_manga
+! home new
+  bilibili.com##li.nav-link-item:nth-of-type(2)
+  bilibili.com##li.nav-link-item:nth-of-type(4)
+  bilibili.com##li.nav-link-item:nth-of-type(6)
+  bilibili.com##li.nav-link-item:nth-of-type(9)
+  bilibili.com##li.nav-link-item:nth-of-type(10)
+  bilibili.com##li.nav-link-item:nth-of-type(11)
+  bilibili.com##.signin.user-con > div.item:nth-of-type(2)
+  bilibili.com##.signin.user-con > div.item:nth-of-type(7)
+  bilibili.com##.nav-user-center > div:nth-of-type(3)
+  bilibili.com##span > .van-popover__reference.item > .name > span > em
+  bilibili.com###elevator
+  bilibili.com##.try-feedback
+  bilibili.com##.mascot
+  ! section
+    bilibili.com##.b-wrap.first-screen
+    bilibili.com###bili_live
+    bilibili.com###bili_read
+    bilibili.com###bili_report_spe_rec
+    bilibili.com###bili_movie
+    bilibili.com##.banner-card
 ! search
   search.bilibili.com##.rocket-con
 ! player

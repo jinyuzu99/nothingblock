@@ -29,7 +29,7 @@ if you want to add a specific filter list, you can copy the filter list below an
 | [amazon.co.jp](filter-item/amazon.co.jp.txt)                | 2019.2.13   |
 | [amazon.com](filter-item/amazon.com.txt)                    | 2019.2.13   |
 | [baidu search (百度搜索)](filter-item/baidu-search.txt)     | 2019.6.20   |
-| [bilibili (哔哩哔哩)](filter-item/bilibili.txt)             | 2019.10.6   |
+| [bilibili (哔哩哔哩)](filter-item/bilibili.txt)             | 2019.10.28   |
 | [bing](filter-item/bing.txt)                                | 2019.3.18   |
 | [dmzj (动漫之家)](filter-item/dmzj.txt)                     | 2019.5.30   |
 | [dropbox](filter-item/dropbox.txt)                          | 2019.10.24  |
