@@ -11,8 +11,6 @@ if you want to:
 
 please create or check [issue](https://github.com/dorjmi/nothingblock/issues/new) to make contribution.
 
-if you want to chat with other user, please join our [telegram group](https://t.me/nothingblock).
-
 ## contribute to code
 
 if you want to contribute directly to the code base, please follow the step below.

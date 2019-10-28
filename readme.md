@@ -54,10 +54,6 @@ if you want to add a specific filter list, you can copy the filter list below an
 | [zhihu (知乎)](filter-item/zhihu.txt)                       | 2019.3.17   |
 | [more](document/more-website.md)                            | . . .       |
 
-## follow
-
-- [product hunt](https://www.producthunt.com/posts/nothingblock)
-
 ## contribute
 
 follow the [contribute document](document/contribute.md) to make contribution.
@@ -65,4 +61,4 @@ follow the [contribute document](document/contribute.md) to make contribution.
 ## support
 
 - create an [issue](https://github.com/dorjmi/nothingblock/issues/new)
-- chat on [telegram group](https://t.me/nothingblock)
+- vote on [product hunt](https://www.producthunt.com/posts/nothingblock)
