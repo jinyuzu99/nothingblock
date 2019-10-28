@@ -60,4 +60,4 @@ follow the [contribute document](document/contribute.md) to make contribution.
 
 ## support
 
-- create an [issue](https://github.com/dorjmi/nothingblock/issues/new)
+create an [issue](https://github.com/dorjmi/nothingblock/issues/new)
