@@ -47,6 +47,7 @@ if you want to add a specific filter list, you can copy the filter list below an
 | [netease music (网易云音乐)](filter-item/netease-music.txt) | 2019.2.10   |
 | [reddit](filter-item/reddit.txt)                            | 2019.10.28  |
 | [spotify](filter-item/spotify.txt)                          | 2019.9.30   |
+| [stackoverflow](filter-item/stackoverflow.txt)              | 2019.10.28  |
 | [taobao (淘宝)](filter-item/taobao.txt)                     | 2019.7.30   |
 | [wechat (微信)](filter-item/wechat.txt)                     | 2019.5.30   |
 | [weibo (微博)](filter-item/weibo.txt)                       | 2019.8.15   |
