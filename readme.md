@@ -61,4 +61,3 @@ follow the [contribute document](document/contribute.md) to make contribution.
 ## support
 
 - create an [issue](https://github.com/dorjmi/nothingblock/issues/new)
-- vote on [product hunt](https://www.producthunt.com/posts/nothingblock)
