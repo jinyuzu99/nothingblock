@@ -383,6 +383,7 @@ open.spotify.com##._668f8eb097574762d66d361cc6d37850-scss
 open.spotify.com##.CreatePlaylistButton
 open.spotify.com##.ConnectBar
 stackoverflow.com###mainbar > div.grid:nth-of-type(1)
+stackoverflow.com##.bounty-indicator-tab
 stackoverflow.com##.unanswered
 stackoverflow.com##.views
 stackoverflow.com##.answered
