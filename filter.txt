@@ -2,7 +2,7 @@
 ! title: nothingblock filter
 ! homepage: https://github.com/dorjmi/nothingblock
 ! licence: https://github.com/dorjmi/nothingblock/blob/master/license.txt
-! version: 2019.10.24
+! version: 2019.10.28
 ! expires: 2 days
 acfun.cn###appguideBox
 acfun.cn##.creditCard
@@ -369,6 +369,15 @@ music.163.com##.g-sd1
 music.163.com##.g-ft
 music.163.com##.n-bill
 music.163.com##.m-multi
+reddit.com##._1JBkpB_FOZMZ7IPr3FyNfH
+reddit.com##.x0hiXHicn7r3BG9m1FJH4
+reddit.com##._2dr_3pZUCk8KfJ-x0txT_l
+reddit.com##._2fCzxBE1dlMh4OFc7B3Dun
+reddit.com##._36-AorT6BJ2gKt8J8gGOU1
+reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
+reddit.com##.avKlJzxZU3brq4nAX0_i1
+reddit.com##._1oRQu-aolgpPPJDblUGTw5
+reddit.com##._2L5G9B5yaoqW3IegiYN-FL! home
 open.spotify.com##.spotify-logo--text
 open.spotify.com##._668f8eb097574762d66d361cc6d37850-scss
 open.spotify.com##.CreatePlaylistButton
