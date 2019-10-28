@@ -2,7 +2,7 @@
 ! title: nothingblock filter
 ! homepage: https://github.com/dorjmi/nothingblock
 ! licence: https://github.com/dorjmi/nothingblock/blob/master/license.txt
-! version: 2019.10.28
+! version: 2019.10.28.12.29
 ! expires: 2 days
 acfun.cn###appguideBox
 acfun.cn##.creditCard
