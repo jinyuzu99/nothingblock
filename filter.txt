@@ -2,7 +2,7 @@
 ! title: nothingblock filter
 ! homepage: https://github.com/dorjmi/nothingblock
 ! licence: https://github.com/dorjmi/nothingblock/blob/master/license.txt
-! version: 2019.10.28.123340
+! version: 2019.11.02.194552
 ! expires: 2 days
 acfun.cn###appguideBox
 acfun.cn##.creditCard
@@ -141,6 +141,7 @@ bilibili.com###bili_fashion
 bilibili.com###bili_teleplay
 bilibili.com###bili_article
 bilibili.com###bili_manga
+bilibili.com###matchModule
 bilibili.com##li.nav-link-item:nth-of-type(2)
 bilibili.com##li.nav-link-item:nth-of-type(4)
 bilibili.com##li.nav-link-item:nth-of-type(6)
@@ -413,6 +414,8 @@ stackoverflow.com##.aside-cta
 stackoverflow.com##.user-gravatar32
 stackoverflow.com##.-flair
 taobao.com##.qr
+taobao.com##.tbh-logo
+taobao.com##.tbh-qr
 taobao.com##.tbh-banner
 taobao.com##.follow-mobile
 taobao.com###J_Banner

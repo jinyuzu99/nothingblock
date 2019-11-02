@@ -1,5 +1,7 @@
 ! global
   taobao.com##.qr
+  taobao.com##.tbh-logo
+  taobao.com##.tbh-qr
   taobao.com##.tbh-banner
   taobao.com##.follow-mobile
   taobao.com###J_Banner

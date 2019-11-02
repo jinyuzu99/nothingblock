@@ -29,7 +29,7 @@ if you want to add a specific filter list, you can copy the filter list below an
 | [amazon.co.jp](filter-item/amazon.co.jp.txt)                | 2019.2.13   |
 | [amazon.com](filter-item/amazon.com.txt)                    | 2019.2.13   |
 | [baidu search (百度搜索)](filter-item/baidu-search.txt)     | 2019.6.20   |
-| [bilibili (哔哩哔哩)](filter-item/bilibili.txt)             | 2019.10.28   |
+| [bilibili (哔哩哔哩)](filter-item/bilibili.txt)             | 2019.11.2   |
 | [bing](filter-item/bing.txt)                                | 2019.3.18   |
 | [dmzj (动漫之家)](filter-item/dmzj.txt)                     | 2019.5.30   |
 | [dropbox](filter-item/dropbox.txt)                          | 2019.10.24  |
@@ -48,7 +48,7 @@ if you want to add a specific filter list, you can copy the filter list below an
 | [reddit](filter-item/reddit.txt)                            | 2019.10.28  |
 | [spotify](filter-item/spotify.txt)                          | 2019.9.30   |
 | [stackoverflow](filter-item/stackoverflow.txt)              | 2019.10.28  |
-| [taobao (淘宝)](filter-item/taobao.txt)                     | 2019.7.30   |
+| [taobao (淘宝)](filter-item/taobao.txt)                     | 2019.11.2   |
 | [wechat (微信)](filter-item/wechat.txt)                     | 2019.5.30   |
 | [weibo (微博)](filter-item/weibo.txt)                       | 2019.8.15   |
 | [zhihu (知乎)](filter-item/zhihu.txt)                       | 2019.3.17   |
