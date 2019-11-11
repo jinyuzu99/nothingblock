@@ -2,7 +2,7 @@
 ! title: nothingblock filter
 ! homepage: https://github.com/dorjmi/nothingblock
 ! licence: https://github.com/dorjmi/nothingblock/blob/master/license.txt
-! version: 2019.11.02.194552
+! version: 2019.11.11.104526
 ! expires: 2 days
 acfun.cn###appguideBox
 acfun.cn##.creditCard
@@ -261,7 +261,7 @@ duckduckgo.com##.tag-home
 duckduckgo.com##.onboarding-ed
 duckduckgo.com###powered_by
 duckduckgo.com##.footer
-drive.google.com##.USrqEe-ml-Pr-qc-j
+drive.google.com##.ub-ml-Pr.USrqEe-ml-Pr-qc-j
 google.*###fineprint-terms
 google.*###fineprint-rap-link
 google.*##.link-like

@@ -34,7 +34,7 @@ if you want to add a specific filter list, you can copy the filter list below an
 | [dmzj (动漫之家)](filter-item/dmzj.txt)                     | 2019.5.30   |
 | [dropbox](filter-item/dropbox.txt)                          | 2019.10.24  |
 | [duckduckgo](filter-item/duckduckgo.txt)                    | 2019.1.23   |
-| [google drive](filter-item/google-drive.txt)                | 2019.1.14   |
+| [google drive](filter-item/google-drive.txt)                | 2019.11.11   |
 | [google map](filter-item/google-map.txt)                    | 2019.1.23   |
 | [google photo](filter-item/google-photo.txt)                | 2019.1.23   |
 | [google search](filter-item/google-search.txt)              | 2019.6.20   |
