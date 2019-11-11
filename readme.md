@@ -39,7 +39,7 @@ if you want to add a specific filter list, you can copy the filter list below an
 | [google photo](filter-item/google-photo.txt)                | 2019.1.23   |
 | [google search](filter-item/google-search.txt)              | 2019.6.20   |
 | [icourse 163 (中国大学 mooc)](filter-item/icourse163.txt)   | 2019.8.22   |
-| [inoreader](filter-item/inoreader.txt)                      | 2019.1.14   |
+| [inoreader](filter-item/inoreader.txt)                      | 2019.11.11   |
 | [it home (it 之家)](filter-item/it-home.txt)                | 2019.3.22   |
 | [jd (京东)](filter-item/jd.txt)                             | 2019.9.21   |
 | [microsoft office](filter-item/microsoft-office.txt)        | 2019.3.16   |
