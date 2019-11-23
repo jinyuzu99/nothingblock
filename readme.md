@@ -7,17 +7,17 @@
 
 > you know you have achieved perfection in design, not when you have nothing more to add, but when you have nothing more to take away.  -- antoine de saint exupery
 
-nothingblock blocks unnecessary element to have 'nothing more to take away'.
+**nothingblock** block unnecessary web element to have 'nothing more to take away'.
 
 ![nothingblock sample](asset/nothingblock-sample.jpg)
 
 ## start
 
-add the url below to your [ad blocker](https://bing.com/search?q=ad+blocker) to use all **nothingblock** filter. (dns blocker is not supported)
+add the url below to your [ad blocker](https://bing.com/search?q=ad+blocker) to use **all filter**. (dns blocker is not supported)
 
 `https://raw.githubusercontent.com/dorjmi/nothingblock/master/filter.txt`
 
-if you want to add specific filter list, you can copy the filter list below and paste it to your ad blocker filter.
+to add **specific filter**, please copy the filter below and paste to your ad blocker.
 
 ### support website
 
@@ -57,4 +57,4 @@ follow [contribute document](document/contribute.md) to make contribution.
 
 ## support
 
-to apply for new website, report problem, or ask for new feature. please [create issue](https://github.com/dorjmi/nothingblock/issues/new), 
+to apply for new website, report problem, or ask for new feature, please [create a issue](https://github.com/dorjmi/nothingblock/issues/new).
