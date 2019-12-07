@@ -12,6 +12,7 @@
   bilibili.com##.up-load
   bilibili.com##.elevator-module
   bilibili.com###fixed_app_download
+  bilibili.com##.head-logo
 ! section (add '!' to enable a section)
     bilibili.com###special_recommend
     bilibili.com###home_popularize

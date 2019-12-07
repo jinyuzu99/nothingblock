@@ -2,7 +2,7 @@
 ! title: nothingblock filter
 ! homepage: https://github.com/dorjmi/nothingblock
 ! licence: https://github.com/dorjmi/nothingblock/blob/master/license.txt
-! version: 2019.12.07.220130
+! version: 2019.12.07.222330
 ! expires: 2 days
 acfun.cn###appguideBox
 acfun.cn##.creditCard
@@ -118,6 +118,7 @@ bilibili.com##.nav-wrapper-right > .nav-con > .nav-con-ul > li.nav-item:nth-of-t
 bilibili.com##.up-load
 bilibili.com##.elevator-module
 bilibili.com###fixed_app_download
+bilibili.com##.head-logo
 bilibili.com###special_recommend
 bilibili.com###home_popularize
 bilibili.com###bili_douga
