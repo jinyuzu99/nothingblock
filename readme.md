@@ -21,35 +21,7 @@ to add **specific filter**, please copy the filter below and paste to your ad bl
 
 ### support website
 
-- [acfun](filter-item/acfun.txt)
-- [amap (高德地图)](filter-item/amap.txt)
-- [amazon.cn (亚马逊中国)](filter-item/amazon.cn.txt)
-- [amazon.co.jp](filter-item/amazon.co.jp.txt)
-- [amazon.com](filter-item/amazon.com.txt)
-- [baidu search (百度搜索)](filter-item/baidu-search.txt)
-- [bilibili (哔哩哔哩)](filter-item/bilibili.txt)
-- [bing](filter-item/bing.txt)
-- [dmzj (动漫之家)](filter-item/dmzj.txt)
-- [dropbox](filter-item/dropbox.txt)
-- [duckduckgo](filter-item/duckduckgo.txt)
-- [google drive](filter-item/google-drive.txt)
-- [google map](filter-item/google-map.txt)
-- [google photo](filter-item/google-photo.txt)
-- [google search](filter-item/google-search.txt)
-- [icourse 163 (中国大学 mooc)](filter-item/icourse163.txt)
-- [inoreader](filter-item/inoreader.txt)
-- [it home (it 之家)](filter-item/it-home.txt)
-- [jd (京东)](filter-item/jd.txt)
-- [microsoft office](filter-item/microsoft-office.txt)
-- [netease cc (网易 cc)](filter-item/netease-cc.txt)
-- [netease music (网易云音乐)](filter-item/netease-music.txt)
-- [reddit](filter-item/reddit.txt)
-- [spotify](filter-item/spotify.txt)
-- [stackoverflow](filter-item/stackoverflow.txt)
-- [taobao (淘宝)](filter-item/taobao.txt)
-- [wechat (微信)](filter-item/wechat.txt)
-- [weibo (微博)](filter-item/weibo.txt)
-- [zhihu (知乎)](filter-item/zhihu.txt)
+to check all support website, please check [filter-item](/filter-item) folder.
 
 ## contribute
 
