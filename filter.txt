@@ -2,7 +2,7 @@
 ! title: nothingblock filter
 ! homepage: https://github.com/dorjmi/nothingblock
 ! licence: https://github.com/dorjmi/nothingblock/blob/master/license.txt
-! version: 2019.12.07.222330
+! version: 2020.01.04.174228
 ! expires: 2 days
 acfun.cn###appguideBox
 acfun.cn##.creditCard
@@ -312,6 +312,7 @@ icourse163.org###j-sidebar
 icourse163.org##[href="//icourse163.org/topics/topmszl/"]
 icourse163.org##.f-fr.u-ui-box
 icourse163.org##.u-st-plan.fr.item
+inoreader.com##.top_notification
 inoreader.com###sb_rp_upgrade
 inoreader.com###below_tree
 inoreader.com##.ad_title

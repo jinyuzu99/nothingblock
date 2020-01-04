@@ -1,4 +1,5 @@
 ! home
+  inoreader.com##.top_notification
   inoreader.com###sb_rp_upgrade
   inoreader.com###below_tree
   inoreader.com##.ad_title
