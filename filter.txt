@@ -2,7 +2,7 @@
 ! title: nothingblock filter
 ! homepage: https://github.com/dorjmi/nothingblock
 ! licence: https://github.com/dorjmi/nothingblock/blob/master/license.txt
-! version: 2020.01.04.174228
+! version: 2020.03.03.100656
 ! expires: 2 days
 acfun.cn###appguideBox
 acfun.cn##.creditCard
@@ -262,6 +262,8 @@ duckduckgo.com##.tag-home
 duckduckgo.com##.onboarding-ed
 duckduckgo.com###powered_by
 duckduckgo.com##.footer
+feedly.com###topHeaderBarFX
+feedly.com##.plan! home
 drive.google.com##.ub-ml-Pr.USrqEe-ml-Pr-qc-j
 google.*###fineprint-terms
 google.*###fineprint-rap-link
@@ -317,6 +319,8 @@ inoreader.com###sb_rp_upgrade
 inoreader.com###below_tree
 inoreader.com##.ad_title
 inoreader.com###sinner_container
+inoreader.com##.profile_menu_plan_badge
+instapaper.com###right_column
 ithome.com###rm_app
 ithome.com###tt50
 ithome.com###side_func
@@ -389,6 +393,9 @@ music.163.com##.g-sd1
 music.163.com##.g-ft
 music.163.com##.n-bill
 music.163.com##.m-multi
+getpocket.com##.css-2olnzk
+getpocket.com##.css-3ceer
+getpocket.com##.css-heoahc
 reddit.com##._1JBkpB_FOZMZ7IPr3FyNfH
 reddit.com##.x0hiXHicn7r3BG9m1FJH4
 reddit.com##._2dr_3pZUCk8KfJ-x0txT_l

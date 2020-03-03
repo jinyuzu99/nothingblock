@@ -1,0 +1,3 @@
+! feedly
+  feedly.com###topHeaderBarFX
+  feedly.com##.plan
