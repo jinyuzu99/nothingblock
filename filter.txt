@@ -2,7 +2,7 @@
 ! title: nothingblock filter
 ! homepage: https://github.com/dorjmi/nothingblock
 ! licence: https://github.com/dorjmi/nothingblock/blob/master/license.txt
-! version: 2020.03.03.100656
+! version: 2020.03.06.113311
 ! expires: 2 days
 acfun.cn###appguideBox
 acfun.cn##.creditCard
@@ -396,6 +396,26 @@ music.163.com##.m-multi
 getpocket.com##.css-2olnzk
 getpocket.com##.css-3ceer
 getpocket.com##.css-heoahc
+pornhub.com###hd-rightColVideoPage
+pornhub.com##.headerBtnsWrapper
+pornhub.com###welcome
+pornhub.com###menuItem1
+pornhub.com###btnSearch
+pornhub.com##.networkListContent > .alpha
+pornhub.com##.videoUploaderBlock
+pornhub.com##.hd-thumbnail
+pornhub.com##.main-sprite
+pornhub.com##.greenBar
+pornhub.com##.flagIcon
+pornhub.com##.verified-icon
+pornhub.com##.verified
+pornhub.com##.isMe
+pornhub.com##.vote-thumbs-up
+pornhub.com##.vote-thumbs-down
+pornhub.com##.votesUp
+pornhub.com##.votesDown
+pornhub.com##.orangeBar
+pornhub.com###btnSearch
 reddit.com##._1JBkpB_FOZMZ7IPr3FyNfH
 reddit.com##.x0hiXHicn7r3BG9m1FJH4
 reddit.com##._2dr_3pZUCk8KfJ-x0txT_l

@@ -1,0 +1,23 @@
+! pornhub
+  ! top
+    pornhub.com###hd-rightColVideoPage
+    pornhub.com##.headerBtnsWrapper
+    pornhub.com###welcome
+    pornhub.com###menuItem1
+    pornhub.com###btnSearch
+    pornhub.com##.networkListContent > .alpha
+    pornhub.com##.videoUploaderBlock
+  ! video
+    pornhub.com##.hd-thumbnail
+    pornhub.com##.main-sprite
+    pornhub.com##.greenBar
+    pornhub.com##.flagIcon
+    pornhub.com##.verified-icon
+    pornhub.com##.verified
+    pornhub.com##.isMe
+    pornhub.com##.vote-thumbs-up
+    pornhub.com##.vote-thumbs-down
+    pornhub.com##.votesUp
+    pornhub.com##.votesDown
+    pornhub.com##.orangeBar
+    pornhub.com###btnSearch
