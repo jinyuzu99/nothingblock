@@ -1,5 +1,7 @@
 ! home
   acfun.cn###appguideBox
+  acfun.cn##.app-guide
+  acfun.cn##.download-app
   acfun.cn##.creditCard
   acfun.cn##.log-dot.niudanIcon
   acfun.cn##.log-dot.gameIcon

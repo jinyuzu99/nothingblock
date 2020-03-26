@@ -1,0 +1,4 @@
+! player
+  youtube.com##.ytd-badge-supported-renderer
+  youtube.com###metadata-line > .ytd-video-meta-block
+  youtube.com##yt-formatted-string.ytd-thumbnail-overlay-side-panel-renderer
