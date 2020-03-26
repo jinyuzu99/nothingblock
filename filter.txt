@@ -2,7 +2,7 @@
 ! title: nothingblock filter
 ! homepage: https://github.com/dorjmi/nothingblock
 ! licence: https://github.com/dorjmi/nothingblock/blob/master/license.txt
-! version: 2020.03.26.181622
+! version: 2020.03.26.182931
 ! expires: 2 days
 acfun.cn###appguideBox
 acfun.cn##.app-guide
@@ -516,7 +516,6 @@ weibo.com##.S_line1.line > span > em:nth-of-type(2)
 weibo.com##.S_line1.line > .S_txt2 > span > em:nth-of-type(2)
 weibo.com##.footer_link 
 youtube.com##.ytd-badge-supported-renderer
-youtube.com###metadata-line > .ytd-video-meta-block
 youtube.com##yt-formatted-string.ytd-thumbnail-overlay-side-panel-renderer
 zhihu.com##.Footer
 zhihu.com##.CornerButtons
