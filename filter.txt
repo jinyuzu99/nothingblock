@@ -1,9 +1,9 @@
-[adblock plus 3.0]
-! title: nothingblock filter
-! homepage: https://github.com/dorjmi/nothingblock
-! licence: https://github.com/dorjmi/nothingblock/blob/master/license.txt
-! version: 2020.03.26.182931
-! expires: 2 days
+[Adblock Plus 3.0]
+! Title: nothingblock filter
+! Description: block unnecessary web element to have 'nothing more to take away'.
+! Homepage: https://github.com/dorjmi/nothingblock
+! Version: 2020.08.23.131837
+! Expires: 2 days
 acfun.cn###appguideBox
 acfun.cn##.app-guide
 acfun.cn##.download-app

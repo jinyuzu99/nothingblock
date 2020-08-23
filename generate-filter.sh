@@ -1,11 +1,11 @@
-# this script will combine all filters into filter.txt.
+# combine all filter-item into filter.txt.
 
-header="[adblock plus 3.0]
-! title: nothingblock filter
-! homepage: https://github.com/dorjmi/nothingblock
-! licence: https://github.com/dorjmi/nothingblock/blob/master/license.txt
-! version: $(date +%Y.%m.%d.%H%M%S)
-! expires: 2 days"
+header="[Adblock Plus 3.0]
+! Title: nothingblock filter
+! Description: block unnecessary web element to have 'nothing more to take away'.
+! Homepage: https://github.com/dorjmi/nothingblock
+! Version: $(date +%Y.%m.%d.%H%M%S)
+! Expires: 2 days"
 
 rm filter.txt
 touch filter.txt
