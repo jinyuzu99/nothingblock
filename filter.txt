@@ -514,7 +514,7 @@ weibo.com##.icon_member7
 weibo.com##.icon_approve_gold
 weibo.com##.S_line1.line > span > em:nth-of-type(2)
 weibo.com##.S_line1.line > .S_txt2 > span > em:nth-of-type(2)
-weibo.com##.footer_link 
+weibo.com##.footer_link
 youtube.com##.ytd-badge-supported-renderer
 youtube.com##yt-formatted-string.ytd-thumbnail-overlay-side-panel-renderer
 zhihu.com##.Footer

@@ -22,4 +22,4 @@
   weibo.com##.icon_approve_gold
   weibo.com##.S_line1.line > span > em:nth-of-type(2)
   weibo.com##.S_line1.line > .S_txt2 > span > em:nth-of-type(2)
-  weibo.com##.footer_link 
+  weibo.com##.footer_link
