@@ -3,7 +3,6 @@
   google.*##.gb_Of
 ! home
   google.*###hptl
-  google.*##.gb_Td
   google.*###sbfblt
   google.*##.VlcLAe
   google.*###prm
@@ -14,4 +13,3 @@
   google.*##.kno-ftr
   google.*###footcnt
   google.*##.OJXvsb
-  
