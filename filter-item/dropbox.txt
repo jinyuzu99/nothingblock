@@ -1,6 +1,6 @@
 ! home
-  dropbox.com###maestro-prompt
-  dropbox.com##.maestro-nav__products > li:nth-of-type(3)
-  dropbox.com##.maestro-nav__products > li:nth-of-type(5)
-  dropbox.com##.maestro-nav__product-superscript
-  dropbox.com##.privacy-link
+	dropbox.com###maestro-prompt
+	dropbox.com##.maestro-nav__products > li:nth-of-type(3)
+	dropbox.com##.maestro-nav__products > li:nth-of-type(5)
+	dropbox.com##.maestro-nav__product-superscript
+	dropbox.com##.privacy-link

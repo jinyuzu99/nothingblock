@@ -1,7 +1,7 @@
 ! home
-  inoreader.com##.top_notification
-  inoreader.com###sb_rp_upgrade
-  inoreader.com###below_tree
-  inoreader.com##.ad_title
-  inoreader.com###sinner_container
-  inoreader.com##.profile_menu_plan_badge
+	inoreader.com##.top_notification
+	inoreader.com###sb_rp_upgrade
+	inoreader.com###below_tree
+	inoreader.com##.ad_title
+	inoreader.com###sinner_container
+	inoreader.com##.profile_menu_plan_badge

@@ -1,81 +1,81 @@
 ! home
-  bilibili.com##li.nav-link-item:nth-of-type(2)
-  bilibili.com##li.nav-link-item:nth-of-type(4)
-  bilibili.com##li.nav-link-item:nth-of-type(6)
-  bilibili.com##li.nav-link-item:nth-of-type(8)
-  bilibili.com##li.nav-link-item:nth-of-type(9)
-  bilibili.com##li.nav-link-item:nth-of-type(10)
-  bilibili.com##li.nav-link-item:nth-of-type(11)
-  bilibili.com##.signin.user-con > div.item:nth-of-type(2)
-  bilibili.com##.signin.user-con > div.item:nth-of-type(7)
-  bilibili.com##.nav-user-center > div:nth-of-type(3)
-  bilibili.com###elevator
-  bilibili.com##.try-feedback
-  bilibili.com##.mascot
-  bilibili.com##.contact-help
-  bilibili.com##.proxy-box
-  bilibili.com##.bili-icon_xinxi_UPzhu
+	bilibili.com##li.nav-link-item:nth-of-type(2)
+	bilibili.com##li.nav-link-item:nth-of-type(4)
+	bilibili.com##li.nav-link-item:nth-of-type(6)
+	bilibili.com##li.nav-link-item:nth-of-type(8)
+	bilibili.com##li.nav-link-item:nth-of-type(9)
+	bilibili.com##li.nav-link-item:nth-of-type(10)
+	bilibili.com##li.nav-link-item:nth-of-type(11)
+	bilibili.com##.signin.user-con > div.item:nth-of-type(2)
+	bilibili.com##.signin.user-con > div.item:nth-of-type(7)
+	bilibili.com##.nav-user-center > div:nth-of-type(3)
+	bilibili.com###elevator
+	bilibili.com##.try-feedback
+	bilibili.com##.mascot
+	bilibili.com##.contact-help
+	bilibili.com##.proxy-box
+	bilibili.com##.bili-icon_xinxi_UPzhu
 ! search
-  search.bilibili.com##.rocket-con
+	search.bilibili.com##.rocket-con
 ! player
-  bilibili.com###live_recommand_report
-  bilibili.com##.bilibili-player-video-message
-  bilibili.com##.header-pay-banner
-  bilibili.com##.pendant
-  bilibili.com##.reply-notice
-  bilibili.com##.true-love
-  bilibili.com##.nameplate
-  bilibili.com##.hot-follow
-  bilibili.com##.level
-  bilibili.com##.p-auth.auth
-  bilibili.com##.legalize
-  bilibili.com##.float-nav
-  bilibili.com##.nav-goto-top
-  bilibili.com##.backup
-  bilibili.com###entryOld
-  bilibili.com##.entry-old
-  bilibili.com##.help
-  bilibili.com###activity_vote
-  bilibili.com##.plad
-  bilibili.com##.hint-point-red
+	bilibili.com###live_recommand_report
+	bilibili.com##.bilibili-player-video-message
+	bilibili.com##.header-pay-banner
+	bilibili.com##.pendant
+	bilibili.com##.reply-notice
+	bilibili.com##.true-love
+	bilibili.com##.nameplate
+	bilibili.com##.hot-follow
+	bilibili.com##.level
+	bilibili.com##.p-auth.auth
+	bilibili.com##.legalize
+	bilibili.com##.float-nav
+	bilibili.com##.nav-goto-top
+	bilibili.com##.backup
+	bilibili.com###entryOld
+	bilibili.com##.entry-old
+	bilibili.com##.help
+	bilibili.com###activity_vote
+	bilibili.com##.plad
+	bilibili.com##.hint-point-red
 ! feed
-  t.bilibili.com##.back-top
-  t.bilibili.com##.f-lefright-panel
-  ||s2.hdslb.com/bfs/static/blive/blfe-dynamic-web/static/img/background*$image
+	t.bilibili.com##.back-top
+	t.bilibili.com##.f-lefright-panel
+	||s2.hdslb.com/bfs/static/blive/blfe-dynamic-web/static/img/background*$image
 ! message
-  ||s2.hdslb.com/bfs/static/blive/blfe-message-web/static/img/infocenterbg.*$image
+	||s2.hdslb.com/bfs/static/blive/blfe-message-web/static/img/infocenterbg.*$image
 ! live
-  ! home
-    live.bilibili.com##.shortcut-item:nth-of-type(3)
-    live.bilibili.com##.flying-vm
-    live.bilibili.com###app > div:nth-of-type(6)
-    live.bilibili.com###app > div:nth-of-type(7)
-    live.bilibili.com###app > div:nth-of-type(8)
-    live.bilibili.com###app > div:nth-of-type(9)
-    live.bilibili.com###app > div:nth-of-type(10)
-    live.bilibili.com###app > div:nth-of-type(11)
-    live.bilibili.com###app > div:nth-of-type(12)
-    live.bilibili.com###app > div:nth-of-type(13)
-    live.bilibili.com###app > div:nth-of-type(14)
-    live.bilibili.com###app > div:nth-of-type(15)
-    live.bilibili.com###app > div:nth-of-type(16)
-  ! player
-    live.bilibili.com##.hour-rank
-    live.bilibili.com##.room-bg
-    live.bilibili.com##.side-bar-cntr
-    live.bilibili.com##.activity-pushing-out
-    live.bilibili.com###my-dear-haruna-vm
-    live.bilibili.com##.announcement-wrapper
-    live.bilibili.com##.fans-medal-item-ctnr
-    live.bilibili.com##.user-level-icon
-    live.bilibili.com##.title-label
-    live.bilibili.com##.guard-icon
-    live.bilibili.com##.system-msg
-    live.bilibili.com##.vip-icon
-    live.bilibili.com###chat-draw-area-vm
-    live.bilibili.com##.week-star-rank
+	! home
+		live.bilibili.com##.shortcut-item:nth-of-type(3)
+		live.bilibili.com##.flying-vm
+		live.bilibili.com###app > div:nth-of-type(6)
+		live.bilibili.com###app > div:nth-of-type(7)
+		live.bilibili.com###app > div:nth-of-type(8)
+		live.bilibili.com###app > div:nth-of-type(9)
+		live.bilibili.com###app > div:nth-of-type(10)
+		live.bilibili.com###app > div:nth-of-type(11)
+		live.bilibili.com###app > div:nth-of-type(12)
+		live.bilibili.com###app > div:nth-of-type(13)
+		live.bilibili.com###app > div:nth-of-type(14)
+		live.bilibili.com###app > div:nth-of-type(15)
+		live.bilibili.com###app > div:nth-of-type(16)
+	! player
+		live.bilibili.com##.hour-rank
+		live.bilibili.com##.room-bg
+		live.bilibili.com##.side-bar-cntr
+		live.bilibili.com##.activity-pushing-out
+		live.bilibili.com###my-dear-haruna-vm
+		live.bilibili.com##.announcement-wrapper
+		live.bilibili.com##.fans-medal-item-ctnr
+		live.bilibili.com##.user-level-icon
+		live.bilibili.com##.title-label
+		live.bilibili.com##.guard-icon
+		live.bilibili.com##.system-msg
+		live.bilibili.com##.vip-icon
+		live.bilibili.com###chat-draw-area-vm
+		live.bilibili.com##.week-star-rank
 ! read
-  bilibili.com##.on.right-side-bar
-  bilibili.com##.up-article-list-block
+	bilibili.com##.on.right-side-bar
+	bilibili.com##.up-article-list-block
 ! space
-  space.bilibili.com##.to-top
+	space.bilibili.com##.to-top

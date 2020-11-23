@@ -1,2 +1,2 @@
 ! instapaper
-  instapaper.com###right_column
+	instapaper.com###right_column

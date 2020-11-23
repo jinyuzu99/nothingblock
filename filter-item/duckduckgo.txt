@@ -1,8 +1,8 @@
 ! home
-  duckduckgo.com##.showcase
-  duckduckgo.com##.social
-  duckduckgo.com##.tag-home
-  duckduckgo.com##.onboarding-ed
+	duckduckgo.com##.showcase
+	duckduckgo.com##.social
+	duckduckgo.com##.tag-home
+	duckduckgo.com##.onboarding-ed
 ! result
-  duckduckgo.com###powered_by
-  duckduckgo.com##.footer
+	duckduckgo.com###powered_by
+	duckduckgo.com##.footer

@@ -1,4 +1,4 @@
 ! pocket
-  getpocket.com##.css-2olnzk
-  getpocket.com##.css-3ceer
-  getpocket.com##.css-heoahc
+	getpocket.com##.css-2olnzk
+	getpocket.com##.css-3ceer
+	getpocket.com##.css-heoahc

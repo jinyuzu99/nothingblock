@@ -1,18 +1,18 @@
 ! home
-  stackoverflow.com###mainbar > div.grid:nth-of-type(1)
-  stackoverflow.com##.bounty-indicator-tab
-  stackoverflow.com##.unanswered
-  stackoverflow.com##.views
-  stackoverflow.com##.answered
-  stackoverflow.com##.answered-accepted
-  stackoverflow.com##.sponsor-tag-img
-  stackoverflow.com##.started
+	stackoverflow.com###mainbar > div.grid:nth-of-type(1)
+	stackoverflow.com##.bounty-indicator-tab
+	stackoverflow.com##.unanswered
+	stackoverflow.com##.views
+	stackoverflow.com##.answered
+	stackoverflow.com##.answered-accepted
+	stackoverflow.com##.sponsor-tag-img
+	stackoverflow.com##.started
 ! right
-  stackoverflow.com##.s-sidebarwidget__yellow
-  stackoverflow.com##.answer-votes
-  stackoverflow.com###newsletter-ad
-  stackoverflow.com###hot-network-questions
+	stackoverflow.com##.s-sidebarwidget__yellow
+	stackoverflow.com##.answer-votes
+	stackoverflow.com###newsletter-ad
+	stackoverflow.com###hot-network-questions
 ! questions
-  stackoverflow.com##.aside-cta
-  stackoverflow.com##.user-gravatar32
-  stackoverflow.com##.-flair
+	stackoverflow.com##.aside-cta
+	stackoverflow.com##.user-gravatar32
+	stackoverflow.com##.-flair

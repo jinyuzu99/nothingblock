@@ -1,11 +1,11 @@
 <h1>
-  <sub>
-    <img src='asset/nothongblock-logo.png' alt='nothongblock logo' height='40' width='40'>
-  </sub>
-  nothingblock
+	<sub>
+		<img src='asset/nothongblock-logo.png' alt='nothongblock logo' height='40' width='40'>
+	</sub>
+	nothingblock
 </h1>
 
-> you know you have achieved perfection in design, not when you have nothing more to add, but when you have nothing more to take away.  -- antoine de saint exupery
+> you know you have achieved perfection in design, not when you have nothing more to add, but when you have nothing more to take away. -- antoine de saint exupery
 
 **nothingblock** block unnecessary web element to have 'nothing more to take away'.
 

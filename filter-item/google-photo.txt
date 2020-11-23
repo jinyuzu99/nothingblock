@@ -1,5 +1,5 @@
 ! home
-  photos.google.com##.NmWShc
-  photos.google.com##.Jf3Kxd
-  photos.google.com##.E9F9ef
-  photos.google.com##.DNAsC:nth-of-type(5)
+	photos.google.com##.NmWShc
+	photos.google.com##.Jf3Kxd
+	photos.google.com##.E9F9ef
+	photos.google.com##.DNAsC:nth-of-type(5)

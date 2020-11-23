@@ -26,6 +26,7 @@ if you want to contribute directly to the code base, please follow the step belo
 - web browser
 
 - ad blocker
+
   - [ublock original](https://github.com/gorhill/ublock)
   - [adblock plus](https://adblockplus.org)
   - [more...](https://bing.com/search?q=ad+blocker)
@@ -48,17 +49,17 @@ setup with **ublock original** + **visual studio code**, other are similar.
 8. paste the text to `[website name with lowercase and hyphen: sample-website].txt`.
 9. edit the file in the format below:
 
-  ```adp
-  ! [website name]
-    ! [website section 1]
-      [filter 1]
-      [filter 2]
-      ...
-    ! [website section 2]
-      [filter 3]
-      [filter 4]
-      ...
-  ```
+   ```adp
+   ! [website name]
+   	! [website section 1]
+   		[filter 1]
+   		[filter 2]
+   		...
+   	! [website section 2]
+   		[filter 3]
+   		[filter 4]
+   		...
+   ```
 
 ### pull request
 
