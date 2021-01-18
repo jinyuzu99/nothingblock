@@ -15,9 +15,7 @@
 
 add the url below to your [ad blocker](https://bing.com/search?q=ad+blocker) to use **all filter**. (dns blocker is not supported)
 
-[https://raw.githubusercontent.com/sayomelu/nothingblock/main/filter.txt](https://raw.githubusercontent.com/sayomelu/nothingblock/main/filter.txt)
-
-[https://cdn.jsdelivr.net/gh/sayomelu/nothingblock/main/filter.txt](https://cdn.jsdelivr.net/gh/sayomelu/nothingblock/main/filter.txt) (faster in some region)
+`https://cdn.jsdelivr.net/gh/sayomelu/nothingblock/filter.txt` or from [github](https://raw.githubusercontent.com/sayomelu/nothingblock/main/filter.txt)
 
 to add **specific filter**, please copy the filter below and paste to your ad blocker.
 
