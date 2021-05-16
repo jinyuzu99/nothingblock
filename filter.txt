@@ -2,7 +2,7 @@
 ! Title: nothingblock filter
 ! Description: block unnecessary web element to have 'nothing more to take away'.
 ! Homepage: https://github.com/dorjmi/nothingblock
-! Version: 2020.11.22.140458
+! Version: 2021.05.16.114029
 ! Expires: 2 days
 acfun.cn###appguideBox
 acfun.cn##.app-guide
@@ -224,7 +224,7 @@ duckduckgo.com##.onboarding-ed
 duckduckgo.com###powered_by
 duckduckgo.com##.footer
 feedly.com###topHeaderBarFX
-feedly.com##.plan! home
+feedly.com##.plan
 drive.google.com##.ub-ml-Pr.USrqEe-ml-Pr-qc-j
 google.*###fineprint-terms
 google.*###fineprint-rap-link
@@ -392,8 +392,7 @@ reddit.com##._36-AorT6BJ2gKt8J8gGOU1
 reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
 reddit.com##.avKlJzxZU3brq4nAX0_i1
 reddit.com##._1oRQu-aolgpPPJDblUGTw5
-reddit.com##._2L5G9B5yaoqW3IegiYN-FL! home
-web.skype.com##.noFocusOutline > div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(2)
+reddit.com##._2L5G9B5yaoqW3IegiYN-FL
 open.spotify.com##.spotify-logo--text
 open.spotify.com##._668f8eb097574762d66d361cc6d37850-scss
 open.spotify.com##.CreatePlaylistButton
