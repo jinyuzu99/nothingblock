@@ -1,3 +1,4 @@
+#!/bin/sh
 # combine all filter-item into filter.txt.
 
 header="[Adblock Plus 3.0]
