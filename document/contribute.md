@@ -17,7 +17,9 @@ if you want to contribute directly to the code base, please follow the step belo
 
 ### get the source
 
-`git clone https://github.com/sayomelu/nothingblock`
+```
+git clone https://github.com/sayomelu/nothingblock
+```
 
 ### prerequisite
 

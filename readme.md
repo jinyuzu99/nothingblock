@@ -25,10 +25,9 @@ to add **specific filter**, copy the filter below and paste to your ad blocker.
 
 to check all support website, please check [filter-item](filter-item) folder.
 
+to apply for new website, report problem, or ask for new feature, please check [issue](../../issues).
+
+
 ## contribute
 
 follow [contribute document](document/contribute.md) to make contribution.
-
-## support
-
-to apply for new website, report problem, or ask for new feature, please check [issue](issues).
