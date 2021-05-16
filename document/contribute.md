@@ -9,7 +9,7 @@ if you want to:
 - request feature
 - vote for feature request
 
-please create or check [issue](https://github.com/dorjmi/nothingblock/issues/new) to make contribution.
+please create or check issue to make contribution.
 
 ## contribute to code
 
@@ -17,23 +17,17 @@ if you want to contribute directly to the code base, please follow the step belo
 
 ### get the source
 
-`git clone https://github.com/dorjmi/nothingblock.git`
+`git clone https://github.com/sayomelu/nothingblock`
 
 ### prerequisite
 
-- [git](https://git-scm.com/)
-
+- git
 - web browser
-
-- ad blocker
-
-  - [ublock original](https://github.com/gorhill/ublock)
-  - [adblock plus](https://adblockplus.org)
-  - [more...](https://bing.com/search?q=ad+blocker)
-
+- blocker
+  - ublock original
+  - adblock plus
+  - ...
 - code editor
-  - [visual studio code](https://code.visualstudio.com/)
-  - [more...](https://bing.com/search?q=code+editor)
 
 ### writing filter
 
@@ -49,18 +43,17 @@ setup with **ublock original** + **visual studio code**, other are similar.
 8. paste the text to `[website name with lowercase and hyphen: sample-website].txt`.
 9. edit the file in the format below:
 
-   ```adp
-   ! [website name]
-   	! [website section 1]
-   		[filter 1]
-   		[filter 2]
-   		...
-   	! [website section 2]
-   		[filter 3]
-   		[filter 4]
-   		...
-   ```
+    ```adp
+    ! [website section 1]
+      [filter 1]
+      [filter 2]
+      ...
+    ! [website section 2]
+      [filter 3]
+      [filter 4]
+      ...
+    ```
 
 ### pull request
 
-after writing your filter, you can pull request to nothingblock [master branch](https://github.com/dorjmi/nothingblock/tree/master) with the description in [pull request template](../.github/pull_request_template.md) format.
+after writing your filter, you can pull request to nothingblock.

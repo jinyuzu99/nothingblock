@@ -13,15 +13,17 @@
 
 ## start
 
-add the url below to your [ad blocker](https://bing.com/search?q=ad+blocker) to use **all filter**. (or from [github](https://raw.githubusercontent.com/sayomelu/nothingblock/main/filter.txt))
+add the url below to your [blocker](https://github.com/topics/blocker) to use **all filter**. (or from [github](https://raw.githubusercontent.com/sayomelu/nothingblock/main/filter.txt))
 
-`https://cdn.jsdelivr.net/gh/sayomelu/nothingblock/filter.txt` 
+```
+https://cdn.jsdelivr.net/gh/sayomelu/nothingblock/filter.txt
+```
 
 to add **specific filter**, copy the filter below and paste to your ad blocker.
 
 ### support website
 
-to check all support website, please check [filter-item](/filter-item) folder.
+to check all support website, please check [filter-item](filter-item) folder.
 
 ## contribute
 
@@ -29,4 +31,4 @@ follow [contribute document](document/contribute.md) to make contribution.
 
 ## support
 
-to apply for new website, report problem, or ask for new feature, please [create a issue](https://github.com/dorjmi/nothingblock/issues/new).
+to apply for new website, report problem, or ask for new feature, please check [issue](issues).
