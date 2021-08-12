@@ -1,7 +1,10 @@
 ! home
 	bilibili.com##li.nav-link-item:nth-of-type(2)
+	bilibili.com##li.nav-link-item:nth-of-type(3)
 	bilibili.com##li.nav-link-item:nth-of-type(4)
+    bilibili.com##li.nav-link-item:nth-of-type(5)
 	bilibili.com##li.nav-link-item:nth-of-type(6)
+    bilibili.com##li.nav-link-item:nth-of-type(7)
 	bilibili.com##li.nav-link-item:nth-of-type(8)
 	bilibili.com##li.nav-link-item:nth-of-type(9)
 	bilibili.com##li.nav-link-item:nth-of-type(10)
@@ -15,6 +18,7 @@
 	bilibili.com##.contact-help
 	bilibili.com##.proxy-box
 	bilibili.com##.bili-icon_xinxi_UPzhu
+	bilibili.com##.van-popover.van-popper
 ! search
 	search.bilibili.com##.rocket-con
 ! player
