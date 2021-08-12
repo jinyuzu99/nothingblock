@@ -4,3 +4,5 @@
 ! answer
 	zhihu.com##.RelatedCommodities-title
 	zhihu.com##.RelatedCommodities-list
+! login
+	static.zhihu.com/heifetz/main.signflow.*.js

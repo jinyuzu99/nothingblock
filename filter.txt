@@ -2,7 +2,7 @@
 ! Title: nothingblock filter
 ! Description: block unnecessary web element to have 'nothing more to take away'.
 ! Homepage: https://github.com/dorjmi/nothingblock
-! Version: 2021.08.12.1903
+! Version: 2021.08.12.1910
 ! Expires: 7 days
 acfun.cn###appguideBox
 acfun.cn##.app-guide
@@ -535,3 +535,4 @@ zhihu.com##.Footer
 zhihu.com##.CornerButtons
 zhihu.com##.RelatedCommodities-title
 zhihu.com##.RelatedCommodities-list
+static.zhihu.com/heifetz/main.signflow.*.js
