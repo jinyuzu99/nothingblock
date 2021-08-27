@@ -2,7 +2,7 @@
 ! Title: nothingblock filter
 ! Description: block unnecessary web element to have 'nothing more to take away'.
 ! Homepage: https://github.com/dorjmi/nothingblock
-! Version: 2021.08.12.1910
+! Version: 2021.08.27.0947
 ! Expires: 7 days
 acfun.cn###appguideBox
 acfun.cn##.app-guide
@@ -128,6 +128,7 @@ bilibili.com##.proxy-box
 bilibili.com##.bili-icon_xinxi_UPzhu
 bilibili.com##.van-popover.van-popper
 search.bilibili.com##.rocket-con
+bilibili.com##.bilibili-player-video-top
 bilibili.com###live_recommand_report
 bilibili.com##.bilibili-player-video-message
 bilibili.com##.header-pay-banner

@@ -22,6 +22,7 @@
 ! search
 	search.bilibili.com##.rocket-con
 ! player
+	bilibili.com##.bilibili-player-video-top
 	bilibili.com###live_recommand_report
 	bilibili.com##.bilibili-player-video-message
 	bilibili.com##.header-pay-banner
