@@ -3,12 +3,9 @@ name: generate
 on: [push, pull_request]
 
 jobs:
-  macos_build:
-
+  generate:
     runs-on: ubuntu-latest
-
     steps:
-
       - name: checkout
         uses: actions/checkout@v2
         with:
@@ -23,4 +20,4 @@ jobs:
           git config user.email github-actions@github.com
           git add .
           git commit -m 'action generate'
-          git push origin main
+          git push
