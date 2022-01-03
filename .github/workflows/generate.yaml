@@ -1,0 +1,26 @@
+name: generate
+
+on: [push, pull_request]
+
+jobs:
+  macos_build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: generate
+        run: python3 ./generate.py
+
+      - name: push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m 'action generate'
+          git push origin main
