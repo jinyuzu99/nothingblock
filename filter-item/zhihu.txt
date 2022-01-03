@@ -6,3 +6,4 @@
 	zhihu.com##.RelatedCommodities-list
 ! login
 	static.zhihu.com/heifetz/main.signflow.*.js
+	static.zhihu.com/heifetz/column.signflow.*.js
