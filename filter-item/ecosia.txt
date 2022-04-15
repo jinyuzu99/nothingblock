@@ -1,0 +1,4 @@
+! home
+	www.ecosia.org##.banner
+	www.ecosia.org##.notifications-banner
+	www.ecosia.org##.card
