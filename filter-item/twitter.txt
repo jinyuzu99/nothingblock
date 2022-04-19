@@ -1,8 +1,0 @@
-! reply, retweet, like number
-twitter.com##.r-1udh08x.r-xoduu5
-! bottom right message
-twitter.com##.r-cgjvx2.css-1dbjc4n
-! right column
-twitter.com##.r-1ifxtd0
-! notification dot
-twitter.com##.r-12rgx7y
