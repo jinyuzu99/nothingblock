@@ -2,7 +2,7 @@
 ! Title: nothingblock filter
 ! Description: block unnecessary web element to have 'nothing more to take away'.
 ! Homepage: https://github.com/dorjmi/nothingblock
-! Version: 2022.04.15.0746
+! Version: 2022.04.19.0330
 ! Expires: 7 days
 acfun.cn###appguideBox
 acfun.cn##.app-guide
@@ -494,10 +494,6 @@ chaoshi.tmall.com###J_config
 chaoshi.tmall.com##.j_MostTop
 chaoshi.tmall.com##.market-feature
 chaoshi.tmall.com##.mui-global-footer-bottom-banner
-twitter.com##.r-1udh08x.r-xoduu5
-twitter.com##.r-cgjvx2.css-1dbjc4n
-twitter.com##.r-1ifxtd0
-twitter.com##.r-12rgx7y
 unsplash.com##li.xLon9._29OpZ:nth-of-type(1)
 unsplash.com##._3nvuJ
 unsplash.com##._2HBSG._1pgnK._24vCv
