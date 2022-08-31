@@ -13,10 +13,10 @@
 
 ## start
 
-add the url below to your [blocker](https://github.com/topics/blocker) to use **all filter**. (or from [github](https://raw.githubusercontent.com/sayomelu/nothingblock/main/filter.txt))
+add the url below to your [blocker](https://github.com/topics/blocker) to use **all filter**. (or from [github](https://raw.githubusercontent.com/anyuzu99/nothingblock/main/filter.txt))
 
 ```
-https://cdn.jsdelivr.net/gh/sayomelu/nothingblock/filter.txt
+https://cdn.jsdelivr.net/gh/anyuzu99/nothingblock/filter.txt
 ```
 
 to add **specific filter**, copy the filter below and paste to your ad blocker.
