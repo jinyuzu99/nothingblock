@@ -1,4 +1,4 @@
-# combine all filter-item into filter.txt.
+# combine all website into filter.txt.
 
 import os
 import re
@@ -10,13 +10,13 @@ head = """\
 [Adblock Plus 3.0]
 ! Title: NothingBlock filter
 ! Description: block unnecessary web element to have 'nothing more to take away'.
-! Homepage: https://github.com/dorjmi/nothingblock
+! Homepage: https://github.com/jinyuzu99/nothingblock
 ! Version: {version}
 ! Expires: 7 days""".format(version=time_version)
 
 # read item
 filter_list = ''
-item_dir = 'filter-item/'
+item_dir = 'website/'
 item_list = sorted(os.listdir(item_dir))
 
 for i in item_list:
