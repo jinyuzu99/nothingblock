@@ -8,7 +8,7 @@ time_version = time.strftime("%Y.%m.%d.%H%M", time.localtime())
 
 head = """\
 [Adblock Plus 3.0]
-! Title: nothingblock filter
+! Title: NothingBlock filter
 ! Description: block unnecessary web element to have 'nothing more to take away'.
 ! Homepage: https://github.com/dorjmi/nothingblock
 ! Version: {version}

@@ -1,61 +1,59 @@
-# contribute
+# Contribute
 
-## feedback
+## Feedback
 
-if you want to:
+If you want to:
 
-- ask question
-- report bug
-- request feature
-- vote for feature request
+- Ask question
+- Report bugs
+- Request feature
+- Vote for feature request
 
-please create or check issue to make contribution.
+Please create or check issue to make contribution.
 
-## contribute to code
+## Contribute to Code
 
-if you want to contribute directly to the code base, please follow the step below.
+If you want to contribute directly to the code base, please follow the steps below.
 
-### get the source
+### 1. Environment
+
+- Git
+- Web browser
+- Ad Blocker
+  - uBlock Origin
+  - other...
+- Code editor
+
+### 2. Get the Source
 
 ```
-git clone https://github.com/sayomelu/nothingblock
+git clone https://github.com/jinyuzu99/nothingblock
 ```
 
-### prerequisite
+### 3. Writing Filters
 
-- git
-- web browser
-- blocker
-  - ublock original
-  - adblock plus
-  - ...
-- code editor
+Setup with **uBlock Origin** + **Visual Studio Code**, others are similar.
 
-### writing filter
-
-setup with **ublock original** + **visual studio code**, other are similar.
-
-1. open the website you want to block on your **web browser** with **ad blocker** enabled.
-2. **secondary click** on the website element you want to block, then choose **block element**.
-3. find the appropriate fliter in **cosmetic filters**, then choose **preview** to check your fliter.
-4. choose **create** to create a new filter.
-5. repeat step **2** ~ **4** until there is nothing to block.
-6. go to **ad blocker** -> **dashboard** -> **my filter**, then copy all the filter.
-7. create and open a new `[website name with lowercase and hyphen: sample-website].txt` file in `nothingblock/item/` with **code editor**.
-8. paste the text to `[website name with lowercase and hyphen: sample-website].txt`.
-9. edit the file in the format below:
-
+1. Open the website you want to block on your **web browser** with **uBlock Origin** enabled.
+2. **Secondary click** on the website element you want to block, then choose **Block Element**.
+3. Find the appropriate fliter in **Cosmetic Filters**, then choose **Preview** to check your fliter.
+4. Choose **Create** to create a new filter.
+5. Repeat step **2** - **4** until there is nothing to block.
+6. Go to **uBlock Origin** -> **Dashboard** -> **My Filter**, then copy all the filter.
+7. Create and open a new `[website name with lowercase and hyphen: sample-website].txt` file in `nothingblock/website/` with ****.
+8. Paste the text to `[website name with lowercase and hyphen: sample-website].txt`.
+9. Edit the file in the format below:
     ```adp
-    ! [website section 1]
+    ! [Website Section 1]
       [filter 1]
       [filter 2]
       ...
-    ! [website section 2]
+    ! [Website Section 2]
       [filter 3]
       [filter 4]
       ...
     ```
 
-### pull request
+### 4. Pull Request
 
-after writing your filter, you can pull request to nothingblock.
+After writing your filters, you can pull request to NothingBlock.
