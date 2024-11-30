@@ -2,7 +2,7 @@
 ! Title: NothingBlock filter
 ! Description: block unnecessary web element to have 'nothing more to take away'.
 ! Homepage: https://github.com/jinyuzu99/nothingblock
-! Version: 2023.11.16.1315
+! Version: 2024.11.30.0411
 ! Expires: 7 days
 acfun.cn###appguideBox
 acfun.cn##.app-guide
@@ -233,14 +233,6 @@ www.ecosia.org##.notifications-banner
 www.ecosia.org##.card
 feedly.com###topHeaderBarFX
 feedly.com##.plan
-drive.google.com##.ub-ml-Pr.USrqEe-ml-Pr-qc-j
-google.*###fineprint-terms
-google.*###fineprint-rap-link
-google.*##.link-like
-photos.google.com##.NmWShc
-photos.google.com##.Jf3Kxd
-photos.google.com##.E9F9ef
-photos.google.com##.DNAsC:nth-of-type(5)
 google.*##.gb_Tf
 google.*##.gb_Of
 google.*###hptl
@@ -253,6 +245,14 @@ google.*###bres
 google.*##.kno-ftr
 google.*###footcnt
 google.*##.OJXvsb
+drive.google.com##.ub-ml-Pr.USrqEe-ml-Pr-qc-j
+google.*###fineprint-terms
+google.*###fineprint-rap-link
+google.*##.link-like
+photos.google.com##.NmWShc
+photos.google.com##.Jf3Kxd
+photos.google.com##.E9F9ef
+photos.google.com##.DNAsC:nth-of-type(5)
 icourse163.org###auto-id-1566466924917
 icourse163.org##.e-hover-source.m-head-right-more
 icourse163.org##.f-pr.f-fr.f3
