@@ -1,8 +1,8 @@
 [Adblock Plus 3.0]
 ! Title: NothingBlock filter
-! Description: block unnecessary web element to have 'nothing more to take away'.
+! Description: Block unnecessary web element to have 'Nothing more to take away'.
 ! Homepage: https://github.com/jinyuzu99/nothingblock
-! Version: 2024.11.30.0411
+! Version: 2024.11.30.0418
 ! Expires: 7 days
 acfun.cn###appguideBox
 acfun.cn##.app-guide
